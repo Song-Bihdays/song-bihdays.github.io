@@ -2701,6 +2701,7 @@ Stop_Calling_Me
 Strange_&_Beautiful_(I'll_Put_a_Spell_on_You)
 Stuck_in_My_Heart
 Swing,_Swing
+Tainted_(song)
 The_Taste_of_Ink
 There's_a_Whole_Lot_of_Loving
 A_Thousand_Miles
@@ -2957,6 +2958,7 @@ Redneck_Woman
 Routine_Check
 Rumors_(Lindsay_Lohan_song)
 Schnappi,_das_kleine_Krokodil
+Selfish_(Slum_Village_song)
 Shake_Dat_Shit
 She's_Hearing_Voices
 Shizukanaru_Melody
@@ -2979,7 +2981,6 @@ They_Can't_Take_That_Away
 Thru_the_Glass
 Tipsy_(song)
 Unholy_Confessions
-Used_to_Love_U
 Westside_Story_(song)
 What_About_Me_(Moving_Pictures_song)
 What_You_Waiting_For?

@@ -8,11 +8,11 @@ Made this because other song birthday websites just aren't complete and omit the
 ## Todo
 * Figure out which wiki categories are needed (and collect all page links under them)
   * [Songs by year](https://en.wikipedia.org/wiki/Category:Songs_by_year)
-    * [Eurovision songs by year](https://en.wikipedia.org/wiki/Category:Eurovision_songs_by_year) (some pages like [this](https://en.wikipedia.org/w/index.php?title=Terminal_3_(song)&oldid=1183360212) are not part of the songs categories themselves)
+    * [Eurovision songs by year](https://en.wikipedia.org/wiki/Category:Eurovision_songs_by_year) (some pages like [this](https://en.wikipedia.org/w/index.php?title=What_Love_Is_(song)&oldid=1164588474) are not part of the songs categories themselves)
     * [Year of song missing](https://en.wikipedia.org/wiki/Category:Year_of_song_missing) and [unknown](https://en.wikipedia.org/wiki/Category:Year_of_song_unknown) (just to be complete and safe)
     * Normal individual year categories (of course)
   * [Singles by year](https://en.wikipedia.org/wiki/Category:Singles_by_year) (every single is a song by definition, but **of course** there exist [some songs](https://en.wikipedia.org/w/index.php?title=B_Boy_Baby&oldid=1252921732) which are part of the singles category and not songs)
-    * [Debut singles by year]() (just in case, though some people have taken it upon themselves to address this (thanks!))
+    * [Debut singles by year](https://en.wikipedia.org/wiki/Category:Debut_singles_by_year) (just in case, though some people have taken it upon themselves to address this (thanks!))
   
     ![Richhoncho contribs](https://github.com/Song-Bihdays/song-bihdays.github.io/blob/main/images/Richhoncho%20contribs.jpg?raw=true)
     * Normal individual year categories (of course)

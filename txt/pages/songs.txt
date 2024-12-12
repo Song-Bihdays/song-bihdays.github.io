@@ -3,7 +3,6 @@ Aaj_Jaane_Ki_Zid_Na_Karo
 Aaj_Rang_Hai
 Ah_Dede_Vah_Dede
 Allahu_Akbar_(Lounès_Matoub_song)
-Das_Altbierlied
 Aluga-se
 Another_Night_in_Tunisia
 Aragua_State_Anthem
@@ -146,6 +145,7 @@ Little_Armalite
 Luar_do_Sertão
 La_Madelon
 Magic_to_Do
+Makkana_Taiyō
 Mansion_Over_the_Hilltop
 Memories_(Hugh_Hopper_song)
 Missing_You_(Christy_Moore_song)
@@ -164,11 +164,9 @@ Ooh_I_Do
 Oop_Bop_Sh'Bam
 Open_Pit_Mine
 The_Orange_and_the_Green
-Owl_Creek_Quickstep
 Pong_Savada_Khmer
 The_Private's_Letter
 Rado_ide_Srbin_u_vojnike
-Red_Hot_Sun
 La_Renaissance
 Revolution_Rock
 Rifles_of_the_I.R.A._(song)
@@ -241,7 +239,6 @@ Ahcik
 Ahesta_Bero
 Ai_bylbylyum
 Aiken_Drum
-Ain't_Got_No_Home_(Woody_Guthrie_song)
 Aj,_kolika_je_Jahorina_planina
 'Ajde_Jano
 Akita_Ondo
@@ -254,8 +251,6 @@ All_My_Trials
 All_the_Pretty_Little_Horses
 Allez_regrets
 Amazonas_State_Anthem
-Amed_nesîm-i_subh-dem
-Amorgos_Sousta
 An_Alarc'h
 An_Ciarraíoch_Mallaithe
 Anders_Petters_stuga
@@ -280,7 +275,7 @@ Baby,_Please_Don't_Go
 Babylon_(ballad)
 The_Badger_Drive
 The_Baffled_Knight
-Bahay_Kubo_(folk_song)
+Bahay_Kubo_(song)
 Báidín_Fheilimí
 The_Bailiff's_Daughter_of_Islington
 Bald_Headed_Woman
@@ -407,6 +402,7 @@ Come_Thou_Almighty_King
 The_Coolin
 Coridon_and_Parthenia
 Cotton-Eyed_Joe
+Coulter's_Candy
 Country_Gardens
 The_Crabfish
 The_Crafty_Farmer
@@ -493,10 +489,10 @@ Ela_San_To_Tzivaeri
 The_Elfin_Knight
 Elijah_Rock
 Elmaların_yongası
-Elmalıya_Yangınım
 Elveskud
 The_Enniskillen_Dragoon
 Eremwu_eu
+Eriskay_Love_Lilt
 Esmer_Kızlar_Edalı
 España_cañí
 Every_Time_I_Feel_the_Spirit
@@ -915,7 +911,7 @@ There_Was_a_Crooked_Man
 There_Was_an_Old_Woman_Who_Lived_Under_a_Hill
 There's_a_Good_Time_Coming
 There's_a_Meeting_Here_Tonight
-They're_moving_Father's_grave_to_build_a_sewer
+They're_Moving_Father's_Grave_to_Build_a_Sewer
 This_Endris_Night
 This_Little_Light_of_Mine
 This_Little_Piggy
@@ -1019,7 +1015,7 @@ Wor_Nanny's_a_mazer
 Wor_Peg's_Trip_te_Tynemouth
 The_World_Turned_Upside_Down
 Worried_Man_Blues
-Wśród_nocnej_ciszy
+Midst_Quiet_Night
 The_Wylie_Wife_of_the_Hie_Toun_Hie
 Xekina_Mia_Psaropoula
 Yagibushi
@@ -1029,7 +1025,6 @@ Yarmouth_Town
 Yelli
 The_Yellow_Rose_of_Texas_(song)
 Yemenimde_hare_var
-Yirise
 You_Gotta_Move_(song)
 Young_Andrew
 Young_Beichan
@@ -1144,12 +1139,15 @@ Taffy_was_a_Welshman
 Category:1782_songs
 Bardengesang_auf_Gibraltar:_O_Calpe!_Dir_donnert's_am_Fuße
 Blest_Be_the_Tie_that_Binds
+Bunt_sind_schon_die_Wälder
 Comin'_Thro'_the_Rye
 Crawford's_Defeat_by_the_Indians
+The_Queen_of_Hearts_(poem)
 
 Category:1784_songs
 Jesus_Christ_the_Apple_Tree
 Plaisir_d'amour
+There_Was_an_Old_Woman_Who_Lived_in_a_Shoe
 
 Category:1785_songs
 Das_Veilchen
@@ -1187,7 +1185,7 @@ La_Marseillaise
 Ritson's_Bishopric_Garland_or_Durham_Minstrel_1792
 
 Category:1794_songs
-There_Was_an_Old_Woman_Who_Lived_in_a_Shoe
+
 
 Category:1795_songs
 Hosianna,_Davids_son
@@ -1277,7 +1275,6 @@ Var_hälsad,_sköna_morgonstund
 
 Category:1820_songs
 The_Banks_of_Newfoundland
-The_Farmer_in_the_Dell
 Ride_On,_Ride_On_in_Majesty!
 Sønner_av_Norge
 
@@ -1302,6 +1299,7 @@ Hydrophobie_(song)
 
 Category:1826_songs
 Christus_ist_erstanden!_O_tönt
+The_Farmer_in_the_Dell
 Nightingale_(Alyabyev_song)
 O_du_fröhliche
 The_Pitman's_Pay
@@ -1329,6 +1327,7 @@ Warszawianka_(1831)
 
 Category:1832_songs
 Clare_de_Kitchen
+Fürsten_zum_Land_Hinaus!
 How_Firm_a_Foundation
 I_Loved_You_(Dargomyzhsky_song)
 Ihr_Kinderlein,_kommet
@@ -1403,6 +1402,7 @@ Miss_Lucy_Long
 O_lieb,_so_lang_du_lieben_kannst
 O'Donnell_Abú
 Old_Dan_Tucker
+Polly_Wolly_Doodle
 Walk_Along_John
 
 Category:1844_songs
@@ -1789,7 +1789,6 @@ The_Little_Old_Sod_Shanty_on_the_Claim
 Maple_on_the_Hill
 O_Canada
 Pe-al_nostru_steag_e_scris_Unire
-Polly_Wolly_Doodle
 Sailing,_Sailing
 Softly_and_Tenderly
 Songs_My_Mother_Taught_Me_(Dvořák)
@@ -1933,7 +1932,7 @@ Six_Partsongs
 Syracuse_University_Alma_Mater
 Under_the_Double_Eagle
 The_Volunteer_Organist
-When_The_Roll_Is_Called_Up_Yonder
+When_the_Roll_Is_Called_Up_Yonder
 When_the_Work's_All_Done_This_Fall
 
 Category:1894_songs
@@ -2071,7 +2070,6 @@ We_Shall_Overcome
 
 Category:1901_songs
 Always_and_Everywhere
-Amur_gawa_no_ryuketsu_ya
 The_Battle_Hymn_of_the_Republic,_Updated
 Boys_the_Old_Flag_Never_Touched_the_Ground
 Come,_Gentle_Night!
@@ -2224,7 +2222,7 @@ Harrigan_(song)
 Have_Thine_Own_Way,_Lord
 He_Goes_to_Church_on_Sunday
 The_Heart's_Awakening
-Honey_Boy_(song)
+Honey_Boy_(1907_song)
 I_Do_Like_to_Be_Beside_the_Seaside
 I'm_Afraid_to_Come_Home_in_the_Dark
 In_the_Land_of_the_Buffalo
@@ -2347,6 +2345,7 @@ Casey_Jones—the_Union_Scab
 Church,_I'm_Fully_Saved_To-Day
 The_Connecticut_March
 Core_'ngrato
+Cup_of_Solid_Gold
 Dwelling_in_Beulah_Land
 Elsässisches_Fahnenlied
 Farther_Along_(song)
@@ -3312,7 +3311,6 @@ The_Mooche
 Nagasaki_(song)
 O_Cameroon,_Cradle_of_Our_Forefathers
 Oh,_So_Nice!
-On_the_Jericho_Road
 Pinetop's_Boogie_Woogie
 Pirate_Jenny
 A_Precious_Little_Thing_Called_Love
@@ -3458,6 +3456,7 @@ Clarksdale_Moan
 Confessin'
 La_Cuisinière
 Dancing_on_the_Ceiling_(1930_song)
+Dreaming_of_My_Indiana_Sweetheart
 Egyptian_Ella
 Everybody_Ought_to_Treat_a_Stranger_Right
 Exactly_Like_You_(song)
@@ -3502,6 +3501,7 @@ My_Baby_Just_Cares_for_Me
 Nine_Little_Miles_from_Ten-Ten-Tennessee
 On_the_Sunny_Side_of_the_Street
 Our_Don_Bradman
+P'ra_Você_Gostar_de_Mim
 Parlez-moi_d'amour_(song)
 Please_Don't_Talk_About_Me_When_I'm_Gone
 A_Porter's_Love_Song_to_a_Chambermaid
@@ -3675,6 +3675,8 @@ My_Mom_(Walter_Donaldson_song)
 My_Woman_(1932_song)
 New_Orleans_(Hoagy_Carmichael_song)
 Night_and_Day_(song)
+Old_Yazoo
+Parlami_d'amore_Mariù
 The_Russian_Pedlar
 Say_It_Isn't_So_(Irving_Berlin_song)
 Silencio_(Rafael_Hernández_song)
@@ -3793,6 +3795,7 @@ Himno_a_León
 I_Get_a_Kick_Out_of_You
 I_Never_Had_a_Chance
 I_Only_Have_Eyes_for_You
+I_Want_to_Be_a_Cowboy's_Sweetheart
 I_Won't_Dance
 If_(They_Made_Me_a_King)
 Ill_Wind_(song)
@@ -3863,7 +3866,6 @@ Goodbye_(Gordon_Jenkins_song)
 Harlem_Chapel_Chimes
 I_Got_Plenty_o'_Nuttin'
 I_Loves_You,_Porgy
-I_Want_to_Be_a_Cowboy's_Sweetheart
 I_Wished_on_the_Moon
 I'm_Gonna_Sit_Right_Down_and_Write_Myself_a_Letter
 I'm_in_the_Mood_for_Love
@@ -3922,6 +3924,7 @@ Where_the_Arches_Used_to_Be
 
 Category:1936_songs
 A_las_Barricadas
+Bad_Boy_(The_Jive_Bombers_song)
 Bewildered
 Billie's_Blues
 By_Strauss
@@ -3945,7 +3948,7 @@ Freiheit_(song)
 Gee,_But_You're_Swell
 Get_Thee_Behind_Me_Satan
 Glad_to_Be_Unhappy
-The_Glory_of_Love_(song)
+The_Glory_of_Love_(Benny_Goodman_song)
 Goodnight_My_Love_(1936_song)
 Goody_Goody
 The_Great_Speckled_Bird_(song)
@@ -4316,6 +4319,7 @@ March_of_the_Soviet_Tankmen
 The_Merry_Old_Land_of_Oz
 Moonlight_Serenade
 My_Prayer
+A_Preta_do_Acarajé
 O_Que_É_Que_A_Baiana_Tem?
 On_a_Little_Street_in_Singapore
 Our_Love_(1939_song)
@@ -4364,6 +4368,7 @@ Zai_Na_Yaoyuan_De_Difang
 Category:1940_songs
 L'Accordéoniste
 After_Hours_(Avery_Parrish_song)
+Ain't_Got_No_Home_(Woody_Guthrie_song)
 All_Too_Soon
 Angel_in_Disguise_(1940_song)
 Be_Honest_with_Me
@@ -4634,8 +4639,8 @@ Mr._Hitler
 Moon_Dreams
 Moonlight_Becomes_You_(song)
 Moonlight_Cocktail
-Niet_Molotoff
 A_Night_in_Tunisia
+Njet_Molotoff
 On_the_Swing_Shift
 Paper_Doll_(Mills_Brothers_song)
 Parabéns_a_Você
@@ -4760,6 +4765,7 @@ Sunday,_Monday,_or_Always
 The_Surrey_with_the_Fringe_on_Top
 Sweet_Slumber
 The_Technical_Training_Command
+The_Lady_in_the_Tutti_Frutti_Hat
 To_Keep_My_Love_Alive
 Uno_(Enrique_Santos_Discépolo_and_Mariano_Mores_song)
 Uz_Maršala_Tita
@@ -4791,6 +4797,7 @@ Ev'ry_Time_We_Say_Goodbye
 Ey_Iran
 G.I._Jive
 Gå_upp_och_pröva_dina_vingar
+Give_Me_a_Band_and_a_Bandana
 Good_Bait
 Hamp's_Boogie_Woogie
 Have_Ya_Got_Any_Gum,_Chum?
@@ -5087,6 +5094,7 @@ To_Each_His_Own_(Jay_Livingston_and_Ray_Evans_song)
 To_My_Sorrow
 Water_Baby_Blues
 Wave_to_Me,_My_Lady
+We_Left_Slowly
 Wealth_Won't_Save_Your_Soul
 When_God_Comes_and_Gathers_His_Jewels
 When_You_Leave,_Don't_Slam_the_Door
@@ -5324,6 +5332,7 @@ Tom,_Dick_or_Harry_(song)
 Too_Darn_Hot
 A_Tree_in_the_Meadow
 Trizonesien-Song
+We_Left_Slowly
 While_the_Angelus_Was_Ringing
 Why_Can't_You_Behave?
 William_Tell_Overture_(Spike_Jones_song)
@@ -5356,7 +5365,7 @@ Count_On_Me_(Frank_Sinatra_song)
 Crazy_He_Calls_Me
 Daddy's_Little_Girl
 The_Deacon's_Hop
-Dear_Brother_(Hank_Williams_song)
+Dear_Brother_(song)
 Dear_Hearts_and_Gentle_People
 Diamonds_Are_a_Girl's_Best_Friend
 Dirty_Old_Town
@@ -5650,7 +5659,7 @@ Happy_Trails_(song)
 Heart_Strings_(Eddy_Arnold_song)
 Hello,_Young_Lovers_(song)
 A_Home_in_Heaven
-How_I_Got_Over
+How_I_Got_Over_(song)
 How_Many_More_Years
 Howlin'_at_the_Moon
 I_Can't_Escape_from_You_(Hank_Williams_song)
@@ -5749,7 +5758,6 @@ Wheel_of_Fortune_(1951_song)
 (Why_Did_I_Tell_You_I_Was_Going_To)_Shanghai
 With_These_Hands_(song)
 Wonder_Why_(song)
-Yeah_Yeah_Yeah_(Louis_Prima_song)
 
 Category:1952_songs
 5-10-15_Hours
@@ -6204,6 +6212,7 @@ Tweedlee_Dee
 Two_Hearts_(The_Charms_song)
 Wake_Up_Irene
 Walk,_Don't_Run_(instrumental)
+A_Whale_of_a_Tale
 Whatcha_Gonna_Do_Now
 When_It_Rains,_It_Really_Pours
 Whither_Thou_Goest
@@ -6213,7 +6222,6 @@ You_All_Goodnight
 You_Better_Not_Do_That
 You_Can't_Have_My_Love
 You're_a_Heartbreaker
-You're_in_My_Heart_(George_Jones_song)
 Young_and_Foolish
 
 Category:1955_songs
@@ -6550,6 +6558,7 @@ New_York's_My_Home
 Next_Time_You_See_Me
 Night_Lights_(Nat_King_Cole_song)
 Non,_je_ne_regrette_rien
+Nothing's_Too_Good_For_My_Baby_(Louis_Prima_song)
 Now_You_Has_Jazz
 Oh,_What_a_Night_(The_Dells_song)
 On_the_Street_Where_You_Live
@@ -6559,7 +6568,7 @@ Padre_(song)
 Paralyzed_(Elvis_Presley_song)
 The_Party's_Over_(1956_song)
 Petticoats_of_Portugal
-Please,_Please,_Please
+Please,_Please,_Please_(James_Brown_song)
 Poor_Boy_(Elvis_Presley_song)
 A_Poor_Man's_Roses_(Or_a_Rich_Man's_Gold)
 Priscilla_(Eddie_Cooley_song)
@@ -7441,6 +7450,7 @@ Mr._Blue
 Mom,_Take_Care_of_Yourself!
 Money_(That's_What_I_Want)
 Money_to_Burn_(George_Jones_song)
+More_Than_I_Can_Say
 Morgen_(Ivo_Robić_song)
 Mountain_of_Love
 My_Darling_Is_Gone
@@ -7768,7 +7778,6 @@ A_Million_to_One
 Mission_Bell_(Donnie_Brooks_song)
 Mr._Custer
 Mon_Dieu
-More_Than_I_Can_Say
 Must_Be_Santa_(song)
 My_Girl_Josephine
 My_Heart_Has_a_Mind_of_Its_Own
@@ -8185,6 +8194,7 @@ Sea_of_Heartbreak
 Seasons_in_the_Sun
 Senza_Fine
 Seven_Day_Fool
+Shake_the_Hand_of_a_Fool
 Shake_Your_Moneymaker_(song)
 She_Called_Me_Baby
 A_Shot_of_Rhythm_and_Blues
@@ -8426,7 +8436,6 @@ Honey_(Open_That_Door)
 Hotel_Happiness
 Houdini_(Walter_Brennan_song)
 How_Can_I_Meet_Her?
-How_Can_I_Not_Love_You,_Kyiv_of_Mine!
 How_Is_Julie?
 How's_My_Ex_Treating_You
 I_Couldn't_Cry_If_I_Wanted_To
@@ -8510,6 +8519,7 @@ Le_Mali
 Mama_Sang_a_Song
 La_mamma_(song)
 (The_Man_Who_Shot)_Liberty_Valance
+Manuelita_la_tortuga
 Marieke_(song)
 Mashed_Potato_Time
 Mashed_Potatoes_U.S.A.
@@ -8700,6 +8710,7 @@ Wonderful_to_Be_Young
 The_Wonderful_World_of_the_Young
 Working_for_the_Man_(song)
 World_of_Forgotten_People
+Yak_tebe_ne_liubyty,_Kyieve_mii!
 You_Beat_Me_to_the_Punch
 You_Can't_Judge_a_Book_by_the_Cover
 You_Need_Love_(Muddy_Waters_song)
@@ -8804,6 +8815,7 @@ Do_You_Really_Love_Me_Too
 Do_You_Want_to_Know_a_Secret
 Dominique
 Don't_Bother_Me
+Don't_Cheat_in_Our_Hometown
 Don't_Make_My_Baby_Blue
 Don't_Say_Goodnight_and_Mean_Goodbye
 Don't_Say_Nothin'_Bad_(About_My_Baby)
@@ -8972,7 +8984,7 @@ Make_the_World_Go_Away
 Marguerita
 Maria_No_Mas
 Martian_Hop
-Mas_que_Nada
+Mas_que_nada
 Masters_of_War
 The_Matador_(Johnny_Cash_song)
 Mathilde_(song)
@@ -10719,7 +10731,7 @@ Mama_(B._J._Thomas_song)
 A_Man_Without_Love
 Many_Happy_Hangovers_to_You
 Mary,_Mary_(song)
-Mas_que_Nada
+Mas_que_nada
 Matthew_and_Son
 Mauthausen_Trilogy
 Mellow_Yellow
@@ -10767,6 +10779,7 @@ No._Fourteen
 Nobody_but_a_Fool_(Would_Love_You)
 Nobody_Needs_Your_Love
 Nobody's_Baby_Again
+Nothing's_Too_Good_For_My_Baby_(Stevie_Wonder_song)
 Nowadays_Clancy_Can't_Even_Sing
 Nun_lässest_du,_o_Herr
 Obviously_5_Believers
@@ -11145,7 +11158,7 @@ Close_Another_Door
 Cold_Sweat
 Colonel_Hathi's_March_(The_Elephant_Song)
 Come_Back_When_You_Grow_Up
-Come_Spy_with_Me_(The_Miracles_song)
+Come_Spy_with_Me_(song)
 Comin'_Back_to_Me
 Comme_d'habitude
 Comme_un_garçon
@@ -11616,6 +11629,7 @@ Ruby_Tuesday_(song)
 Rula_Ke_Gaya_Sapna_Mera
 Run_for_Cover_(Lee_Perry_song)
 Sadie_(The_Cleaning_Lady)
+A_Sailor_Went_to_Sea
 Saint_Vincent,_Land_so_Beautiful
 Sam's_Place
 Samba_Pa_Ti
@@ -11641,7 +11655,6 @@ Shilo_(song)
 Show_Me_(Joe_Tex_song)
 Silas_Stingy
 Silly_Boy_Blue
-Silver_Tree_Top_School_for_Boys
 Simon_Says_(1910_Fruitgum_Company_song)
 Simon_Smith_and_the_Amazing_Dancing_Bear
 Sing_Me_Back_Home_(song)
@@ -12836,6 +12849,7 @@ Down_from_Dover
 Down_on_the_Corner
 Dr._Who_(Bongo_Hermann_song)
 Drivin'_(The_Kinks_song)
+Du_rufst_uns,_Herr,_an_deinen_Tisch
 Durham_Town_(The_Leavin')
 The_Eagle_Laughs_at_You
 Early_in_the_Morning_(Vanity_Fare_song)
@@ -12916,6 +12930,7 @@ Gypsy_(Of_a_Strange_and_Distant_Time)
 Hallelujah_(Deep_Purple_song)
 Hands_of_the_Clock
 Happy_Heart
+Härlig_Är_Vår_Jord
 Have_You_Heard_(The_Moody_Blues_song)
 Have_You_Heard_the_Word
 He_Ain't_Heavy,_He's_My_Brother
@@ -12990,7 +13005,7 @@ If_You_Walkin'_Alone
 Ikebukuro_no_Yoru
 Il_primo_giorno_di_primavera
 In_Hiding_(Genesis_song)
-In_Limbo_(song)
+In_Limbo_(Genesis_song)
 In_the_Bad_Bad_Old_Days_(Before_You_Loved_Me)
 In_the_Beginning_(Genesis_song)
 In_the_First_Place
@@ -13052,6 +13067,7 @@ Life_(Elvis_Presley_song)
 Life's_Little_Ups_and_Downs
 Lights_of_Cincinnati
 The_Liquidator_(instrumental)
+Lisa_dagli_occhi_blu
 Listen_to_the_Band_(song)
 Little_Doll
 Little_Green_Bag
@@ -14024,6 +14040,7 @@ My_Woman,_My_Woman,_My_Wife
 N.I.B.
 Natural_Sinner
 Neanderthal_Man_(song)
+Never_Can_Say_Goodbye
 New_Age_(The_Velvet_Underground_song)
 New_Speedway_Boogie
 New_World_Coming
@@ -14847,7 +14864,6 @@ Nathan_Jones_(song)
 The_Needle_and_the_Damage_Done
 Nellie_Takes_Her_Bow
 Never_Been_to_Spain
-Never_Can_Say_Goodbye
 Never_Dreamed_You'd_Leave_in_Summer
 Never_Ending_Song_of_Love
 New_York_City_(You're_a_Woman)_(song)
@@ -14942,6 +14958,7 @@ Sad_Situation
 Sag_ja_zu_mir,_wenn_alles_nein_sagt
 Sam_Stone_(song)
 San_Tropez_(song)
+Sands_of_Time_(song)
 Sangria_(Art_Zoyd_song)
 Saoco_(Mongo_Santamaría_song)
 Saturday_Morning_Confusion
@@ -15283,7 +15300,7 @@ Clair_(song)
 The_Class_of_'57
 Close_to_the_Edge_(song)
 Clyde_(song)
-Come_Early_Morning_(Bob_McDill_song)
+Come_Early_Morning_(song)
 Come_Out,_Ye_Black_and_Tans
 Common_Law_Wife
 La_Complainte_de_l'heure_de_pointe
@@ -15557,7 +15574,7 @@ A_Man_Needs_a_Maid_(song)
 Manhattan,_Kansas_(song)
 Marching_On_Together
 Maybe_I'm_a_Leo
-Maybe_This_Time_(song)
+Maybe_This_Time_(Kander_and_Ebb_song)
 Me_and_Jesus_(Tom_T._Hall_song)
 Me_and_Mrs._Jones
 Mebae
@@ -16852,6 +16869,7 @@ Costafine_Town
 Country_Bumpkin
 Country_Is
 Crash_Course_in_Brain_Surgery
+Creepin'_(Stevie_Wonder_song)
 Cross_the_Track_(We_Better_Go_Back)
 The_Crude_Oil_Blues
 Cruisin'_Music
@@ -17233,7 +17251,7 @@ The_Needle_and_the_Spoon
 Never_Let_Her_Go_(song)
 Never_Say_Goodbye_(Bob_Dylan_song)
 Never_Turn_Your_Back_on_Mother_Earth
-Nevermore_(song)
+Nevermore_(Queen_song)
 The_Night_Chicago_Died
 No_Charge
 No_Love_in_the_Room
@@ -17358,6 +17376,7 @@ Same_Old_Song_and_Dance
 Sandra_(song)
 Saturday_Gigs
 Saturday_Night_Special_(Lynyrd_Skynyrd_song)
+Save_Me_(Silver_Convention_song)
 Scared_(John_Lennon_song)
 Scarlet_(song)
 Scarlet_Begonias
@@ -17543,6 +17562,7 @@ When_the_Lights_Are_Out
 When_the_Morning_Comes_(song)
 Where_Did_All_the_Good_Times_Go
 White_Queen_(As_It_Began)
+Who_by_Fire_(song)
 Whole_Wide_World_(song)
 Wildwood_Weed
 Will_You_Touch_Me
@@ -17749,6 +17769,7 @@ Dream_Weaver
 Dreaming_a_Dream
 Dreaming_from_the_Waist
 Dreaming_My_Dreams_with_You
+Dreams_of_You
 Dreamy_Lady
 Drive_Back
 Dry_Land
@@ -17830,6 +17851,7 @@ Had_a_Dream_(For_the_Heart)
 Hafanana
 Hair_of_the_Dog_(song)
 The_Happiness_of_Having_You_(song)
+Happy_Christmas_to_you_from_me
 Happy_to_Be_on_an_Island_in_the_Sun
 Har_du_glömt
 The_Hard_Way_(The_Kinks_song)
@@ -18066,6 +18088,7 @@ Money_Honey_(Bay_City_Rollers_song)
 Moonlight_Feels_Right
 Moonlighting_(Leo_Sayer_song)
 More_and_More_(Carly_Simon_song)
+More,_More,_More
 Motels_and_Memories
 Mother_(A_Chorus_Line_song)
 Motorhead_(song)
@@ -18233,6 +18256,7 @@ Song_for_America_(song)
 The_Song_We_Fell_in_Love_To_(song)
 Sono_Ki_ni_Sasenaide_(song)
 Sons_of_Summer
+Sorry_Doesn't_Always_Make_It_Right
 SOS_(ABBA_song)
 A_Spaceman_Came_Travelling
 Spiral_Galaxy_28948
@@ -18589,7 +18613,6 @@ Dum_Dum_Diddle
 Dusic
 El_Diablo_(ZZ_Top_song)
 El_Paso_City
-Emerald_(Thin_Lizzy_song)
 Enjoy_Yourself_(The_Jacksons_song)
 Erk_Gah
 The_Eternal_Kansas_City
@@ -18787,7 +18810,7 @@ Kung_Fu_Girls
 The_Lady's_Got_Potential
 Lament_(1976_song)
 Las_Brisas_(Ringo_Starr_song)
-Laser_Love_(T._Rex_song)
+Laser_Love_(song)
 The_Last_Resort_(Eagles_song)
 Last_Romance
 Lay_Back_in_the_Arms_of_Someone
@@ -18825,7 +18848,6 @@ Love_and_Affection
 Love_and_Other_Bruises
 Love_at_First_Feel
 Love_Ballad_(L.T.D._song)
-Love_Hangover
 Love_in_the_Shadows_(Neil_Sedaka_song)
 Love_Is_Blind_(Janis_Ian_song)
 (Love_Is)_Thicker_Than_Water
@@ -18864,7 +18886,7 @@ Mon_amour_(BZN_song)
 Mongoloid_(song)
 Moody_Blue_(song)
 More_Than_a_Feeling
-More,_More,_More
+Movin'_(Brass_Construction_song)
 Mr._Cool_(Kevin_Ayers_song)
 The_Muppet_Show_Theme
 Music_(John_Miles_song)
@@ -19043,6 +19065,7 @@ A_Strange_Boy
 Strawberry_Cake_(song)
 Street_Singin'
 Sub-Rosa_Subway
+Summer_(War_song)
 Summer,_Highland_Falls
 Superstar_(Paul_Davis_song)
 Surrender_(Cheap_Trick_song)
@@ -19443,6 +19466,7 @@ Gettin'_Ready_for_Love
 Ghost_Rider_(Suicide_song)
 Giant_(Stan_Rogers_song)
 Giorni
+Girlfriend_(Paul_McCartney_song)
 Girls'_School_(song)
 Give_a_Little_Bit
 Give_Me_Some_Skin
@@ -19463,6 +19487,7 @@ Goodbye_Toulouse
 The_Grand_Illusion_(song)
 The_Greatest_Love_of_All
 (Get_A)_Grip_(On_Yourself)
+The_Groove_Line
 Guenerina
 Gypsies_in_Flight
 Gypsy_Roadhog
@@ -19691,6 +19716,7 @@ May_the_Force_Be_with_You_Always
 Me_and_Little_Andy
 Mediterranean_Sundance
 Metal_on_Metal_(song)
+Mi_vendo
 Miss_America_(Styx_song)
 Miss_Sun
 Modern_Love_(Peter_Gabriel_song)
@@ -19835,6 +19861,7 @@ Sense_of_Doubt
 Serpentine_Fire
 Sex_&_Drugs_&_Rock_&_Roll
 Shake_It_(Iain_Matthews_song)
+Shame_(Evelyn_"Champagne"_King_song)
 Shattered_(song)
 She_Did_It
 She's_Always_a_Woman
@@ -20103,7 +20130,6 @@ All_the_Young_Punks
 All_You_Need_Is_the_Music_(song)
 Ally's_Tartan_Army
 Almost_Summer_(song)
-Alone_in_the_Endzone
 Alternative_Ulster_(song)
 An_American_Dream_(song)
 American_Jerusalem
@@ -20233,6 +20259,7 @@ Descendants_of_the_Dragon
 Desire_(Bee_Gees_song)
 Destiny_(The_Jacksons_song)
 Deutscher_Girls
+Dhagala_Lagali_Kala
 Digital_(Joy_Division_song)
 The_Dignity_of_Labour
 Do_or_Die_(Grace_Jones_song)
@@ -20333,7 +20360,6 @@ Gianna_(song)
 Gimme_a_Bullet
 Gimme_Some_Water
 Girl_Goodbye
-Girlfriend_(Paul_McCartney_song)
 The_Girls_Want_to_Be_With_the_Girls
 Give_a_Little_Love_(Golden_Harvest_song)
 Give_Thanks_with_a_Grateful_Heart
@@ -20356,7 +20382,6 @@ Grandma's_Song
 Grease_(song)
 The_Great_Rock_'n'_Roll_Swindle_(song)
 Grey_Cortina
-The_Groove_Line
 Guns_on_the_Roof
 Gut_Feeling
 Had_Enough_(The_Who_song)
@@ -20731,7 +20756,6 @@ Shake_Your_Body_(Down_to_the_Ground)
 Shake_Your_Groove_Thing
 Shakedown_Street_(song)
 Shama_Lama_Ding_Dong
-Shame_(Evelyn_"Champagne"_King_song)
 She_Believes_in_Me
 She_Can_Put_Her_Shoes_Under_My_Bed_(Anytime)
 She's_Gonna_Win
@@ -20864,6 +20888,7 @@ Tran-Sister
 Tranquillo_(Melt_My_Heart)
 Transmission_(song)
 The_Trees_(Rush_song)
+Triangolo
 Trick_of_the_Light_(The_Who_song)
 Trojan_Horse_(song)
 Truth_Hits_Everybody
@@ -21402,6 +21427,7 @@ If_You_Believe_(George_Harrison_song)
 If_You_Remember_Me
 If_You_Want_Blood_(You've_Got_It)
 If_You_Want_It_(Niteflyte_song)
+Il_carrozzone
 In_No_Time_at_All
 In_the_City_(Joe_Walsh_song)
 In_the_Evening
@@ -21419,6 +21445,7 @@ It's_Different_for_Girls
 It's_Like_We_Never_Said_Goodbye
 It's_My_House
 It's_Not_You_(The_Cure_song)
+It's_Raining_Men
 It's_the_Falling_in_Love
 Jail_Guitar_Doors
 Jane_(Jefferson_Starship_song)
@@ -21534,6 +21561,7 @@ Man_Gave_Names_to_All_the_Animals
 Mañana,_Mañana
 Manifesto_(Roxy_Music_song)
 Mariage_d'amour
+Married_Men
 Martin_Eden_(Billie_Hughes_song)
 Mary_Ann_(Black_Lace_song)
 The_Mary_Ellen_Carter
@@ -21646,6 +21674,7 @@ Ooh,_La,_La_(1979_song)
 Ooh,_What_a_Life_(song)
 Ooh,_Yes_I_Do
 Oops_Up_Side_Your_Head
+Ore_Neel_Doriya_Amay_De_Re_De_Chhariya
 Our_People_(song)
 Out_of_Control_(U2_song)
 Out_of_the_Blue_(The_Angels_song)
@@ -21721,7 +21750,6 @@ Rheinita
 Ricky_Wants_a_Man_of_Her_Own
 Ricominciamo
 Ride_Like_the_Wind
-Riding_Away
 The_Right_Profile
 Ring_My_Bell
 Ringo_no_Ki_ni_Kakurenbo
@@ -21756,6 +21784,7 @@ Satellit
 Satellite_(Def_Leppard_song)
 Saturday_Nite_Is_Dead
 Savage_Lover
+Save_Me_a_Place
 Say_I_Love_You_(song)
 Score_(song)
 Second_Time_Around_(Electric_Light_Orchestra_song)
@@ -22000,6 +22029,7 @@ You_Gonna_Make_Me_Love_Somebody_Else
 You_Know_How_to_Love_Me_(song)
 You_Know_That_I_Love_You_(Santana_song)
 You_Make_Me_Feel_So_Free
+You_Might_Need_Somebody
 You_Pick_Me_Up_(And_Put_Me_Down)
 You_Take_My_Breath_Away_(Rex_Smith_song)
 You're_a_Better_Man_Than_I
@@ -22054,6 +22084,7 @@ Alone_with_You_(Sunnyboys_song)
 Am_I_Evil?
 Amanda_(Boston_song)
 America_(Neil_Diamond_song)
+Amico_(song)
 Amigo_(Black_Slate_song)
 Amor_Amor_(José_José_song)
 Amoureux_solitaires
@@ -22531,6 +22562,7 @@ If_You_Should_Sail
 If_You_Want_My_Lovin'
 If_You're_Lookin'_for_a_Way_Out
 In_America_(song)
+In_the_Air_Tonight
 In_the_Beginning_There_Was_Rhythm_/_Where_There's_a_Will...
 In_Your_Letter
 Independence_Day_(Bruce_Springsteen_song)
@@ -22660,6 +22692,7 @@ Love_to_Love_You_(Cristy_Lane_song)
 Love_Will_Tear_Us_Apart
 Love_X_Love
 Lovely_One
+Lover_(Roxy_Music_song)
 A_Lover's_Holiday
 Lovers_Live_Longer
 Loving_Up_a_Storm_(Razzy_Bailey_song)
@@ -22714,6 +22747,7 @@ My_Cherry_Is_in_Sherry
 My_Friend_(Neil_Sedaka_song)
 My_Heart_(Ronnie_Milsap_song)
 My_Home's_in_Alabama_(song)
+My_Mother's_Eyes_(song)
 My_Number_One_(Luv'_song)
 My_Old_Piano
 My_Old_Yellow_Car
@@ -22801,6 +22835,7 @@ People_(Mi-Sex_song)
 Phantom_of_the_Opera_(Iron_Maiden_song)
 The_Piper_(song)
 Planet_Earth_(Duran_Duran_song)
+Play_It_Safe
 Play_the_Game_(song)
 Point_Blank_(Bruce_Springsteen_song)
 Police_Truck
@@ -23190,7 +23225,6 @@ You_Like_Me_Don't_You
 You_Lookin'_At_Me_Lookin'_At_You
 You_Make_My_Dreams
 You_May_Be_Right
-You_Might_Need_Somebody
 You_Shook_Me_All_Night_Long
 You'll_Accomp'ny_Me
 You'll_Always_Find_Me_in_the_Kitchen_at_Parties
@@ -23367,6 +23401,7 @@ Cowboys_Don't_Shoot_Straight_(Like_They_Used_To)
 Crazy_(Keep_On_Falling)
 Cruiser_(song)
 Cruisin'_the_Streets
+Cryin'_My_Heart_Out_for_You
 Cuccurucucù
 Da_Da_Da
 Då_lyser_en_sol
@@ -23744,6 +23779,7 @@ Man_on_the_Corner
 Man_on_Your_Mind
 Maneater_(Hall_&_Oates_song)
 Manhattan_Melody
+March_for_the_Beloved
 The_Matador_(Sylvia_song)
 Matte_Kudasai
 Maybe_(Sharon_O'Neill_song)
@@ -23834,6 +23870,7 @@ On_Through_the_Night_(song)
 On_with_the_Show_(Mötley_Crüe_song)
 One_Hundred_Ways
 One_in_Ten
+One_More_Chance_(Diana_Ross_song)
 One_of_Those_Nights_(Bucks_Fizz_song)
 One_of_Us_(ABBA_song)
 One_on_One_(song)
@@ -24297,6 +24334,7 @@ Allentown_(song)
 'Allo_'Allo_(theme_song)
 Almost_Blue_(song)
 Almost_with_You
+Always_Unknowing
 The_American_Dream_(song)
 American_Heartbeat
 The_Analog_Kid
@@ -24319,7 +24357,6 @@ Atme_in_uns,_Heiliger_Geist
 Atom_Tan
 Atomic_Dog
 Avalon_(Roxy_Music_song)
-Baby_Be_Mine_(Michael_Jackson_song)
 Baby_Don't_Run_Away
 Baby_Makes_Her_Blue_Jeans_Talk
 Baby_Step_Back
@@ -24472,7 +24509,6 @@ Don't_Look_Back_(Gary_Morris_song)
 Don't_Look_Back_(The_Korgis_song)
 Don't_Lose_Your_Cool_(song)
 Don't_Make_Me_Wait_(Peech_Boys_song)
-Don't_Mess_Up_This_Good_Thing
 Don't_Pay_the_Ferryman
 Don't_Plan_on_Sleeping_Tonight
 Don't_Tell_Me_You_Love_Me
@@ -24727,6 +24763,7 @@ In_the_Name_of_Love_(Thompson_Twins_song)
 In_the_Neighborhood
 Inconsciente_colectivo
 Incredibilmente_donna
+India_(instrumental)
 India_(Roxy_Music_song)
 Industrial_Disease_(song)
 Inoculated_City
@@ -24750,7 +24787,6 @@ It's_Alright_(Yoko_Ono_song)
 It's_Hard_(song)
 It's_Passion
 It's_Raining_Again
-It's_Raining_Men
 Jack_&_Diane
 Jag_vill_leva_i_Europa
 Jamaica_(Bobby_Caldwell_song)
@@ -24856,6 +24892,7 @@ Make_Believe_(Toto_song)
 Make_Love_Stay
 Making_Love_(song)
 Making_Love_from_Memory_(song)
+Making_Love_Out_of_Nothing_at_All
 Mamma_Maria
 Man_Out_of_Time
 Man_Overboard_(Do-Re-Mi_song)
@@ -24898,7 +24935,7 @@ Music_and_Lights
 Music_for_Chameleons_(song)
 My_Camera_Never_Lies
 My_City_Was_Gone
-My_Father's_House_(Bruce_Springsteen_song)
+My_Father's_House_(song)
 My_Jamaican_Guy
 My_Kind_of_Lady
 My_Man_(Yoko_Ono_song)
@@ -25384,6 +25421,7 @@ Zion's_Daughter
 Zoom_(Fat_Larry's_Band_song)
 
 Category:1983_songs
+(Hey_You)_The_Rock_Steady_Crew
 ½_no_Shinwa
 2-30
 4:30_AM_(Apparently_They_Were_Travelling_Abroad)
@@ -25391,6 +25429,7 @@ Category:1983_songs
 9-9
 40_(song)
 99_Luftballons
+1950_(Amedeo_Mighi_song)
 2000_Miles
 A_Dream_(DeBarge_song)
 Action!_Not_Words
@@ -25474,6 +25513,7 @@ Bet'cha_Gonna_Need_My_Lovin'
 Between_the_Sheets_(song)
 Big_Apple_(song)
 The_Big_Crash
+Big_in_Japan_(Alphaville_song)
 Big_Log
 Biggest_Part_of_Me_(Pantera_song)
 Billy's_Got_a_Gun
@@ -25597,7 +25637,6 @@ Dolce_Vita_(song)
 Don't_Answer_Me
 Don't_Be_My_Enemy
 Don't_Box_Me_In
-Don't_Cheat_in_Our_Hometown
 Don't_Count_the_Rainy_Days
 Don't_Cry_(Asia_song)
 Don't_Forget_to_Dance
@@ -25673,6 +25712,7 @@ Four_Little_Diamonds
 Fraction_Too_Much_Friction
 Främling_(song)
 Freak_(Bruce_Foxton_song)
+Freak-A-Zoid
 Freewheel_Burning
 Front_Line_(song)
 Galaxy_Song
@@ -25735,7 +25775,6 @@ Here_We'll_Stay
 Here's_to_the_Band
 The_Hero's_Return
 Hey_Hey_(Paul_McCartney_song)
-(Hey_You)_The_Rock_Steady_Crew
 Hide_and_Seek_(Howard_Jones_song)
 High_Life_(song)
 High_on_Emotion
@@ -25847,6 +25886,7 @@ It_Can_Happen
 It's_a_Fine_Day
 It's_a_Miracle_(Culture_Club_song)
 It's_Christmas_in_Heaven
+It's_Gonna_Be_Special
 It's_Like_That_(Run-D.M.C._song)
 It's_So_Nice_to_Be_Rich
 It's_Your_Move_(song)
@@ -25973,7 +26013,6 @@ Make_My_Day_(T._G._Sheppard_and_Clint_Eastwood_song)
 Make_Your_Move_(Rainbow_song)
 Making_Flippy_Floppy
 Making_It_Work
-Making_Love_Out_of_Nothing_at_All
 Malibu_Beach_Nightmare
 Mama_(Genesis_song)
 Mama_He's_Crazy
@@ -26094,6 +26133,7 @@ Only_Dreams
 Only_in_Miami
 Only_the_Young_(Journey_song)
 Only_Thinking
+Only_You_(Commodores_song)
 Ooh_to_Be_Ah
 Openhearted
 Operator,_Operator
@@ -26107,6 +26147,7 @@ Our_Town_(Marshall_Crenshaw_song)
 Out_of_Sight,_Out_of_Mind_(song)
 Over_My_Head_(Toni_Basil_song)
 Ozark_Mountain_Jubilee
+Painted_Picture
 Papa,_Can_You_Hear_Me?
 Paradise_Tonight
 Paranoid_Eyes
@@ -26295,6 +26336,7 @@ Street_Talk_(song)
 Struggle_for_Pleasure
 Stuck_on_Love
 Stuck_on_You_(Lionel_Richie_song)
+Subways_of_Your_Mind
 Sucker_DJ
 Sucker_M.C.'s
 Suddenly_Last_Summer_(song)
@@ -26386,6 +26428,7 @@ Tragedy_and_Mystery
 Train_of_Gold
 Transfer_Affection
 Trashed_(Black_Sabbath_song)
+Trees_and_Flowers
 Tres_Veces_No
 The_Trooper
 Try_a_Little_Something_New
@@ -26446,7 +26489,6 @@ We_All_Stand
 We_Are_Detective
 We_Didn't_See_a_Thing
 We_Two_(song)
-We're_the_Chipmunks
 The_Weapon_(Rush_song)
 West_of_the_Fields
 Weus'd_a_Herz_hast_wia_a_Bergwerk
@@ -26540,6 +26582,7 @@ Category:1984_songs
 7_Chinese_Bros.
 10-9-8
 17_Days_(song)
+25_Lovers
 80's_Romance
 Absolute_(song)
 Ace_of_Hearts_(Chris_Rea_song)
@@ -26623,7 +26666,6 @@ Bewahre_uns,_Gott
 Big_Blue_World
 Big_City_Nights_(song)
 Big_Girls
-Big_in_Japan_(Alphaville_song)
 The_Big_Music
 Big_on_Love
 Bitter_Desire
@@ -26797,6 +26839,7 @@ Escape_(Metallica_song)
 Everyday_(The_Oak_Ridge_Boys_song)
 Everything_Must_Change_(song)
 Everything_She_Wants
+Excellent_Birds
 Eye_of_a_Hurricane_(song)
 Eye_to_Eye_(Chaka_Khan_song)
 Eyes_(song)
@@ -27343,6 +27386,7 @@ Restless_(Elton_John_song)
 Rico_Mambo
 The_Riddle_(Nik_Kershaw_song)
 Rime_of_the_Ancient_Mariner_(song)
+Ring_of_Ice
 Ritmo_Salsa
 Road_to_Nowhere
 Robin_(The_Hooded_Man)
@@ -27515,7 +27559,7 @@ Teardrops_(Shakin'_Stevens_song)
 Tears_(John_Waite_song)
 Tell_Me_I'm_Not_Dreamin'_(Too_Good_to_Be_True)
 Tell_Me_What_You_Want
-Tenderness_(song)
+Tenderness_(General_Public_song)
 Tennessee_Homesick_Blues
 Terra_promessa
 Tesla_Girls
@@ -27565,6 +27609,7 @@ Tricks_of_the_Light
 True_Men_Don't_Kill_Coyotes
 Trust_Me_(I'm_Talking_song)
 Tsugunai_(song)
+Tú_con_Él
 Tumble_and_Twirl
 Turn_On_the_News
 Turn_to_Gold
@@ -27711,7 +27756,6 @@ Ages_of_You
 Ainda_É_Cedo
 Akaitori_Nigeta
 Alive_and_Kicking_(song)
-All_at_Once_(Whitney_Houston_song)
 All_Eyes_on_You_(Peter_Frampton_song)
 All_Fall_Down_(Five_Star_song)
 All_I_Can_Be_(Is_a_Sweet_Memory)
@@ -28203,6 +28247,7 @@ It's_Only_Over_for_You
 It's_Over_Now_(Luther_Vandross_song)
 It's_Your_Reputation_Talkin'
 Ivory_Tower_(Van_Morrison_song)
+Janet_(song)
 Janey,_Don't_You_Lose_Heart
 Japanese_Lovesong
 Je_marche_seul
@@ -28410,6 +28455,7 @@ No_Place_to_Go_(song)
 No_Promises_(Icehouse_song)
 Nobody_Falls_Like_a_Fool
 Nobody_Wants_to_Be_Alone_(song)
+Nocturne_(Bryan_Ferry_song)
 Noi,_ragazzi_di_oggi
 North_and_South_(The_Clash_song)
 Not_the_Only_One_(Fiction_Factory_song)
@@ -28752,6 +28798,7 @@ Under_a_Raging_Moon_(song)
 Under_Ice
 Uno,_dos,_ultraviolento
 V2_(song)
+Valentine_(Bryan_Ferry_song)
 Valhalla_(Pantera_song)
 Vanity_Kills
 Velcro_Fly
@@ -28849,7 +28896,7 @@ You_Can_Dream_of_Me
 You_Can_Win_If_You_Want
 You_Can't_Dance
 You_Did_Cut_Me
-You_Got_It_All_(The_Jets_song)
+You_Got_It_All
 You_Got_Me_Going_Again
 You_Little_Thief
 You_Make_Me_Feel_Like_a_Man
@@ -28963,7 +29010,7 @@ The_Bed_You_Made_for_Me
 Before_Too_Long
 Begin_the_Begin
 Behind_the_Wall_of_Sleep_(The_Smithereens_song)
-Bello_e_Impossibile
+Bello_e_impossibile
 Best_of_Both_Worlds_(Van_Halen_song)
 Big_Day_(song)
 Big_Man_on_Mulberry_Street
@@ -29060,7 +29107,7 @@ Cry_Wolf_(A-ha_song)
 Cuyahoga_(song)
 Daddies_Need_to_Grow_Up_Too
 Damage,_Inc.
-Dame_Tu_Amor_(song)
+Dame_Tu_Amor
 Dame_Un_Beso_(Selena_song)
 Dance_with_Me_(Alphaville_song)
 Dancing_on_the_Ceiling_(Lionel_Richie_song)
@@ -29148,6 +29195,7 @@ Everybody_Have_Fun_Tonight
 Everybody's_Crazy_'Bout_My_Baby
 Everyday_(Julian_Lennon_song)
 Everything's_on_Fire
+Excellent_Birds
 Experiment_IV
 Facts_of_Love
 Fade_to_Black_(Flotsam_and_Jetsam_song)
@@ -29207,7 +29255,7 @@ Give_Me_Peace_on_Earth
 Give_Me_the_Reason_(song)
 Give_Me_Up
 Give_Me_Wings
-Glory_of_Love
+Glory_of_Love_(Peter_Cetera_song)
 Go_See_the_Doctor
 (Pop,_Pop,_Pop,_Pop)_Goes_My_Mind
 Goin'_to_the_Bank
@@ -29491,6 +29539,7 @@ Magic_Dance
 Magkaisa
 The_Magnificent_Jazzy_Jeff
 Makafushigi_Adventure!
+Male_Stripper
 Man_Against_the_World
 Man_Size_Love
 The_Man_Who_Sailed_Around_His_Soul
@@ -29516,7 +29565,8 @@ Mind_at_the_End_of_the_Tether
 The_Miracle_of_Love
 Mirage_(Scotch_song)
 Misfit_(Curiosity_Killed_the_Cat_song)
-Missionary_Man_(Eurythmics_song)
+Miss_Polly_Had_a_Dolly
+Missionary_Man_(song)
 Modern_Day_Cowboy
 Modern_Woman
 Modigliani_(Lost_in_Your_Eyes)
@@ -29577,7 +29627,7 @@ Now_and_Forever_(You_and_Me)
 Ocean_Front_Property_(song)
 Oh_Darlin'_(Why_Don't_You_Care_for_Me_No_More)
 Oh_King_Richard
-Oh_L'amour
+Oh_l'amour
 Oh,_People
 Oh,_Arkansas
 Old_Bridges_Burn_Slow
@@ -29782,6 +29832,7 @@ Soul_Standing_By
 The_Sound_of_Musik
 South_Bronx_(song)
 Speed_of_the_Sound_of_Loneliness
+Spokoynaya_nochʹ
 Spring_Rain_(The_Go-Betweens_song)
 Square_Dance_Rap
 Stairs_and_Flowers
@@ -30021,6 +30072,7 @@ You_Should_Be_Mine_(The_Woo_Woo_Song)
 You_Should_Have_Been_Gone_by_Now
 You_Still_Move_Me
 You're_Gonna_Get_Hurt
+You're_Gonna_Get_Yours
 You're_My_Only_Shinin'_Star
 You're_Never_Too_Old_for_Young_Love
 You're_Still_New_to_Me
@@ -30091,6 +30143,7 @@ Are_You_Still_in_Love_with_Me
 Armageddon_It
 Arrow_Through_the_Heart
 Arthur's_Farm
+Ashwini_Ye_Na
 Asimbonanga
 Ay_Amor_(Ana_Gabriel_song)
 Baa_Baa_Bamba
@@ -30210,6 +30263,7 @@ Cinderella_(Vince_Gill_song)
 Circle_in_the_Sand
 The_Circus_(song)
 City_Flat
+City_of_Crime_(song)
 Cloud_9_(George_Harrison_song)
 Come_As_You_Are_(Peter_Wolf_song)
 Come_Back_and_Stay_(Bad_Boys_Blue_song)
@@ -30254,7 +30308,6 @@ Devil_Inside_(INXS_song)
 Devil's_Radio
 Devils_Ball
 Diamonds_(Herb_Alpert_song)
-Dickie_Davies_Eyes
 Did_Ye_Get_Healed?
 Didn't_We_Almost_Have_It_All
 Dil_Dil_Pakistan
@@ -30306,7 +30359,7 @@ Efter_stormen_(song)
 Ei_ole_üksi_ükski_maa
 Eighteen_Wheels_and_a_Dozen_Roses
 El_harba_wine
-Electric_Blue_(Icehouse_song)
+Electric_Blue_(song)
 Endless_Summer_Nights
 Un_enfant_de_toi
 Englishman_in_New_York
@@ -30477,7 +30530,7 @@ I_Just_Can't_Wait
 I_Know_Where_I'm_Going_(The_Judds_song)
 I_Know_You_Got_Soul_(Eric_B._&_Rakim_song)
 I_Live_for_Your_Love
-I_Maschi
+I_maschi
 I_Might_Lie
 I_Need_a_Man_(Eurythmics_song)
 I_Owe_You_Nothing
@@ -31088,6 +31141,7 @@ The_Tide_Is_Turning
 Time_and_Tide_(Basia_song)
 A_Time_for_Heroes
 Time_In_(song)
+Time_Makes_a_Wine
 Time_Stand_Still_(song)
 Tina_Cherry
 To_Be_with_You_Again
@@ -31211,7 +31265,6 @@ You_Will_Know
 You_Win_Again_(Bee_Gees_song)
 You're_a_Good_Man_Albert_Brown_(Curse_You_Red_Barrel)
 You're_All_I_Need_(song)
-You're_Gonna_Get_Yours
 You're_My_First_Lady
 You're_No_Good_for_Me
 (You're_Puttin')_A_Rush_on_Me
@@ -31219,6 +31272,7 @@ You're_the_One_(Sandeé_song)
 Young_Country
 Your_Dad_Did
 Your_Love_(Tammy_Wynette_song)
+Zamba_(song)
 Zig_Zag_(song)
 Zindagi_Meri_Dance_Dance
 
@@ -31420,7 +31474,7 @@ Crazy_Babies
 Crescent_City_(song)
 Crime_in_the_City_(Sixty_to_Zero_Part_I)
 Cross_My_Heart_(Eighth_Wonder_song)
-Cross_the_Breeze
+'Cross_the_Breeze
 Crucial_(song)
 Cry_(Waterfront_song)
 Cry_in_Shame
@@ -31870,7 +31924,6 @@ Look_My_Way_(Kylie_Minogue_song)
 Look_Out_Any_Window
 The_Look
 Lookin'_for_Love_(Diesel_song)
-Looking_for_Freedom_(song)
 Looking_for_Linda
 Loosey's_Rap
 Lost_Chronicles
@@ -32190,11 +32243,12 @@ Soul_Revival
 Soul_Searchin'_(Glenn_Frey_song)
 The_Sound_of_the_Atom_Splitting
 South_Africa_(song)
+Spelling_on_the_Stone
 Spring_Love_(Come_Back_to_Me)
 Stakker_Humanoid
 Stand_(R.E.M._song)
 Stand_Up_for_Your_Love_Rights
-Static_(song)
+Static_(James_Brown_song)
 Stay_on_These_Roads_(song)
 Stay_with_Me_Tonight_(Quiet_Riot_song)
 Staying_Together_(song)
@@ -32353,6 +32407,7 @@ Wanna_Be_Up
 The_War_I_Survived
 Was_There_Anything_I_Could_Do?
 Wastelands_of_Sleep
+Watchin'_U
 Watching_You_(Loose_Ends_song)
 Water_(Martika_song)
 The_Way_to_Your_Heart
@@ -32436,6 +32491,7 @@ You're_Not_Alone_(Australian_Olympians_song)
 You're_Not_Alone_(Chicago_song)
 You're_Not_My_Kind_of_Girl
 Your_Memory_Wins_Again
+Zakroy_za_mnoy_dver',_ya_uhozhu
 A_Zillion_Kisses
 Zvezda_po_imeni_Solntse_(song)
 
@@ -32490,6 +32546,7 @@ Angelia_(song)
 Angillette
 Another_Day_in_Paradise
 Anthem_(N-Joi_song)
+Any_Other_Fool
 Any_Way_the_Wind_Blows_(Southern_Pacific_song)
 Anything_But_Lonely
 Anytime_(McAuley_Schenker_Group_song)
@@ -32622,7 +32679,7 @@ La_Cima_del_Cielo
 Closer_Than_Friends
 Club_at_the_End_of_the_Street
 Cockamamie_Business
-Cold_Hearted_(Paula_Abdul_song)
+Cold_Hearted
 Cold_World_(Steve_"Silk"_Hurley_song)
 Come_Anytime
 Come_Back_to_Me_(Indecent_Obsession_song)
@@ -32636,6 +32693,7 @@ Condemned_System
 Coney_Island_(Van_Morrison_song)
 Contigo_Quiero_Estar
 Corporation_Pull-In
+Cosa_resterà_degli_anni_'80
 Cotton_Pickin'_Time
 Counting_Every_Minute
 Country_Club_(song)
@@ -32757,6 +32815,7 @@ Everything_But_My_Pride
 Everything_Is_Broken
 Everything_Starts_with_an_'E'
 Everything_You_Do_(You're_Sexing_Me)
+Evidências
 Express_Yourself_(Madonna_song)
 Expression_(song)
 A_Face_in_the_Crowd_(Tom_Petty_song)
@@ -33310,7 +33369,6 @@ The_Only_One_(Transvision_Vamp_song)
 Open_Your_Eyes_(Julian_Lennon_song)
 Opiated_(song)
 Orangefield_(song)
-Ordinary_Lives
 Original_Sin_(Taylor_Dayne_song)
 The_Other_Side_(Aerosmith_song)
 Où_est_le_Soleil?
@@ -33675,6 +33733,7 @@ Walk_On_(Reba_McEntire_song)
 Walk_Straight_Down_the_Middle
 Walkin'_Away_(Clint_Black_song)
 Was_It_Nothing_at_All
+Watch_Out_My_Children
 Waterfall_(The_Stone_Roses_song)
 Wave_of_Mutilation
 Way_Cool_Jr.
@@ -33819,7 +33878,6 @@ Ain't_Necessarily_So
 Aishiterutte_Iwanai!
 Aku_no_Hana_(song)
 Alcanzar_una_estrella_(song)
-All_die_ganzen_Jahre
 All_Dressed_Up_for_School
 All_I'm_Missing_Is_You
 All_in_Your_Mind
@@ -34107,6 +34165,7 @@ Every_Little_Thing_(Jeff_Lynne_song)
 Everybody_Move
 Everyone_Needs_Love
 Everything_I_Wanted_(The_Bangles_song)
+Evidências
 Exclusivity_(song)
 F.R.C._(song)
 Face_Facts_(song)
@@ -34396,6 +34455,8 @@ King_of_Wishful_Thinking
 Kinky_Afro
 Kissing_Gate_(song)
 Knockin'_Boots_(Candyman_song)
+Kogda_tvoya_devushka_bolʹna
+Konchitsya_leto
 Kono_Machi
 Kool_Thing
 Kore_kara_no_I_Love_You
@@ -34687,6 +34748,7 @@ Rhythm_of_Love_(Kylie_Minogue_song)
 Rico_Suave_(song)
 Ride_the_Bullet
 Ride_the_Wind_(song)
+Riding_into_Blue_(Cowboy_Song)
 The_Right_Combination_(song)
 Right_Here,_Right_Now_(Jesus_Jones_song)
 Rise_(Daryl_Braithwaite_song)
@@ -34884,7 +34946,6 @@ This_So-Called_Miracle
 This_Time_(Patricia_Conroy_song)
 This_Time_Make_It_Funky
 Three_Babies
-Three_Days_(Jane's_Addiction_song)
 The_Thunder_Rolls
 Thunderstruck_(song)
 Thursday's_Child_(Tanita_Tikaram_song)
@@ -35093,6 +35154,7 @@ Across_the_Universe_(Holly_Johnson_song)
 The_Actor_(Michael_Learns_to_Rock_song)
 Addams_Groove
 Addictive_Love
+AEIOU_(Moana_and_the_Moahunters_song)
 After_the_Watershed_(Early_Learning_the_Hard_Way)
 Again_Tonight
 Against_the_Wind_(Bonnie_Tyler_song)
@@ -35229,7 +35291,7 @@ Bro_Hymn
 Buenos_Amigos
 The_Bug
 Built_to_Last_(Tom_Petty_and_the_Heartbreakers_song)
-Burn_Me_Down_(Marty_Stuart_song)
+Burn_Me_Down_(song)
 Butterfly_(Lloyd_Cole_song)
 By_the_Time_I_Get_to_Arizona
 Ça_ne_change_pas_un_homme_(song)
@@ -35607,6 +35669,7 @@ If_Looks_Could_Kill_(Transvision_Vamp_song)
 If_My_Homie_Calls
 If_the_Jukebox_Took_Teardrops_(Billy_Joe_Royal_song)
 If_There_Hadn't_Been_You
+If_You_Don't_Start_Drinkin'
 If_You_Have_to_Ask
 If_You_Want_It_(2nd_II_None_song)
 If_You_Want_to_Find_Love
@@ -35754,7 +35817,6 @@ Love_Don't_Come_Easy
 Love_Is_a_Beautiful_Thing_(Al_Green_song)
 Love_Is_a_Wonderful_Thing_(Michael_Bolton_song)
 Love_Is_Blindness
-Love_Is_the_Groove
 Love_Junk_(song)
 (Love_Moves_in)_Mysterious_Ways
 Love_Story_wa_Totsuzen_ni
@@ -36105,7 +36167,6 @@ Somewhere_(Soundgarden_song)
 Sommaren_i_city
 Soul_to_Squeeze
 Sound_(song)
-The_Sound_of_Your_Voice
 Space_(I_Believe_In)
 The_Sparrows_and_the_Nightingales
 Speed_(Buck-Tick_song)
@@ -36165,6 +36226,7 @@ Tennessee_(Arrested_Development_song)
 Territorial_Pissings
 Texarkana_(song)
 That's_What_Love_Can_Do
+The_Sound_of_Your_Voice
 Then_Again_(song)
 Then_Came_You_(T.P.E._song)
 Then_You_Turn_Away
@@ -36281,7 +36343,7 @@ Welcome_to_the_Cheap_Seats
 What_About_Tomorrows_Children
 What_Can_You_Do_for_Me
 What_Comes_Naturally_(song)
-What_If_(Reba_McEntire_song)
+What_If_(Brenda_K._Starr_song)
 What_Is_This_Thing_Called_Love?_(Alexander_O'Neal_song)
 What_the_Fuck_Are_We_Saying?
 What_Were_You_Thinkin'
@@ -36357,6 +36419,7 @@ You_Could_Be_Mine
 You_Couldn't_Get_the_Picture
 You_Don't_Count_the_Cost
 You_Have_the_Right_to_Remain_Silent_(song)
+You_Love_Us
 You_Remind_Me
 You_Saw_My_Blinker
 You_Took_My_Love
@@ -36382,7 +36445,6 @@ Above_Me
 Abriendo_las_puertas_al_amor
 Accidently_Kelly_Street
 Ache_(No_Doubt_song)
-Adam_in_Chains
 Afraid_to_Shoot_Strangers
 Africa_(Voodoo_Master)
 After_All_These_Years_(Ringo_Starr_song)
@@ -36672,6 +36734,7 @@ Everyone_Wins
 Everything's_Gonna_Be_Alright_(Father_MC_song)
 Everything's_Ruined
 Everytime_We_Touch_(Maggie_Reilly_song)
+Evidências
 Evidencias_(Ana_Gabriel_song)
 Evil_Dick
 Expander_(song)
@@ -36697,6 +36760,7 @@ Fingertips_'93
 Fire/Jericho
 Fistful_of_Steel
 Floods_of_Tears
+Fly_Forever_(Mezarkabul_song)
 Fools_Lullaby
 Footsteps_(Pearl_Jam_song)
 For_Celebrations_Past
@@ -37040,6 +37104,7 @@ Love_In_Vein
 Love_Is_(Vanessa_Williams_and_Brian_McKnight_song)
 Love_Is_Holy
 Love_Is_On_the_Way_(song)
+Love_Is_the_Groove
 Love_Me_the_Right_Way
 Love_No_Limit
 Love_of_My_Life_(Carly_Simon_song)
@@ -37069,6 +37134,7 @@ Make_Love_Like_a_Man
 Mama_Knows_the_Highway
 Man_on_the_Moon_(song)
 March_Forward,_Dear_Mother_Ethiopia
+Mare_mare
 Maria_Mercedes_(song)
 Marigold_(Dave_Grohl_song)
 Martin_Scorsese_(song)
@@ -37084,7 +37150,6 @@ Megamix_(Gloria_Estefan_song)
 Mending_Fences_(song)
 Metal_Mickey_(song)
 Methadone_Pretty
-Metropolis_(Metropolis_song)
 Metropolis—Part_I:_"The_Miracle_and_the_Sleeper"
 Mic_Checka
 Midlife_Crisis
@@ -37501,6 +37566,7 @@ Te_Dejo_Libre
 Te_Felicito_(Grupo_Mojado_song)
 Tear_It_Up_(On_Our_Worst_Behavior)
 Tearing_(song)
+Tearing_My_Soul_Apart
 Tears_in_the_Rain_(song)
 Tears_of_the_World
 Teen_Angst_(What_the_World_Needs_Now)
@@ -37682,7 +37748,6 @@ Why_(Annie_Lennox_song)
 Why_Me?_(Linda_Martin_song)
 Why's_It_So_Hard
 Wicked_(Ice_Cube_song)
-Wicked_Garden
 Wild_Man_(Ricky_Van_Shelton_song)
 Wild_One_(Faith_Hill_song)
 Wind_It_Up_(Rewound)
@@ -37710,7 +37775,6 @@ You_Don't_Treat_Me_No_Good
 You_Got_Love
 You_Know_What_I_Like
 You_Lied_to_Me
-You_Love_Us
 You_Make_the_Whole_World_Cry
 You_Make_the_Whole_World_Smile
 You_Say_You_Will
@@ -37748,6 +37812,7 @@ ABC-123
 Abdel_Kader_(song)
 Above_the_Rim_(song)
 Achy_Breaky_Song
+Adam_in_Chains
 Adam's_Ribs_(song)
 Adda_Lee
 Addicted_to_a_Dollar
@@ -37835,6 +37900,7 @@ Backwater_(song)
 A_Bad_Goodbye
 Baknaffek
 Bandidos_da_América_(song)
+Il_battito_animale
 The_Battle_Is_the_Lord's
 Be_Happy_(Mary_J._Blige_song)
 The_Bear_Song
@@ -37950,7 +38016,7 @@ Cold_Cold_Heart_(Wet_Wet_Wet_song)
 Cold_Fire_(song)
 Colors_of_Love_(Lisa_Fischer_song)
 Colour_of_Your_Jumper
-Combo_on_the_Run_(Eraserheads_song)
+Combo_on_the_Run
 Come_Baby_Come
 Come_Clean_(Jeru_the_Damaja_song)
 Come_On_and_Do_It
@@ -38130,7 +38196,6 @@ Flow_Joe
 Flow_On
 Flower_(Liz_Phair_song)
 Footprints_(Half_Man_Half_Biscuit_song)
-For_Better_or_Worse_(Debbie_Gibson_song)
 För_kärlekens_skull
 For_Tomorrow_(song)
 For_What_You_Dream_Of
@@ -39122,6 +39187,7 @@ Welcome_to_This_World
 Wild_Wood_(Paul_Weller_song)
 Were_You_Really_Livin'
 What_a_Crying_Shame_(song)
+What_a_Woman_Wants
 What_About_Love_(The_Desert_Rose_Band_song)
 What_About_Us_(Jodeci_song)
 What_Godzilla_Said_to_God_When_His_Name_Wasn't_Found_in_the_Book_of_Life
@@ -39169,6 +39235,7 @@ Why_Can't_I_Wake_Up_with_You
 Why_Didn't_I_Think_of_That
 Why_Don't_That_Telephone_Ring
 Why_Must_We_Wait_Until_Tonight
+Wicked_Garden
 Wild_Women_(song)
 Will_We_Be_Lovers
 Will_You_Be_There_(In_the_Morning)
@@ -39262,8 +39329,8 @@ Ami_Banglay_Gaan_Gai
 Amor_Prohibido_(song)
 Amy's_Back_in_Austin
 Anata_wo_Kanjiteitai
-Anchor_Me_(The_Mutton_Birds_song)
-And_Still
+Anchor_Me_(song)
+And_Still_(Reba_McEntire_song)
 Andres_(song)
 An_Angel
 Anger_(downset._song)
@@ -39301,6 +39368,7 @@ Badhead
 Ball_Tongue
 The_Ballad_of_Oz
 Baluchitherium_(song)
+Banal_Na_Aso,_Santong_Kabayo
 Bang_and_Blame
 Basket_Case_(song)
 Bato_(Eraserheads_song)
@@ -39533,6 +39601,7 @@ Don't_Let_It_Go_to_Your_Head_(Chantay_Savage_song)
 Don't_Stop_(Madonna_song)
 Don't_Stop_(Wiggle_Wiggle)
 Don't_Take_the_Girl
+Don't_Want_to_Know
 Doop_(song)
 Dope_Hat
 Down_4_Whateva
@@ -39636,6 +39705,7 @@ Fotos_y_Recuerdos
 The_Foz
 Fråga_stjärnorna
 Freak_like_Me
+Freedom_(Theme_from_Panther)
 Freek'n_You
 Fresh_Tendrils
 Front,_Back,_Side_to_Side
@@ -39764,7 +39834,7 @@ Hold_On_to_Your_Friends
 Holiday_(Weezer_song)
 Homophobia_(song)
 Hoochie_Booty
-Hook_(Blues_Traveler_song)
+Hook_(song)
 Hook_Me_Up_(CDB_song)
 Hooligan's_Holiday
 Hope_(Our_Lady_Peace_song)
@@ -40064,6 +40134,7 @@ Mailman_(song)
 Make_It_Right_(Lisa_Stansfield_song)
 Makes_Me_Feel
 Making_Moves_With_Puff
+Mamouna_(song)
 Man_of_My_Word
 Månsken_i_augusti
 The_Many_Ways
@@ -40089,7 +40160,7 @@ Miles_from_Nowhere
 Millennium_(Front_Line_Assembly_song)
 Milquetoast_(song)
 A_Mind_Beside_Itself
-Minsan_(Eraserheads_song)
+Minsan
 Mirándote
 The_Mirror_(song)
 Mishale
@@ -40287,7 +40358,7 @@ Red_Right_Hand
 Red_Roses_for_Me_(song)
 Refried_Dreams
 Regulate_(song)
-Renaissance_(song)
+Renaissance_(M_People_song)
 Renegades,_Rebels_and_Rogues
 Represent_(song)
 Resurrection_(Common_song)
@@ -40483,6 +40554,7 @@ Suki_(song)
 Sulky_Girl
 The_Summer_Is_Magic
 Summer's_Comin'
+Sunshine_&_the_Rain
 Super_Gut
 Supernova_(Liz_Phair_song)
 Supersatellite
@@ -40767,6 +40839,7 @@ You're_Gonna_Miss_Me_When_I'm_Gone
 Young_Caesar_2000
 Your_Ghost
 Your_Loving_Arms
+Your_Painted_Smile
 Your_Star_Will_Shine
 The_Zenith_(Song)
 Zombie_(The_Cranberries_song)
@@ -41183,7 +41256,6 @@ Fades_Em_All
 Fairground_(song)
 Faith_in_Me,_Faith_in_You_(song)
 Faithlift_(song)
-Fall_From_Grace_(Amanda_Marshall_song)
 Fall_in_Love_(Kenny_Chesney_song)
 The_Fall_(Ministry_song)
 Falling_Down_(Tears_for_Fears_song)
@@ -41219,6 +41291,7 @@ Fly_Away_(DJ_Company_song)
 Fly_Away_(Haddaway_song)
 Foe_Life
 Foolish_Games
+For_Better_or_Worse_(Debbie_Gibson_song)
 For_Your_Love_(Stevie_Wonder_song)
 Forever_(Mariah_Carey_song)
 Forgiven,_Not_Forgotten_(song)
@@ -41285,6 +41358,7 @@ Good_Thing_(Eternal_song)
 Good_Thing_(Rebecka_Törnqvist_song)
 Goodbye_Heartbreak
 Goodbye_My_Love_(Yoko_Ono_song)
+Got_Myself_Together
 Gotta_Be_You_(3T_song)
 Gracias_a_Dios_(song)
 Grandpa_Told_Me_So
@@ -41707,7 +41781,6 @@ Naked_(Goo_Goo_Dolls_song)
 Naked_(Reef_song)
 Naked_and_Sacred_(song)
 När_det_blåser_på_månen
-National_Anthem_of_the_Republic_of_South_Ossetia
 Natsu_no_Yuu-utsu_(Time_to_Say_Good-bye)
 Natural_(Peter_Andre_song)
 The_Natural_(song)
@@ -41831,6 +41904,7 @@ Please_Remember_Me
 Un_Poco_de_Amor
 The_Pod_(song)
 Point_of_View_(Ivy_song)
+The_Points
 Poorman's_Grave
 Por_Amarte
 Possibly_Maybe
@@ -41981,6 +42055,7 @@ Skin_Up_Pin_Up_/_Flourella
 Slapshot_(song)
 Sleep_(Marion_song)
 Sleeping_Dogs_(song)
+Slight_Return
 Slow_Jams
 Sludge_Factory
 Slug_(song)
@@ -42042,6 +42117,7 @@ Standing_on_the_Edge_of_Goodbye
 Star_A.D.
 Stargazer_(Siouxsie_and_the_Banshees_song)
 Stars_(Dubstar_song)
+State_Anthem_of_South_Ossetia
 Stay_Together_(Barbara_Tucker_song)
 Stay_with_Me_(Erasure_song)
 Stay_with_Me_Tonight_(The_Human_League_song)
@@ -42185,6 +42261,7 @@ Trouble_(Todd_Snider_song)
 The_True_Believers_(song)
 Try_Me_Out
 Try_Try_Try_(Julian_Cope_song)
+Tujhe_Dekha_Toh
 True_Blue_(Tullycraft_song)
 Turn_It_Out_(song)
 Turn_It_Up_(Peter_Andre_song)
@@ -42436,6 +42513,7 @@ Anything_Goes_(Ras_Kass_song)
 Anytime_(Nu-Birth_song)
 Applebite
 April_29,_1992_(Miami)
+The_Arab_Dream
 Are_U_Still_Down
 Are_We_in_Trouble_Now
 Are_You_Ready_(Aaliyah_song)
@@ -42479,6 +42557,7 @@ Because_You_Loved_Me
 Becoming_More_Like_Alfie
 Been_It
 Been_There,_Done_That_(Dr._Dre_song)
+Beetlebum
 Before_(song)
 Before_I_Lay_(You_Drive_Me_Crazy)
 Begin_to_Move
@@ -42651,6 +42730,7 @@ Dan_Dan_Kokoro_Hikareteku
 Dance_into_the_Light_(song)
 Dancin',_Shaggin'_on_the_Boulevard
 Dark_Clouds_(Space_song)
+Darkside_Lightside
 Darling_Pretty
 Day_In,_Day_Out_(David_Kersh_song)
 The_Day_We_Caught_the_Train
@@ -42736,6 +42816,7 @@ The_Earth,_the_Sun,_the_Rain
 Ease_My_Troubled_Mind
 East_Coast/West_Coast_Killas
 Eastside_LB
+Ecuador_(song)
 Electrolite
 Electronic_Pleasure_(song)
 Emale
@@ -42889,6 +42970,7 @@ Going_Out
 Goldfinger_(Ash_song)
 Gone_(That'll_Be_Me)
 Gone_Again_(song)
+Gone_the_Dream
 Gone!_(The_Cure_song)
 Good_as_I_Was_to_You
 Good_Day_(Sean_Maguire_song)
@@ -42901,7 +42983,6 @@ Goodnight_(Babybird_song)
 Górecki_(song)
 Got_2_Have_Ya
 Got_It_Goin'_On
-Got_Myself_Together
 Gott_hat_mir_längst_einen_Engel_gesandt
 Govinda_(Kula_Shaker_song)
 Grateful_When_You're_Dead
@@ -42972,6 +43053,7 @@ High_Low_and_In_Between
 High_Times_(song)
 Higher_(Gloria_Estefan_song)
 Hillbilly_Rock_Hillbilly_Roll
+Hip-Hopera_(song)
 Hit_'Em_High_(The_Monstars'_Anthem)
 Hit_'Em_Up
 Hit_Me_Off
@@ -43041,9 +43123,9 @@ I_Like_the_Way_(Deni_Hines_song)
 I_Love_Me_Some_Him
 I_Love_You_Always_Forever
 I_Meant_to_Do_That
-I_Miss_You_(Beverley_Craven_song)
 I_Miss_You_a_Little
 I_Must_Stand
+I_Need_a_Miracle_(Tara_McDonald_song)
 I_Only_Get_This_Way_with_You
 I_Read_Lips
 I_Remember_Larry
@@ -43059,6 +43141,7 @@ I_Was_Brought_to_My_Senses
 I_Was_Wrong_(Social_Distortion_song)
 I_Will_Always_Be_With_You
 I_Wish_I_Was_Queer_So_I_Could_Get_Chicks
+I'd_Give_You_Anything
 I'd_Rather_Ride_Around_with_You
 I'll_Always_Be_Right_There
 I'll_Be_(Foxy_Brown_song)
@@ -43106,6 +43189,7 @@ In_Your_Wildest_Dreams_(song)
 Incancellabile
 Indo_Silver_Club_(Part_One)
 Infinite_(Eminem_song)
+Innocent_Smile
 Instinct_(song)
 Interlude_(Richard_Wright_song)
 Ameno_(song)
@@ -43262,6 +43346,7 @@ Loosen_My_Strings
 Lord_Hypnos
 Losers_(The_Cardigans_song)
 Lost_Cat
+Lost_in_You_(Ash_song)
 Lost_Myself
 Love_and_Pain_(song)
 Love_Bites_(Grace_Jones_song)
@@ -43282,6 +43367,7 @@ Lover_Lover
 Luchini_AKA_This_Is_It
 Lukin_(song)
 Lyin'_King
+M.O.R.
 Ma_Chérie_~Itoshii_Kimi_E~
 Mach_5_(song)
 Machine_Gun_o_Buppanase_(Mr._Children_Bootleg)
@@ -43418,8 +43504,10 @@ On_My_Knees_(Jaci_Velasquez_song)
 On_My_Own_(Peach_Union_song)
 On_My_Way_(American_Analog_Set_song)
 On_Silent_Wings
+On_Standby
 On_the_Line_(Michael_Jackson_song)
 On_the_Run's_Where_I'm_From
+On_Your_Own_(Blur_song)
 The_One_(White_Zombie_song)
 One_and_One_(song)
 One_Headlight
@@ -43646,7 +43734,6 @@ Slang_(song)
 Slave_(Prince_song)
 Sleep_Around_(Prince_song)
 Sleep_to_Dream
-Slight_Return
 Slipknot_(song)
 Slipping_Away_(Mariah_Carey_song)
 Slow_Fast_Hazel
@@ -43679,6 +43766,7 @@ Something_for_the_Weekend_(song)
 Sometime_Samurai
 Sometimes_I_Feel_Like_Screaming
 Somewhere_Inside_(Chris_Cummings_song)
+Song_2
 Soon_Forgotten
 Soul_on_Ice_(song)
 Soundtrack_to_Mary
@@ -43762,6 +43850,7 @@ Take_Me_In_(Powderfinger_song)
 Take_Me_or_Leave_Me
 Talk_to_Me_(Babyface_song)
 Talking_Shit_About_a_Pretty_Sunset
+Taller_Than_God
 Talula
 Tape_Loop_(song)
 Taste_of_India
@@ -44158,11 +44247,11 @@ Be_Alone_No_More
 Be_Quiet_and_Drive_(Far_Away)
 Be_the_Man
 Beachball_(song)
+Beautiful_That_Way_(Noa_song)
 Beauty_(song)
 Because_It's_Love
 Bedtime_(song)
 Been_Around_the_World
-Beetlebum
 The_Beginning_of_the_End_(Boogiemonsters_song)
 Bel_Air_~Kuuhaku_no_Shunkan_no_Naka_De~
 Bella's_Birthday_Cake
@@ -44361,7 +44450,7 @@ Deja_Vu_(Uptown_Baby)
 Demons_(Super_Furry_Animals_song)
 Destiny_(Dem_2_song)
 Destroy_2000_Years_of_Culture
-Devil_Came_to_Me_(Dover_song)
+Devil_Came_to_Me_(song)
 Devil's_Dance_(Song)
 Di_Da_Di_(And_So_the_Story_Goes)
 Diamond_(Julian_Austin_song)
@@ -44421,7 +44510,6 @@ Duende_(song)
 Dying_to_See_You
 ...E_dimmi_che_non_vuoi_morire
 East_Hastings_(song)
-Ecuador_(song)
 L'Égyptienne_(song)
 Eien_(Zard_song)
 El_Destino_(song)
@@ -44921,7 +45009,6 @@ Lozin'_Must
 Lucky_in_Love_(Sherrié_Austin_song)
 Lucky_Man_(The_Verve_song)
 Lucky_Me,_Lucky_You
-M.O.R.
 The_Madness_of_King_Scar
 Magic_Joe
 Magic_Pie_(Oasis_song)
@@ -45022,7 +45109,6 @@ Never_Ever_(All_Saints_song)
 Never_Gonna_Fall
 Never_Make_a_Promise
 Never_Miss_the_Water
-Never_Say_Never_(Brandy_song)
 Never,_Never_Gonna_Give_Ya_Up
 A_New_Hope_(Blink-182_song)
 New_Paths_to_Helicon,_Pt._1
@@ -45253,7 +45339,7 @@ Say_Goodbye_(Cheap_Trick_song)
 Say_Hey_(Kylie_Minogue_song)
 Say..._If_You_Feel_Alright
 Say_It_(Voices_of_Theory_song)
-Say_When_(song)
+Say_When_(Lonestar_song)
 Say_Yes_(Burnin'_Daylight_song)
 Say_Yes_(Elliott_Smith_song)
 Sayang
@@ -45350,7 +45436,6 @@ Something_That_We_Do
 Sometimes_(Brand_New_Heavies_song)
 Sometimes_We_Cry
 Somewhere_Down_the_Road_(Amy_Grant_song)
-Song_2
 A_Song_for_Mama
 Song_for_Marion_Brown
 Song_of_Encouragement_for_the_Orme_Ascent
@@ -45571,7 +45656,6 @@ Waltzing_Along
 War_of_Nerves
 Warum?
 Watch_Me_Do_My_Thing
-Watch_Out_My_Children
 Watch_This_(Clay_Walker_song)
 Watery_Hands
 The_Waydown
@@ -45753,7 +45837,6 @@ Anywhere_(112_song)
 Ape_Self_Prevails_In_Me_Still
 The_Apologist
 April_Fools_(song)
-The_Arab_Dream
 Are_You_Still_Mad
 Are_You_That_Somebody?
 Ashes_in_the_Fall
@@ -46324,6 +46407,7 @@ I_Was_Walkin'
 I_Wasn't_with_It
 I_Will_Get_There
 I_Will_Wait_(Hootie_&_the_Blowfish_song)
+I_Won't_Lie
 I'll_Be_Fine_Anywhere
 I'll_Be_There_for_You_(The_Moffatts_song)
 I'll_Bee_Dat!
@@ -46407,6 +46491,7 @@ Jesus_or_a_Gun
 Jesus_Says
 Jigga_My_Nigga
 Jodie_(Saves_the_Day_song)
+John_Wayne_Walking_Away
 Joining_You
 Josephine_(Terrorvision_song)
 Judgement_Day_(Method_Man_song)
@@ -47597,13 +47682,13 @@ Disco_Heaven
 Dive_(Steven_Curtis_Chapman_song)
 Dizzy_(Goo_Goo_Dolls_song)
 DK_Rap
-Do_Not_Forget_Me
 Do_Something_(Macy_Gray_song)
 Do_We_Need_This?
 Do_We_Rock
 Do_What_You_Want_to_Do
 Do_You_Feel_the_Same
 Do_You_Know_What_I_Love_the_Most?
+Before_I_Fall_in_Love
 Do_You_Want_My_Love
 Doctor_of_Love
 Doing_the_Sponge
@@ -48149,7 +48234,7 @@ Lost_in_You_(Chris_Gaines_song)
 Love_(Destiny)
 Love_and_Remember
 Love_Flies
-Love_for_All_Seasons
+Love_for_All_Seasons_(Christina_Aguilera_song)
 Love_in_December
 Love_Is_a_Beautiful_Thing_(Phil_Vassar_song)
 Love_Is_Blind_(Eve_song)
@@ -48368,6 +48453,7 @@ Pay_The_Price
 The_Perfect_Fan_(Backstreet_Boys_Song)
 Perfect_World_(Big_Country_song)
 Pero_Dile
+Petals_(Mariah_Carey_song)
 Petals_(song)
 Phat_Planet
 Phuture_Vibes
@@ -49094,7 +49180,7 @@ Beauty_Contest_(song)
 The_Beauty_of_Silence
 Because_I_Got_High
 The_Bells_of_Alcazar_(song)
-Bent_(song)
+Bent_(Matchbox_Twenty_song)
 The_Best_Day_(George_Strait_song)
 Best_of_Intentions
 Best_of_Me,_Part_2
@@ -49375,7 +49461,7 @@ Every_Time_I_Close_My_Eyes_(Vanessa_Amorosi_song)
 Everyday_(Dave_Matthews_Band_song)
 Everything_(Dum_Dums_song)
 Everything_(Misia_song)
-Everything_I_Am_(song)
+Everything_I_Am_(Anna_Vissi_song)
 Everything_in_Its_Right_Place
 Everything_You_Do
 Everything_You_Need_(song)
@@ -49592,7 +49678,7 @@ Hold_Me_Now_(Donna_De_Lory_song)
 Hold_On_(Limp_Bizkit_song)
 Holiday_in_my_Head
 The_Hollow_(song)
-Holy_Man_(song)
+Holy_Man_(One_Minute_Silence_song)
 Home_(I_Can't_Believe_It's_Not_Rock_song)
 Home_Now
 Homeland_(song)
@@ -49608,7 +49694,7 @@ Hoy_No_Quiero
 Human_(Goldfrapp_song)
 The_Hunger_(Steve_Holy_song)
 I_(Taproot_song)
-I_Adore_You_(song)
+I_Adore_You_(Queenadreena_song)
 I_Am_Who_I_Am_(Lara_Fabian_song)
 I_Believe_(Stephen_Gately_song)
 I_Better_Be_Quiet_Now
@@ -49758,7 +49844,7 @@ Kid_A_(song)
 Kids_(Robbie_Williams_and_Kylie_Minogue_song)
 Kill_All_Hippies
 Kill_the_King_(song)
-Kill_You_(Eminem_song)
+Kill_You
 Kim_(song)
 Kimi_no_Me_ni_wa_Utsuranai
 Kimi_no_Uchi_ni_Tsuku_made_Zutto_Hashitte_Yuku
@@ -50046,6 +50132,7 @@ Otome_Pasta_ni_Kandō
 Our_Farewell
 Our_Kind_of_Love_(Andrew_Lloyd_Webber_song)
 Our_Lady_of_San_Francisco
+Out_Here_in_the_Water
 Out_of_Control_(Back_for_More)
 Out_of_the_Silent_Planet_(song)
 Out_of_This_World_(The_Cure_song)
@@ -50380,7 +50467,6 @@ Sure_Thing_(St_Germain_song)
 Surreal_(song)
 Survivor_(Destiny's_Child_song)
 Suspension_Without_Suspense
-Svoboda_(song)
 Swords_(Leftfield_song)
 Synaesthesia_(Fly_Away)
 Synthetic_(song)
@@ -51066,6 +51152,7 @@ Emerge_(song)
 En_apesanteur
 Endless_Sorrow
 Energy_(Collective_Soul_song)
+Envious_(song)
 An_Epic_of_Time_Wasted
 Epicentre_(song)
 Epitáfio
@@ -51613,7 +51700,7 @@ The_Middle_(Jimmy_Eat_World_song)
 Midwest_Swing
 Milk_and_Toast_and_Honey
 Mille_Lune_Mille_Onde
-Million_Tears
+Million_Tears_(Kasey_Chambers_song)
 A_Mind_of_Its_Own
 Mindcircus
 Mini-Hams_no_Ai_no_Uta
@@ -52014,6 +52101,7 @@ Soul_Singing
 Souljacker_Part_I
 Sound_Check_(Gravity)
 The_Sound_of_Breaking_Up
+Sound_of_the_Underground_(song)
 Space_Dementia_(song)
 Sparks_(Röyksopp_song)
 Special_(Vitamin_C_song)
@@ -52197,7 +52285,6 @@ Undo_(Björk_song)
 Unhappy_Millionaire
 The_Union_Forever
 Unison_(Björk_song)
-Unite!_(Ayumi_Hamasaki_song)
 Unreal_(song)
 Until..._(Sting_song)
 Until_the_End_of_Time_(Tupac_Shakur_song)
@@ -52330,6 +52417,7 @@ The_Work,_pt._1
 World_of_Our_Own_(song)
 The_World's_Greatest
 Would_You_Be_Happier?
+Would_You_Mind
 Wouldnit_(I'm_a_Star)
 Wrapped_Around
 Wrapped_Up_in_You
@@ -52795,7 +52883,6 @@ End_of_All_Hope
 The_Energy
 Enquanto_Houver_Sol
 Enth_E_Nd
-Envious_(song)
 Envision_(song)
 Erased_(song)
 Eres_Mi_Religión
@@ -53124,6 +53211,7 @@ Já_sei_namorar
 James_Dean_(I_Wanna_Know)
 Jenny_from_the_Block
 Jerk_It_Out
+Jesus,_Etc.
 Juanita_(Shania_Twain_song)
 Juliet_(Modern_Talking_song)
 The_Jump_Off
@@ -53161,6 +53249,7 @@ Latigazo
 Laundromat_(song)
 The_Laws_Have_Changed
 Lazy_(X-Press_2_song)
+Le_bon_choix
 Learn_to_Fly_(A1_song)
 The_Leaving_Song_Pt._II
 Left_for_Dead_(Tribe_of_Judah_song)
@@ -53229,7 +53318,7 @@ Love_Like_There's_No_Tomorrow_(Aaron_Tippin_and_Thea_Tippin_song)
 (Love_Lives_In)_Strange_Places
 Love_of_My_Life_(An_Ode_to_Hip-Hop)
 Love_on_a_Two-Way_Street
-Love_on_the_Line_(song)
+Love_on_the_Line_(Blazin'_Squad_song)
 Love_Potion_(song)
 The_Love_Song_(Jeff_Bates_song)
 Love_That_Man
@@ -53262,7 +53351,7 @@ Marwa_Blues
 Mary_(Gemelli_DiVersi_song)
 Mary's_Place
 Más_(Kinky_song)
-Maybe,_Maybe_Not_(song)
+Maybe,_Maybe_Not
 Mayberry_(song)
 Maze_(song)
 Me_Julie
@@ -53316,10 +53405,10 @@ My_Favourite_Thing
 My_Friend_(Royce_da_5'9"_song)
 My_Friends_Over_You
 My_Girl,_My_Girl
-My_Life_(Kool_G_Rap_song)
 My_Neck,_My_Back_(Lick_It)
 My_Old_Man_(Rodney_Atkins_song)
 My_Paper_Heart_(song)
+My_Saving_Grace_(song)
 My_Town_(Montgomery_Gentry_song)
 My_Vision_(song)
 My_World_(Avril_Lavigne_song)
@@ -53347,6 +53436,7 @@ Night_Speaks_to_a_Woman
 No_Children
 No_Coincidence_(Kelly_Rowland_song)
 No_Earthly_Connection_(song)
+No_Letting_Go_(song)
 No_me_enseñaste
 No_More_Tears_(Jeanette_song)
 No_One_Knows
@@ -53593,6 +53683,7 @@ Shiny_Disco_Balls
 Shiver_(Maroon_5_song)
 Shōmikigen
 Shoot_the_Dog
+Shooter_(song)
 Shooting_Star_(Poison_song)
 Should_Have_Known
 Shoulda_Woulda_Coulda
@@ -53613,6 +53704,7 @@ Six_Days_(song)
 Sk8er_Boi
 Skin_on_Skin_(Sarah_Connor_song)
 Sky_Away
+Sky_Blue_(song)
 Skylines_and_Turnstiles
 Slaying_the_Dreamer
 Sleep_All_Day
@@ -53712,6 +53804,7 @@ Sweetest_Goodbye
 Swing,_Swing
 Sylvia_(Donna_De_Lory_song)
 Symphony_in_X_Major
+Tainted_(song)
 Take_Me_As_I_Am_(Tonic_song)
 Take_Your_Shoes_Off_(song)
 Takogo,_kak_Putin!
@@ -54109,7 +54202,7 @@ Arrested_in_Shanghai
 The_Art_of_Losing_(song)
 As_for_One_Day
 As_I_Am_(Dream_Theater_song)
-As_Long_as_You're_Mine
+As_Long_As_You're_Mine
 As_the_Palaces_Burn_(song)
 As_the_Rush_Comes
 Ashita_wo_Yume_Mite
@@ -54228,7 +54321,7 @@ Bye_Bye_Boyfriend
 Calabria_(song)
 California_Waiting
 Call_Off_the_Search_(song)
-Calling_All_Angels
+Calling_All_Angels_(Train_song)
 Calling_You_(Blue_October_song)
 Can't_Make_Up_My_Mind_(Sonique_song)
 Can't_Stop,_Won't_Stop_(Young_Gunz_song)
@@ -54410,7 +54503,7 @@ Down_(Motograter_song)
 Down_Another_Day
 Download_It
 Drag/9"_of_Pure_Malice
-Dragostea_Din_Tei
+Dragostea_din_tei
 Dream_Express_(song)
 Dream_the_Day_Away
 Dream-A-Lot's_Theme_(I_Will_Live_for_Love)
@@ -54482,6 +54575,7 @@ Everytime
 Everytime_(Butterfingers_song)
 Everyway_That_I_Can
 Everywhere_I_Go_(The_Black_Keys_song)
+Evidências
 Evil_(Ladytron_song)
 Explode_(Nelly_Furtado_song)
 Te_Extraño
@@ -54547,7 +54641,6 @@ Força
 Forever_(Vertical_Horizon_song)
 Forever_More_(Moloko_song)
 Forever's_Not_Enough
-Forgiveness_(Ayumi_Hamasaki_song)
 Forthenight
 Four_Minute_Warning_(song)
 Four_to_the_Floor
@@ -54675,7 +54768,6 @@ He_War
 Head_for_the_Barricade
 Hear_Me_Out_(Silverstein_song)
 Heart_of_a_Dragon_(song)
-Heartbeatz
 Heat_(50_Cent_song)
 Heaven_(Live_song)
 Heaven_Help_Me_(Wynonna_Judd_song)
@@ -55058,7 +55150,7 @@ Maybe_I_(Five_for_Fighting_song)
 Maybe_That's_What_It_Takes
 Maybe_Tomorrow_(Goldenhorse_song)
 Maybe_Tomorrow_(Stereophonics_song)
-Maybe,_Maybe_Not_(song)
+Maybe,_Maybe_Not
 Me_Against_the_Music
 Me_and_You_(Camouflage_song)
 Me_Voy_(Aventura_song)
@@ -55666,7 +55758,7 @@ This_Is_the_New_Shit
 This_Is_the_Night_(Clay_Aiken_song)
 This_Is_the_World_We_Live_In
 This_Is_Your_Life_(song)
-This_Land_Is_Mine_(song)
+This_Land_Is_Mine_(Dido_song)
 This_Love_(LeAnn_Rimes_song)
 This_One's_for_the_Girls
 This_Picture_(song)
@@ -56062,7 +56154,6 @@ ASAP_(T.I._song)
 Ashes_(Embrace_song)
 Ashes_to_Ashes_(Damageplan_song)
 Ashita_e_Kakeru_Hashi
-At_the_Party_(Soulhead_song)
 Augen_auf!
 Aus_und_vorbei
 Autobiography_(Ashlee_Simpson_song)
@@ -56636,7 +56727,6 @@ Got_to_Have_Faith
 Gotta_Go_Solo
 Gotta_See_Jane
 Graffiti_My_Soul
-Graftin'
 The_Grey_Room
 Grey_Skies_Turn_Blue
 Groupie_Luv
@@ -57079,7 +57169,6 @@ Main_Yahan_Hoon
 Make_It_Hot_(VS_song)
 Make_It_Up_With_Love
 Make_Love_Fuck_War
-Make_Me_Look_Good
 Makin'_Out
 Malo_(Bebe_song)
 Mama_(Il_Divo_song)
@@ -57130,7 +57219,7 @@ Miracle_(Cascada_song)
 Miracle_Drug
 La_mirada_interior
 Miseinen
-Miseinen_(Jun_Shibata_song)
+Miseinen_(The_Gazette_song)
 Misread
 Miss_Being_Mrs.
 Missile_(IAMX_song)
@@ -57217,7 +57306,6 @@ New_Beginning_(Shannon_Noll_song)
 New_Day_(Patti_LaBelle_song)
 New_Friend_(song)
 New_Health_Rock
-New_Idols
 The_New_Workout_Plan
 The_New_Xmas_Wishbook
 New_York_(Ja_Rule_song)
@@ -57377,7 +57465,7 @@ Perfect_to_Stay
 Perfekte_Welle
 Pickin'_Wildflowers
 Pieces_(Sum_41_song)
-Pieces_of_Me_(song)
+Pieces_of_Me_(Ashlee_Simpson_song)
 Pierce_the_Veil_(song)
 Pies_(Wiley_song)
 Pimpin'_All_Over_the_World
@@ -57545,6 +57633,7 @@ See_Through_Head
 See_Who_I_Am
 See_You_Dead
 Seems_Fine
+Selfish_(Slum_Village_song)
 Sem_Você
 September_All_Over
 Serenade_(Tackey_&_Tsubasa_song)
@@ -57729,7 +57818,7 @@ Suburbia_Streets
 Suddenly_I_See
 Sugar_Guitar_(song)
 Sugar,_We're_Goin_Down
-Summer_Lovin'
+Summer_Lovin'_(song)
 Summer_Sunshine
 The_Sun_Has_Come_Your_Way
 Suna_no_Shiro_(song)
@@ -57770,7 +57859,6 @@ Talk,_Talk,_Talk
 The_Talkin'_Song_Repair_Blues
 Tangled_Up_in_Me
 Tasogare_Romance
-Taste_You_(Auf_der_Maur_song)
 Taste_You_(Cheyne_song)
 Tatta_Hitori_no_Kimi
 Taxi_Driver_(song)
@@ -57860,7 +57948,7 @@ Too_Cold
 Too_Much_of_a_Good_Thing
 Tooken_Back
 Touch_(Omarion_song)
-Touché_(song)
+Touché_(Godsmack_song)
 Tougher_Than_Nails_(song)
 Tower_of_Snakes
 Traffic_(Tiësto_song)
@@ -57905,7 +57993,7 @@ U-Haul_(song)
 Una_(song)
 Under_Heaven's_Skies
 Under_the_Gun_(Killers_song)
-Under_the_Weather
+Under_the_Weather_(song)
 Undermind_(song)
 Underneath_This_Smile
 Underwear_Goes_Inside_the_Pants
@@ -58171,7 +58259,6 @@ Ain't_Wastin'_Good_Whiskey_on_You
 Air_Said_to_Me
 Akaku_Atsui_Kodō
 Alala_(song)
-Alas_Agnes
 Alberta_(song)
 Albion_(song)
 Alcastar
@@ -58195,7 +58282,6 @@ All_Night_Disco_Party
 All_Sparks
 All_That_Counts_Is_Love
 All_That_You_Are_(Mudvayne_song)
-All_the_Love_in_the_World_(Nine_Inch_Nails_song)
 All_the_Roadrunning_(song)
 All_the_Way_(Craig_David_song)
 All_the_Way_Home_(Bruce_Springsteen_song)
@@ -58957,6 +59043,7 @@ He's_a_Pirate
 Heard_'Em_Say
 Heart_in_a_Cage
 Heart_of_Misery
+Heartbeatz
 Heartless_(A_Day_to_Remember_song)
 Heat_It_Up
 Heaven_(Ayumi_Hamasaki_song)
@@ -59259,7 +59346,6 @@ King_of_the_Mountain_(Kate_Bush_song)
 Kings_Sticks_and_Birds
 Kiss_of_the_Cobra_King
 Kiss_You_(iiO_song)
-Kizuna_(Orange_Range_song)
 Knockers_(song)
 Koi_ni_Nare...
 Koi_ni_Ochitara
@@ -59396,7 +59482,6 @@ Love_Is_a_Drug
 Love_Me_Like_You_(The_Magic_Numbers_song)
 Love_Needs_a_Holiday
 Love_on_My_Mind_(Freemasons_song)
-Love_Parade_(Orange_Range_song)
 The_Love_Song_(k-os_song)
 Love_Steals_Us_from_Loneliness
 A_Love_That_Will_Never_Grow_Old
@@ -59776,7 +59861,7 @@ Regen_und_Meer
 Rejoice_(Il_Divo_song)
 Remedy_(Seether_song)
 Remember_the_Name
-Remembering_You_(song)
+Remembering_You
 Reno_(Bruce_Springsteen_song)
 Respect_(Joel_Turner_song)
 Restless_Legs_(song)
@@ -59893,7 +59978,6 @@ Shiver_(Natalie_Imbruglia_song)
 Shock_to_the_System_(Sara_Jorge_song)
 Shoes_(Shania_Twain_song)
 Shoot_for_Seven
-Shooter_(song)
 Shot_(song)
 Shot_You_Down
 The_Shouty_Track
@@ -60461,6 +60545,7 @@ About_Us_(song)
 Abrázame
 Acceptable_in_the_80s
 Acid_Food
+Act_a_Fool_(Lil_Jon_song)
 Act_Right_(Zion_I_song)
 Addicted_to_You_(Anthony_Callea_song)
 ADHD_(Blood_Red_Shoes_song)
@@ -60554,6 +60639,7 @@ Apartment_(Kate_Miller-Heidke_song)
 Apologize_(OneRepublic_song)
 Applausi_per_Fibra
 Apple_of_the_Eye_(Lay_Me_Down)
+Araw_Mo
 Are_U_Ready?
 The_Arms_of_Sorrow
 Army_of_One_(Cass_Fox_song)
@@ -60702,7 +60788,7 @@ Breathless_(Corinne_Bailey_Rae_song)
 The_Bridge_(Elton_John_song)
 Bridge_to_Nowhere_(song)
 Brighter_than_a_Thousand_Suns_(song)
-Bring_It_on_Back
+Bring_It_On_Back
 Bring_the_Rain
 Bro's_(song)
 Broken_(Everclear_song)
@@ -61222,6 +61308,7 @@ Goodnite_(Melody_Gardot_song)
 Got_That_Good_(My_Bubble_Gum)
 Gott_ist_ein_Popstar
 Grace_(Phil_Wickham_song)
+Grace_Kelly_(song)
 Gracias_por_Pensar_en_Mi
 Gravity's_Rainbow_(song)
 A_Great_Big_Sled
@@ -61544,7 +61631,6 @@ Kowloon_Nine_Heads_Rodeo_Show
 Kōya_Ruten
 Krusty_Krab_Radio_Spot
 Kul_med_jul
-Kushi_(song)
 Lacrymosa_(song)
 Ladies_and_Gentlemen_(song)
 Ladies_Love_Country_Boys
@@ -61979,6 +62065,7 @@ Pac's_Life_(song)
 Packing_Things_Up_on_the_Scene
 Pain_(Three_Days_Grace_song)
 Painkiller_(Freestylers_song)
+Palo_Santo_(Shearwater_song)
 Pancreas_(song)
 Parallel_Worlds_(song)
 Paralyzer
@@ -62169,7 +62256,6 @@ Say_Anything_(Marianas_Trench_song)
 Say_It_Right
 Say_OK
 Say_You'll_Never_Leave
-Sayonara_(Orange_Range_song)
 Screwed_(Paris_Hilton_song)
 Se_lo_Dices_Tú
 Seal_Jubilee
@@ -63237,7 +63323,7 @@ Control_of_the_Knife
 Cool_Off_(Yeng_Constantino_song)
 Cops_and_Robbers_(song)
 Cops_Up
-Cosmic_(song)
+Cosmic_(Kylie_Minogue_song)
 Could_It_Be_You_(Cascada_song)
 Count_in_Fives
 The_Count_of_Monte_Christo_(song)
@@ -63682,7 +63768,6 @@ Gotta_Go_My_Own_Way
 Gotta_Work
 Gov_Did_Nothin'
 Grace_(Apocalyptica_song)
-Grace_Kelly_(song)
 Granite_(song)
 Grapevine_Fires
 Gratitude_(Paul_McCartney_song)
@@ -63773,6 +63858,7 @@ Hide_and_Seek_(Dannii_Minogue_song)
 Hide_and_Seek_(Namie_Amuro_song)
 Hiding_My_Heart
 High_Maintenance_Woman
+Higher_(Tiffany_song)
 Hip_Hop_Saved_My_Life
 Hiromi_(song)
 Hit_'Em_(song)
@@ -63955,7 +64041,6 @@ I'm_So_Hood
 I'm_Still_a_Guy
 I'm_the_Man_(Belly_song)
 I'm_Throwing_My_Arms_Around_Paris
-I'm_with_the_Band
 I'm_with_the_Band_(song)
 Ice_Cream_Sundae_(The_Twang_song)
 Icky_Thump_(song)
@@ -64129,6 +64214,7 @@ Kristofferson_(song)
 Kronekodow_(song)
 Kuon_(song)
 Kuroi_Namida
+Kushi_(song)
 L.A._(Amy_Macdonald_song)
 L.I.L.Y._(Like_I_Love_You)
 L.o.v.e_U
@@ -64378,7 +64464,6 @@ Mistletoe_(Colbie_Caillat_song)
 Mitsuyubi
 Mitten_unterm_Jahr
 MLS_Anthem
-Modern_Day_Human_Waste
 Modern_World_(Anouk_song)
 Mojot_svet
 Molitva
@@ -64438,7 +64523,7 @@ My_Love_(Celine_Dion_song)
 My_Love_(Joe_song)
 My_Love_Is_Pink
 My_Man_and_the_Devil_on_His_Shoulder
-My_Mistakes
+My_Mistakes_(Wiley_song)
 My_Moon_My_Man
 My_People_(The_Presets_song)
 My_Pesticide
@@ -64588,6 +64673,7 @@ Oxford_Comma_(song)
 Pa'_Bailar
 Pa'_Que_la_Pases_Bien
 Paid_in_Full_(Sonata_Arctica_song)
+Paper_Planes_(M.I.A._song)
 Para_Siempre_(Vicente_Fernández_song)
 Para_Toda_La_Vida_(song)
 Paralyzed_(The_Used_song)
@@ -65496,7 +65582,7 @@ Category:2008_songs
 6_O'Clock_Blues
 7_8_9_(song)
 7_Things
-10_Out_of_10
+10_Out_of_10_(2PM_song)
 13th_August_(instrumental)
 15_Minutes_of_Shame
 16_(Sneaky_Sound_System_song)
@@ -65526,7 +65612,6 @@ About_a_Girl_(The_Academy_Is..._song)
 Abre_Tu_Corazón
 Absolutely_Positively
 Absolutely_Still
-Act_a_Fool_(Lil_Jon_song)
 Actions_&_Motives
 Addicted_(Ace_Young_song)
 Addicted_(Danny_Fernandes_song)
@@ -65643,7 +65728,7 @@ Austere_(song)
 Australia_(Gyroscope_song)
 Ave_Maria_(Beyoncé_song)
 Ave_Mary_A
-Aventurero_(song)
+Aventurero_(Thalía_song)
 Away_(Enrique_Iglesias_song)
 Baby_(LL_Cool_J_song)
 Baby_Baby_(Girls'_Generation_song)
@@ -65728,6 +65813,7 @@ Big_Ideas_(song)
 Big_Jack_(song)
 Big_Jumps
 Bigger_Than_Elvis_(Chicago_song)
+Bill_Watterson_(song)
 Bird_Walk
 Bite_It_Like_a_Bulldog
 Bizzy_Body
@@ -66317,7 +66403,6 @@ Good_Lovin'_(Slim_song)
 Good_Morning_(Lionel_Richie_song)
 Good_Time_(Alan_Jackson_song)
 Goodbye_(Inna_song)
-Goodbye_(Kristinia_DeBarge_song)
 Goodbye,_You_Suck
 Goodnight,_Travel_Well
 Got_Me_Going
@@ -66387,7 +66472,7 @@ Heat_(Mariah_Carey_song)
 Heaven_(Buck-Tick_song)
 Heaven_at_Nite
 Heavy_Eyes_(song)
-Heavy_Lifting
+Heavy_Lifting_(Carly_Rae_Jepsen_song)
 Hell_Bent_for_Buffalo
 Hell_of_a_Life_(T.I._song)
 Hell_Yeah_(Rev_Theory_song)
@@ -66825,7 +66910,7 @@ Lo_Que_Yo_Sé_de_Ti
 Loaded_and_Alone
 Lollipop_Luxury
 Lonesome_Swan
-Long_Distance_(song)
+Long_Distance_(Brandy_song)
 Long_Forgotten_Sons
 Long_Live_the_Queen_(song)
 Longing_for_Lullabies
@@ -66849,7 +66934,6 @@ Love_(Def_Leppard_song)
 Love_Addict_(Vamps_song)
 Love_Again_(Kelly_Rowland_song)
 Love_Call_(Rythem_song)
-Love_Don't_Live_Here_(Bananarama_song)
 Love_For_My_Slum
 Love_in_Stereo_(song)
 Love_in_This_Club_Part_II
@@ -66909,7 +66993,7 @@ Make_Some_Noise_(Krystal_Meyers_song)
 Make_the_World_Go_Round
 Make_You
 Makin'_Me_Fall_in_Love_Again
-Mala_(song)
+Mala_(Yolandita_Monge_song)
 Man_of_the_House_(song)
 The_Man_Who_Can't_Be_Moved
 Måndagsbarn
@@ -67195,7 +67279,6 @@ Papa_Can_You_Hear_Me?
 Papancake
 Paparazzi_(Lady_Gaga_song)
 Paper_Gangsta
-Paper_Planes_(M.I.A._song)
 Papermoon_(song)
 Para_Volver_a_Amar
 Paradis_inanimé
@@ -67738,6 +67821,7 @@ Tenerte_Cerca
 Tenía_tanto_que_darte
 Tennessee_(Kevin_Rudolf_song)
 Tequila_on_Ice
+Teri_Ore
 Tha_Doso_Resta
 Thank_U_(Michelle_Williams_song)
 Thank_You_(Amy_Diamond_song)
@@ -67843,6 +67927,7 @@ Tricolour_Color
 Tridesete
 Troubadour_(song)
 Trouble_(Never_Shout_Never_song)
+Trouble_Is_a_Friend
 Trouble_Trouble
 Troublemaker_(Akon_song)
 Troublemaker_(Weezer_song)
@@ -68111,6 +68196,7 @@ You_Belong
 You_Belong_with_Me
 You_Better_Pray
 You_Can_Do_Athletics,_btw
+You_Can_Get_It_All
 You_Can_Let_Go
 You_Can't_Count_On_Me
 You_Cheated_Me
@@ -68134,7 +68220,6 @@ You're_Not_Salinger._Get_Over_It.
 You're_Not_Sorry
 Young_(Hollywood_Undead_song)
 Young_Bloods_(song)
-Young_Love_(Mystery_Jets_song)
 Youngblood_(E.M.D._song)
 Your_Call_(song)
 Your_Eyes_(Kate_Ryan_song)
@@ -69071,6 +69156,7 @@ Good_Stuff_(Shakira_song)
 Good_to_Be_Me
 Good_to_Me
 Good_to_You
+Goodbye_(Kristinia_DeBarge_song)
 Goodbye_England_(Covered_in_Snow)
 Got_Dynamite
 Got_Some
@@ -69652,7 +69738,9 @@ Love_(Inna_song)
 Love_Again_(Tweet_song)
 Love_All_Over_Me
 Love_Club_(song)
+Love_Comes
 Love_Dealer
+Love_Don't_Live_Here_(Bananarama_song)
 Love_Drunk_(Boys_Like_Girls_song)
 Love_Etc._(song)
 Love_Forever
@@ -70070,7 +70158,7 @@ Piper_to_the_End
 Pirates..._The_Sequel
 Pjesma_za_kraj
 Plane_to_Spain
-Planet_of_the_Apes_(song)
+Planet_of_the_Apes_(Mindless_Self_Indulgence_song)
 The_Planets_Bend_Between_Us
 Play_With_Fire_(Kendrick_Lamar_song)
 Playing_God_(song)
@@ -70179,7 +70267,6 @@ Right_Here_Right_Now_(BWO_song)
 The_Right_to_Go_Insane
 Right_Where_You_Want_Me_to_Be
 Ring_Ding_Dong_(Shinee_song)
-Ringtone_(song)
 Rinse_Me_Down
 Riptide_(Sick_Puppies_song)
 Rise_to_the_Occasion_(BWO_song)
@@ -70194,7 +70281,7 @@ The_Road_to_Hell_Is_Paved_with_Good_Intentions_(song)
 ROBOT_(KRS-One_&_Buckshot_song)
 Rock_That_Body
 Rockstar_101
-Roger_That_(song)
+Roger_That
 Roll_Away_Your_Stone
 Roll_with_the_Wind
 Romeo_&_Julie_(The_Rifles_song)
@@ -70613,7 +70700,7 @@ This_Is_My_Life_(Edward_Maya_song)
 This_Is_Not_a_Party
 This_Is_Not_Ok!
 This_Is_Our_Night
-This_Is_War_(song)
+This_Is_War_(Thirty_Seconds_to_Mars_song)
 This_Is_What_Rock_n'_Roll_Looks_Like
 This_Momentary
 This_Must_Be_It
@@ -70675,7 +70762,6 @@ Treat_Me_Like_Your_Mother
 Triangle_Walks
 Trip_(Kendrick_Lamar_song)
 Trouble_(Ginuwine_song)
-Trouble_Is_a_Friend
 Trust_You
 The_Truth_(Kris_Allen_song)
 Truth_(Chiddy_Bang_song)
@@ -70852,7 +70938,6 @@ What_It_Is_(Gorilla_Zoe_song)
 What_We_Need
 What?_(Rob_Zombie_song)
 What's_Right_Is_Right
-What's_the_Point
 Whataya_Want_from_Me
 Whatcha_Say
 Whatever_U_Want_(Consequence_song)
@@ -70952,7 +71037,6 @@ You_and_I_Tonight
 You_and_Me_(Dave_Matthews_Band_song)
 You_and_Your_Heart
 You_Are_the_Only_One_(Emily_Osment_song)
-You_Can_Get_It_All
 You_Can't_Do_Me
 You_Don't_Belong
 You_Don't_Have_a_Clue
@@ -71966,6 +72050,7 @@ Hanabi_(Rina_Aiuchi_song)
 Hands_(The_Ting_Tings_song)
 Hang_On_(Weezer_song)
 Hang_with_Me
+The_Hanging_Tree_(The_Hunger_Games_song)
 Happiness_(Alexis_Jordan_song)
 Happy_(Bump_of_Chicken_song)
 Happy_Now_(Take_That_song)
@@ -73447,7 +73532,6 @@ That_Sounds_Good_to_Me
 That_Tree
 That's_All_She_Wrote
 That's_the_Truth_(McFly_song)
-User:TheOmgNoway6494/sandbox
 There_Goes_My_Baby_(Usher_song)
 There's_a_Place_for_Us_(song)
 These_New_Knights
@@ -73669,6 +73753,7 @@ What_You_Know_(Two_Door_Cinema_Club_song)
 What_You_Talking_About!?
 What's_It_Gonna_Be_(Gucci_Mane_song)
 What's_My_Name?_(Rihanna_song)
+What's_the_Point
 What's_Wrong_with_Them
 Whatever_Doesn't_Kill_Me
 Wheel_of_Time_(song)
@@ -73747,7 +73832,6 @@ Words_Darker_Than_Their_Wings
 The_Words_That_Maketh_Murder
 World_Favorite
 The_World_Is_Ours_Tonight
-World_on_Fire_(Firewind_song)
 World_So_Cold_(A-Lee_song)
 Worm_Tamer
 Wouldn't_Change_a_Thing_(Camp_Rock_song)
@@ -73782,6 +73866,7 @@ You_Be_Tails,_I'll_Be_Sonic
 You_Believed
 You_Can_Be_the_Boss
 You_Can_Count_on_Me_(song)
+You_Drive_Me_Crazy_(T-ara_song)
 You_Gave_Me_Nothing
 You_Gonna_Fly
 You_Haven't_Seen_the_Last_of_Me
@@ -73839,6 +73924,7 @@ Category:2011_songs
 1984_(Saves_the_Day_song)
 1996_(song)
 The_A_Team_(Ed_Sheeran_song)
+A-Cha_(song)
 Ā,_Yo_ga_Akeru
 A.D.H.D_(Kendrick_Lamar_song)
 Aalu_Anday
@@ -73913,6 +73999,7 @@ Ambition_(song)
 Ambulances_(song)
 Amen_(Edens_Edge_song)
 America_Needs_a_New_Sweetheart
+American_Wedding_(song)
 Americano_(song)
 Among_Angels_(song)
 Amor_Clandestino
@@ -73995,6 +74082,7 @@ Barefoot_Blue_Jean_Night_(song)
 Barkhammer
 Barton_Hollow_(song)
 Bass_Cannon
+Basta_così
 Batbaby
 Battle_in_Me
 Bayini
@@ -75315,7 +75403,6 @@ My_Racing_Thoughts
 My_Shadow_(song)
 My_Shadow_(The_Sound_of_Arrows_song)
 My_Town_(Hollywood_Undead_song)
-My_Valentine
 My_Water's_On_Fire_Tonight_(The_Fracking_Song)
 Mylo_Xyloto_(song)
 Na_inat
@@ -75443,6 +75530,7 @@ The_Only_One_(Scooter_song)
 Only_Our_Hearts
 Only_the_Horses
 Only_to_Be
+Only_Wanna_Give_It_to_You
 Only_You_(Viktoria_Modesta_song)
 Onna_no_Ko_wa_Dare_Demo
 Ooh_La_La_(Shreya_Ghoshal_and_Bappi_Lahiri_song)
@@ -75710,6 +75798,7 @@ Shark_Attack_(Limp_Bizkit_song)
 Shave_It
 She_(Tyler,_the_Creator_song)
 She_Ain't_You
+She_Doesn't_Mind
 She_Makes_Me_Wanna
 She_Really_Got_to_You
 She_Will
@@ -75934,7 +76023,6 @@ Teenage_Daughters
 Teeter_Totter_Love
 Teleport_(song)
 Tell_Me_a_Lie_(One_Direction_song)
-Tell_Me_That_You_Love_Me_(song)
 Telling_the_World
 Tempest_(Namie_Amuro_song)
 Tendencies_(song)
@@ -76422,7 +76510,7 @@ Amy_(song)
 And_He_Slayed_Her
 And_I_Will_Kiss
 Andrew_in_Drag
-Android_(TVXQ_song)
+Android_(song)
 Angel_(Exo_song)
 Angel_Blue_(Green_Day_song)
 Un_angelo_disteso_al_sole
@@ -76481,6 +76569,7 @@ Back_(song)
 Back_2_Life_(Live_It_Up)
 Back_for_You_(One_Direction_song)
 Back_in_Love_Again_(Misia_song)
+Back_to_Life_(3OH!3_song)
 Backseat_Freestyle
 Backstabbers_Need_Not_Apply
 Bad_(Wale_song)
@@ -76870,7 +76959,7 @@ DJ,_Ease_My_Mind
 DNA_(Little_Mix_song)
 Do_It_Again_(Chris_Brown_song)
 Do_It_All_(Tyga_song)
-Do_It_Anyway_(song)
+Do_It_Anyway_(Ben_Folds_Five_song)
 Do_It_Like_That_(Ricki-Lee_Coulter_song)
 Do_My_Dance
 Do_My_Thing_(Estelle_song)
@@ -77637,6 +77726,7 @@ Lost_(Frank_Ocean_song)
 Lost_in_Forever_(song)
 Lost_in_Paradise_(Rihanna_song)
 Lost_in_the_Echo
+Lost_Kids
 Love_and_War_(Tamar_Braxton_song)
 Love_at_First_Light
 Love_Ballad_(Tove_Lo_song)
@@ -77799,6 +77889,7 @@ My_Moment_(DJ_Drama_song)
 My_Number_(Foals_song)
 My_Party_(Icona_Pop_song)
 My_Song_for_You_(Demi_Lovato_and_Joe_Jonas_song)
+My_Valentine
 Mysteria_(The_Rasmus_song)
 Mystic_AKA_Mado_Kara_Mieru_Interlude
 Myth_(song)
@@ -77806,7 +77897,7 @@ Mz._Hyde
 Nagiichi
 Naisho_no_Hanashi
 Naked_(Kevin_McCall_song)
-Name_of_Love
+Name_of_Love_(Jean-Roch_song)
 När_jag_blundar
 Narrow_Way_(song)
 Natalie_(Bruno_Mars_song)
@@ -77892,6 +77983,7 @@ Oide_Shampoo
 Oklahoma_Christmas
 Ola_Nordmann_(song)
 Old_&_Crazy
+Oldie_(song)
 On_est_là
 On_Lexington_&_52nd_Street
 On_se_fout_de_nous
@@ -78474,6 +78566,7 @@ That_XX
 That's_What_I_Am_(song)
 That's_Why_God_Made_the_Radio_(song)
 That's_Why_I_Pray
+The_Great_Artist_(song)
 The_Theory_of_Relativity
 These_Days_(Maverick_Sabre_song)
 They_Don't_Know_About_Us_(One_Direction_song)
@@ -78591,6 +78684,7 @@ Twenty_Eight_(song)
 Twist_the_Knife
 Twisted_(Usher_song)
 Twisted_Love_(ATB_song)
+Two_Dead_Minutes
 Two_Fingers
 Tyttö_sinä_olet_meritähti
 U_Did_That
@@ -79414,7 +79508,6 @@ Dare_You
 Dark_Horse_(Katy_Perry_song)
 DarkSide_(Zara_Larsson_song)
 Darte_un_Beso
-Dawlat_al-Islam_Qamat
 Day_Before_We_Went_to_War
 The_Day_I_Died_(Five_for_Fighting_song)
 A_Day_in_My_Life
@@ -79543,6 +79636,7 @@ Easy_(Mat_Zo_and_Porter_Robinson_song)
 Easy_(Sheryl_Crow_song)
 Easy_(Son_Lux_song)
 Eat,_Sleep,_Rave,_Repeat
+Ecco_che
 Eclipse_(Crossfaith_song)
 Eclipsed_(A_Loss_for_Words_song)
 Ecou
@@ -80672,7 +80766,7 @@ Picture_Perfect_(Sevendust_song)
 Picture_This_(Big_Time_Rush_song)
 Pieces_(Gary_Allan_song)
 Pilgrim_(MØ_song)
-Pink_and_Blue
+Pink_and_Blue_(song)
 Pink_Rabbits
 Pinky_Santa
 Pirate_Flag_(song)
@@ -81265,6 +81359,7 @@ Type_of_Way
 TYTD
 U&I_(song)
 Ume_(song)
+Ummati_Qad_Laha_Fajrun
 Unbelievers_(song)
 Unbreakable_(Stratovarius_song)
 The_Unchanging_(song)
@@ -81540,6 +81635,7 @@ Young_Lion
 Young_Love_(Kip_Moore_song)
 Young_Volcanoes
 Younger_(Seinabo_Sey_song)
+Youngest_Daughter_(song)
 Your_Body_Is_a_Weapon
 Your_Eyes_(Jai_Waetford_song)
 Your_Graduation
@@ -81572,7 +81668,7 @@ Category:2014_songs
 99_(Ruth_Lorenzo_song)
 679_(song)
 1000hp
-1995_(Eraserheads_song)
+1995_(song)
 1998_(Chet_Faker_song)
 A_modo_tuo
 A_Toz
@@ -81911,6 +82007,7 @@ Carnivore_(song)
 Carousel_(Melanie_Martinez_song)
 Carry_On_(Lisa_Stansfield_song)
 Carry_You_(Austin_Winkler_song)
+Catalina_Fight_Song
 Catallena
 Catch_&_Release_(song)
 Caught_in_the_Middle_(Charli_XCX_song)
@@ -81943,6 +82040,7 @@ Cherry_Pop
 Chicago_(Michael_Jackson_song)
 Child's_Play_(SZA_song)
 Children_of_the_Universe
+Childs_Play_(SZA_song)
 Chill_Bill
 Chimes_(song)
 Choices_(Yup)
@@ -81956,7 +82054,6 @@ Clap_Your_Hands_(David_Guetta_and_Glowinthedark_song)
 The_Clarity
 Classic_(The_Knocks_song)
 Clean_(song)
-Clean_(Taylor_Swift_song)
 Cleopatra_(Weezer_song)
 Cliche_Love_Song
 Click_(ClariS_song)
@@ -82227,6 +82324,7 @@ Everything_Is_Alone
 Everything_Is_Awesome
 Everything_Is_Wrong_(song)
 Everything_Reminds_Me_of_You
+Evidências
 Ew!
 Ex_de_Verdad
 Ex's_&_Oh's
@@ -82698,6 +82796,7 @@ Inside_the_Idle_Hour_Club
 Insincerely_Yours
 Into_a_Fantasy
 Into_the_Blue_(Kylie_Minogue_song)
+Intoxicated_(Hinder_song)
 Intoxicated_(Martin_Solveig_and_GTA_song)
 Invincible_(Kelly_Clarkson_song)
 Invisible_(Hunter_Hayes_song)
@@ -82746,7 +82845,7 @@ Just_Gettin'_Started
 Just_Like_You_(Michelle_Williams_song)
 Kærligheden_kalder
 Kanye_(song)
-Karera_(song)
+Karera_(Dara_Bubamara_song)
 Keep_On_Keeping_On_(Travie_McCoy_song)
 Kendo_Anthem
 Kesärenkaat
@@ -82788,6 +82887,7 @@ Kraj_i_tačka
 Krazy_(Lil_Wayne_song)
 L.A._Love_(La_La)
 L.A.F_(song)
+L.S.D._(Skegss_song)
 L'ultimo_addio
 L8_CMMR
 Labrador_Retriever_(song)
@@ -82924,6 +83024,7 @@ Love_Me_Like_You_Mean_It
 Love_Never_Felt_So_Good
 Love_Runs_Out
 Love_Someone_(Jason_Mraz_song)
+Love_Story_(Indila_song)
 Love_Who_Loves_You_Back
 Love_You_Like_That
 Love_Yourz
@@ -83159,6 +83260,7 @@ No_Love_(August_Alsina_song)
 No_Mediocre
 No_Money_No_Love
 No_More_(DragonForce_song)
+No_More_Regrets
 No_Mythologies_to_Follow_(song)
 No_Particular_Order_(song)
 No_Police
@@ -83446,6 +83548,7 @@ Running_Low
 Running_with_the_Boys
 Ryōkiteki_na_Kiss_o_Watashi_ni_Shite
 Ryusei_(song)
+S.O.S_(Indila_song)
 Să_cânte_trompetele
 Sabado_(Eraserheads_song)
 Sabato_(song)
@@ -83742,6 +83845,7 @@ Take_Us_Back_(Titanium_song)
 Take_Your_Time_(Sam_Hunt_song)
 Taking_Over_Me_(Yemi_Alade_song)
 A_Tale_of_2_Citiez
+Talk_Dirty_(Jason_Derulo_song)
 Talk_Is_Cheap_(song)
 Talk_to_Me_(Bahjat_song)
 Talkin'_Hawkin'
@@ -83783,8 +83887,8 @@ They_Don't_Love_You_No_More
 Things_Left_Unsaid
 Thinking_Out_Loud
 Third_Day_of_a_Seven_Day_Binge
+Thirsty_(Mariah_Carey_song)
 Thirsty_(PartyNextDoor_song)
-Thirsty_(song)
 This_Could_B_Us
 This_Could_Be_Us
 This_Girl_(Stafford_Brothers_and_Eva_Simons_song)
@@ -83847,6 +83951,7 @@ Touch_and_Go_(Ed_Sheeran_song)
 Touch_My_Body_(Sistar_song)
 Touchin,_Lovin
 Tough_Love_(Jessie_Ware_song)
+Tourner_dans_le_vide
 Tragedy_+_Time
 Trailblazer_(Oh_Land_song)
 Trailer_Hitch
@@ -83928,7 +84033,7 @@ Vadelmavene
 Vampire's_Love_(Vamps_song)
 Vanilla_Chocolat
 Var_är_vi_nu?
-Vas_A_Querer_Volver
+Vas_a_querer_volver
 Vay-K
 Velvet_(Chris_Jamison_song)
 Vice_City_(XXXTentacion_song)
@@ -84105,6 +84210,7 @@ You_Make_Me_Whole
 You_Ruin_Me
 You_Should_Know_Where_I'm_Coming_From
 You_Sound_Good_to_Me
+You_Will_Know_My_Name
 You_Won't_Let_Go
 You,_My_Star
 You're_Beautiful_(Nathaniel_Willemse_song)
@@ -84790,6 +84896,8 @@ Dragon_(Martin_Garrix_song)
 Drank_&_Drugs
 Drawn_to_the_Blood
 Dream_Maker_/_Euphoria
+Dreamin_(PartyNextDoor_song)
+Dreamin'_(PartyNextDoor_song)
 Dreams_(Beck_song)
 Drifting_(G-Eazy_song)
 Drill_Sergeant_(song)
@@ -84984,6 +85092,7 @@ Friend_Zone_(song)
 From_Here_to_Zero
 From_the_Pinnacle_to_the_Pit
 From_the_Start_(Chad_Gilbert_song)
+Fronteamos_Porque_Podemos
 Fuchsia_Butterflies
 Fucking_Young_/_Perfect
 Fun_(Coldplay_song)
@@ -85243,7 +85352,7 @@ Honey_Jack
 Honeymoon_(Lana_Del_Rey_song)
 Hood_Go_Crazy
 Hoops_(The_Rubens_song)
-Hope_Never_Dies
+Hope_Never_Dies_(song)
 Hopelessly_Coping
 Hopscotch_(Emmelie_de_Forest_song)
 The_Horns_(song)
@@ -85327,6 +85436,7 @@ I_Met_a_Girl_(William_Michael_Morgan_song)
 I_Miss_You_(Adele_song)
 I_Need_U_(BTS_song)
 I_of_the_Storm
+I_Promise_You_(song)
 I_Really_Like_You
 I_Refuse_(Simple_Plan_song)
 I_Serve_the_Base
@@ -85417,7 +85527,6 @@ Institutionalized_(Kendrick_Lamar_song)
 Into_Me
 Into_the_Earth
 Into_Your_Arms_(Capital_Kings_song)
-Intoxicated_(Hinder_song)
 Intrapersonal_(song)
 Invisible_(Man_Overboard_song)
 Issues_(Dr._Dre_song)
@@ -85616,7 +85725,6 @@ Live_Together_(A._J._McLean_song)
 Livin'_the_Dream_(Drake_White_song)
 Living_Again
 Living_Right_(Lil_Wayne_song)
-Lm3allem
 Lo_Aprendí_de_Ti
 Local_Rappers
 Lock_All_the_Doors
@@ -85812,6 +85920,7 @@ More_Than_Anything
 More_Than_I_Knew
 The_More_You_Give_(The_More_You'll_Have)
 Morning_Sun_(Robin_Thicke_song)
+Mortal_Man
 Moses_(French_Montana_song)
 Möt_mig_i_Gamla_stan
 Moth_Light
@@ -85909,7 +86018,7 @@ Night_(Janet_Jackson_song)
 The_Night_Begins_to_Shine
 Night_Like_This_(Hilary_Duff_song)
 The_Night_We_Met_(HomeTown_song)
-The_Night_We_Met_(Lord_Huron_song)
+The_Night_We_Met
 Night's_on_Fire
 Nightcrawler_(song)
 The_Ninth_Wave_(song)
@@ -85985,7 +86094,7 @@ Old_Ways_(Demi_Lovato_song)
 Olivia_(One_Direction_song)
 Omen_(Disclosure_song)
 OMG_(Little_Mix_song)
-On_&_On_(Cartoon_&_Jéja_song)
+On_&_On_(Cartoon_and_Jéja_song)
 On_&_Off_(Krista_Siegfrids_song)
 On_dirait
 On_Fire_(Stefanie_Heinzmann_song)
@@ -87151,6 +87260,7 @@ The_7th_Sense
 333_(song)
 715_(Creeks)
 1000×
+1937_State_Park
 1955_(song)
 A_capella_(Ylvis_song)
 A-Yo_(Lady_Gaga_song)
@@ -87602,6 +87712,7 @@ Chromatophore_(song)
 Chronic_(song)
 Chunky_(Bruno_Mars_song)
 La_chute_est_lente
+Ciao_Adios
 Cieli_immensi
 Circles_(Pierce_the_Veil_song)
 This_City_(Sam_Fischer_song)
@@ -87765,7 +87876,7 @@ Diamond_Heart_(Lady_Gaga_song)
 Die_for_You_(The_Weeknd_song)
 The_Difference_(Meek_Mill_song)
 The_Difference_(Nick_Jonas_song)
-Different_for_Girls_(Dierks_Bentley_song)
+Different_for_Girls_(song)
 Digits_(song)
 Dil_Dil_Dil
 Dilatone
@@ -88404,7 +88515,6 @@ I_Lied_(Fifth_Harmony_song)
 I_Love_Kanye
 I_Made_It_(Fantasia_song)
 I_Need_a_Drink_(or_Two_or_Three)
-I_Need_a_Miracle_(Tara_McDonald_song)
 I_Need_U_(BTS_song)
 I_Remember_U_(Cartoon_&_Jéja_song)
 I_Remember_You_(Tom_Chaplin_song)
@@ -88604,9 +88714,10 @@ Las-o…
 Last_Dance_(BigBang_song)
 Last_Dance_(Dua_Lipa_song)
 Last_Snowdome
+Last_You_Heard_of_Me
 Late_Nights_(Snoop_Dogg_song)
 Lavender_(BadBadNotGood_song)
-Law_(Yo_Gotti_song)
+Law_(song)
 Lawn_Chair_Lazy
 LAX_(Jake_Owen_song)
 Lay_It_on_Me_(Ina_Wroldsen_and_Broiler_song)
@@ -88834,7 +88945,7 @@ Mike_Baird_(song)
 M.I.L.F._$
 Million_Clouds
 Million_Dollar_Loan
-Million_Eyes_(Loïc_Nottet_song)
+Million_Eyes
 Million_Eyes_(The_Coral_song)
 Million_Reasons
 A_Million_Years
@@ -88915,7 +89026,7 @@ My_Instincts_Are_the_Enemy
 My_Love_(Jem_song)
 My_Love_4_U
 My_Love_for_You
-My_Love_Is_Gone_(Safia_song)
+My_Love_Is_Gone
 My_Name_Is_Human
 My_Nemesis
 My_Puppet_Heart
@@ -89095,6 +89206,7 @@ Oronero_(song)
 Oroscopo_(song)
 Osinachi_(song)
 Other_People_(song)
+Otra_Cosa_(song)
 OTW_(DJ_Luke_Nasty_song)
 Our_Moment_(song)
 Out_of_Pocket_(Mayer_Hawthorne_song)
@@ -89361,6 +89473,7 @@ Saltwater_Gospel
 Salvador_Dalí_(song)
 Salvation_Works
 Same_About_You
+Same_Drugs
 Same_Ol'_Mistakes
 Same_Old_Story_(John_Legend_song)
 Sandcastles_(song)
@@ -89681,7 +89794,7 @@ Testify_(Nick_Jonas_song)
 Testify!_(song)
 That_Girl_(Olly_Murs_song)
 That_Girl_(Tegan_and_Sara_song)
-That_Love
+That_Love_(song)
 That's_My_Girl
 That's_What_I_Like_(Bruno_Mars_song)
 That's_What_They_All_Say_(song)
@@ -89721,7 +89834,7 @@ Tiimmy_Turner
 Time_(Dean_Brody_song)
 Time_(K._Michelle_song)
 Time_(O.Torvald_song)
-Time_Moves_Slow
+Time_Moves_Slow_and_Running_Away
 Time_of_the_Blue
 Time_on_Earth_(song)
 Time-Bomb_Ticking_Away
@@ -89805,7 +89918,6 @@ Ultraviolet_(Fred_V_&_Grafix_song)
 Un_giorno_mi_dirai
 Un_homme_debout
 Un'altra_vita_(song)
-Una_Lady_Como_Tú
 Unbalance_by_Me
 Unbreakable_Smile_(song)
 Unchain_the_Light
@@ -89976,6 +90088,7 @@ White_Privilege_II
 Who_Do_You_Think_Of?
 Who_Doesn't_Love_Love
 Who_I_Am_(Shannon_Noll_song)
+Who_Will_Know
 Who_You_Epp?
 Whole_Lotta_Lovin'_(Mustard_and_Travis_Scott_song)
 Whoodeeni
@@ -90271,7 +90384,6 @@ As_If_It's_Your_Last
 As_the_world_caves_in
 As_You_Are_(Rag'n'Bone_Man_song)
 Ascension_(Gorillaz_song)
-Ashes_of_the_Dawn
 Asian_Jake_Paul
 The_Assailant_(song)
 Astral_Empire
@@ -90655,7 +90767,6 @@ Christmas_Eve_(Gwen_Stefani_song)
 Christmas_Eve_(Kelly_Clarkson_song)
 Church_(Alison_Wonderland_song)
 Church_(Macklemore_song)
-Ciao_Adios
 Cigarettes_&_Cush
 Circle_of_Friendz
 City_Lights_(Blanche_song)
@@ -90901,6 +91012,7 @@ Dollar_Store_(song)
 Dominoes_(Ghostpoet_song)
 Dommage
 Don't_Ask_Don't_Tell_(Tove_Lo_song)
+Don't_Be_So_Serious
 Don't_Believe_the_Fife
 Don't_Blame_Me_(Taylor_Swift_song)
 Don't_Come_Easy
@@ -90970,10 +91082,12 @@ Dubai_Shit
 Duckworth_(song)
 Dum_Dum_(Kideko,_Tinie_Tempah_and_Becky_G_song)
 Dumplings_(song)
+Dune_(Kenshi_Yonezu_song)
 Dusk_Till_Dawn_(Zayn_song)
 Dying_to_See_Her
 Dying_to_Try
 E_Ngrirë
+The_Eagle_Flies_Alone
 Early_Morning_Trappin
 East_Coast_(ASAP_Ferg_song)
 Easta
@@ -90988,6 +91102,7 @@ Ego_(Rag'n'Bone_Man_song)
 Either_Way_(K._Michelle_song)
 Either_Way_(Snakehips_and_Anne-Marie_song)
 Entre_beso_y_beso
+El_Farsante
 El_Pecado_(song)
 Electrify_(Oliver_song)
 Element_(song)
@@ -91085,7 +91200,6 @@ Famous_Excuses
 Famous_Last_Words_(Ty_Dolla_Sign_song)
 Famous_Lies
 Far_Cry_from_Love
-El_Farsante
 Fast_Women
 Faux_Suede_Drifter
 Favor_(Vindata_song)
@@ -91402,6 +91516,7 @@ Happy_Wasteland_Day
 Hard_(Not_Luvin_U)
 Hard_Feelings/Loveless
 Hard_Times_(Paramore_song)
+Hardaway_(song)
 Harden_the_Paint
 Harder_(Tiësto_and_Kshmr_song)
 Hatred_and_Revenge
@@ -91753,6 +91868,7 @@ Jacky's_Only_Happy_When_She's_Up_on_the_Stage
 J-Boy
 Je$u$_Cri$i$
 Jello_(Brockhampton_song)
+Jerika
 Jesus_(Brockhampton_song)
 Jesus_Will_Kill_You
 Jet_(Citizen_song)
@@ -92138,7 +92254,7 @@ Mere_Dil_Mein
 Meridian_(song)
 Message_in_a_Bottle_(Ty_Dolla_Sign_song)
 Messy_(Danielle_Bradbery_song)
-Messy_(song)
+Messy_(Fifth_Harmony_song)
 Met_Gala_(Gucci_Mane_song)
 Meu_Ritmo
 Mexican_Fender
@@ -92259,6 +92375,7 @@ My_Old_Santa_Claus
 My_Only_True_Friend
 My_Place_(The_Vamps_song)
 My_Senses
+My_Shadow_and_I
 My_Style_(Poppy_song)
 My_Swagger
 My_Turn_(Martina_Bárta_song)
@@ -92657,6 +92774,7 @@ Questions_(Chris_Brown_song)
 Quiet_(MILCK_song)
 The_Quiet_War_(song)
 The_Race_(Tay-K_song)
+The_Race_(Arch_Enemy_song)
 Rack_City/Love_Scars_2
 Raf_(song)
 Rain_(Sekai_no_Owari_song)
@@ -92690,6 +92808,7 @@ Real_One_(song)
 Real_Thing_(Stars_song)
 Realized_(Khalil_song)
 Reason_(Slushii_song)
+Reason_to_Believe_(Arch_Enemy_song)
 Reassuring_Pinches
 Reboot_(song)
 The_Recipe_(Kodak_Black_song)
@@ -93400,8 +93519,10 @@ U_Said
 Ugly_(Jaira_Burns_song)
 Uh_Huh_(Julia_Michaels_song)
 Ultrasound_(Joyner_Lucas_song)
+Una_Lady_Como_Tú
 Una_Na
 Unapologetically_(song)
+Uncle_Vova,_we_are_with_you
 Uncommon_(song)
 Under_the_Christmas_Lights
 Under_the_Ice_(The_Drums_song)
@@ -93534,7 +93655,7 @@ Wedding_Ghosts
 Wedding_in_Finistère
 Wee_Woo
 Weed_Pin
-Week_(Chungha_song)
+Week_(Chung_Ha_song)
 Week_Without_You
 The_Weekend_(SZA_song)
 Weekend_(Flume_song)
@@ -93632,6 +93753,7 @@ Without_Love_(Alice_Glass_song)
 Without_You_(Shouse_song)
 Witness_(Jordan_Feliz_song)
 Witness_(Katy_Perry_song)
+Wo_(song)
 Woe_Is_Meee
 Woke_Up_Late
 Wokeuplikethis
@@ -93655,6 +93777,7 @@ Work_It_Out_(Karizma_song)
 Work_Together
 Workin'_on_It_(Andy_Grammer_song)
 World_(Lindita_song)
+The_World_Is_Yours_(Arch_Enemy_song)
 The_World_You_Make
 The_World's_Best_American_Band_(song)
 Worry,_Worry_(song)
@@ -94351,7 +94474,7 @@ Delincuente_(Maluma_song)
 Deliverance_(Chvrches_song)
 Delta_(Mumford_&_Sons_song)
 Demain_(song)
-Demons_and_Angels
+Demons_and_Angels_(song)
 Demons_Are_a_Girl's_Best_Friend_(song)
 Denim_on_Denim_(song)
 Depend_on_It
@@ -94386,7 +94509,7 @@ Dinero_(Jennifer_Lopez_song)
 Dinosaurs_(song)
 Dip_(song)
 Diplomatic_Immunity_(song)
-Dirty_(song)
+Dirty_(Sevendust_song)
 Dirty_Computer_(song)
 Disaster_(JoJo_song)
 Disgraced_In_America
@@ -94771,7 +94894,7 @@ Good_Years
 Goodbye_(Jason_Derulo_and_David_Guetta_song)
 Goodbyes_(Jorja_Smith_song)
 Goodness_of_God
-Goodnight_and_Go
+Goodnight_n_Go
 Gossip_(Nadine_Coyle_song)
 Got_Your_Name_on_It
 Gotti_(song)
@@ -95486,7 +95609,7 @@ Multi_Millionaire_(song)
 Music_to_My_Eyes
 Music's_Too_Sad_Without_You
 Mutual_(song)
-My_Blood_(Twenty_One_Pilots_song)
+My_Blood_(song)
 My_Enemy_(Chvrches_song)
 My_Feet_Are_on_the_Rock
 My_Hands
@@ -95523,7 +95646,7 @@ Nekkoya_(Pick_Me)
 Nena_Maldición
 Neon_Church
 Neon_Gravestones
-Nephew_(Smokepurpp_song)
+Nephew_(song)
 Nero_Bali
 Nervous_(Shawn_Mendes_song)
 Nervous_Young_Inhumans
@@ -95698,7 +95821,6 @@ Open_(Mya_song)
 Opening_Station
 Options_(NSG_song)
 Orasaadha
-Otra_Cosa_(song)
 Otra_Noche_en_Miami
 OTW_(Khalid,_Ty_Dolla_Sign_and_6lack_song)
 Our_Love_Glows
@@ -95796,7 +95918,7 @@ Power_Up_(song)
 Powerglide_(song)
 Praise_the_Lord_(Da_Shine)
 Pray_(Smokepurpp_and_Murda_Beatz_song)
-Pray_for_Me_(song)
+Pray_for_Me_(The_Weeknd_and_Kendrick_Lamar_song)
 Preach_(YoungBoy_Never_Broke_Again_song)
 Preacher_(Years_&_Years_song)
 Precious_Heavy
@@ -95936,7 +96058,7 @@ Rock_Bottom_(Five_Finger_Death_Punch_song)
 Rock_n_Roll_Hall_of_Fame_(song)
 Role_Models_(song)
 Roll_with_Us
-Roller_Coaster_(Chungha_song)
+Roller_Coaster_(Chung_Ha_song)
 Rollin'_(Kylie_Minogue_song)
 Rolling_Stone_(Mylène_Farmer_song)
 Rome_(Always_in_the_Dark)
@@ -96054,7 +96176,7 @@ Shine_(Quavo_song)
 Shine_Hard
 Shining_Star_(Bebe_Rexha_song)
 Shoot_Me_Straight
-Shoota_(song)
+Shoota
 Short_Skirt_Weather
 Shorty_(Future_and_Juice_Wrld_song)
 Shot_Clock_(song)
@@ -97612,7 +97734,7 @@ Got_It_(Jaden_Smith_song)
 Got_Me_(song)
 Got_What_I_Got
 Goteo_(song)
-Gotta_Go_(Chungha_song)
+Gotta_Go_(Chung_Ha_song)
 Goutte_d'eau
 Graduation_(Benny_Blanco_and_Juice_Wrld_song)
 Graveyard_(song)
@@ -97757,7 +97879,7 @@ Honto_no_Jikan
 Hookah_(Bad_Gyal_song)
 Hope_Is_a_Dangerous_Thing_for_a_Woman_Like_Me_to_Have_–_but_I_Have_It
 Hope_Not
-Horse_(song)
+Horse_(Salvatore_Ganacci_song)
 Hot_Hot_Hot_/_Mirrors
 Hot_(Young_Thug_song)
 Hot_Girl_Bummer
@@ -97804,6 +97926,7 @@ I_Don't_Wanna_Know_(Charli_XCX_song)
 I_Dream_Guillotine
 I_Feel_So_Free_with_You
 I_Fell_in_Love_with_the_Devil
+I_Forgot_That_You_Existed
 I_Guess_I_Just_Feel_Like
 I_Hope_(Gabby_Barrett_song)
 I_Hope_You're_Happy_Now_(Carly_Pearce_and_Lee_Brice_song)
@@ -97869,7 +97992,7 @@ ILY_(I_Love_You_Baby)
 Immortal_(21_Savage_song)
 Imperfections_(song)
 In_a_Skyforged_Dream
-In_Between_(song)
+In_Between_(Scotty_McCreery_song)
 In_Control_(Baker_Boy_song)
 In_Degrees
 In_My_Bed_(Rotimi_song)
@@ -97934,6 +98057,7 @@ Joe_and_Mary
 Joggers_(song)
 John_Cena_(song)
 Jopping
+Joro_(Wizkid_song)
 Joy_(Bastille_song)
 Joys_(song)
 Juice_(Chris_Brown_song)
@@ -98207,6 +98331,7 @@ Maybe,_I'm_Afraid
 Mayday_(Coldrain_song)
 Maze_(Juice_Wrld_song)
 Me_(CLC_song)
+Me_&_Ur_Ghost
 Me_+_You
 Me_Acostumbré
 Me_Gusta_(Natti_Natasha_song)
@@ -98672,6 +98797,7 @@ Rooting_for_You_(Alessia_Cara_song)
 Rosas_en_Mi_Almohada
 Roxanne_(Arizona_Zervas_song)
 Royalty_(XXXTentacion_song)
+RPM_(SF9_song)
 RSVP_(Maren_Morris_song)
 Rule_the_World_(2_Chainz_song)
 Rules_(Doja_Cat_song)
@@ -99159,6 +99285,7 @@ Walker_Texas_Ranger_(song)
 Walking_By
 Walking_Out_(song)
 Wanna_Go_Dancin'
+Want_Beef?
 Want_You_in_My_Room
 Wanted_(NOTD_and_Daya_song)
 War_(Drake_song)
@@ -99466,7 +99593,7 @@ Back_in_Blood_(song)
 Back_to_Me_(Lindsay_Lohan_song)
 Back_to_the_Streets
 Backdoor_(song)
-Bad_Boy_(Chungha_and_Christopher_song)
+Bad_Boy_(Chung_Ha_and_Christopher_song)
 Bad_Child
 Bad_Cinderella
 Bad_Decisions_(The_Strokes_song)
@@ -99593,7 +99720,6 @@ Breaking_Up_Was_Easy_in_the_90s
 Breath_(Ili_song)
 Bridged_by_a_Lightwave
 Brighter_Side_of_Grey
-Brightest_Blue_(song)
 Broke_in_a_Minute
 Broken_Dreams,_Inc
 Broken_Glass_(Kygo_and_Kim_Petras_song)
@@ -99603,7 +99729,7 @@ Bruised_and_Bloodied
 Buckle_Up_(Pearl_Jam_song)
 Built_by_Nations
 Bummerland
-Burn_It_(Agust_D_song)
+Burn_It_(song)
 Burning_(GRM_Daily,_M_Huncho_and_Dutchavelli_song)
 The_Business_(Tiësto_song)
 Buss_It
@@ -99629,6 +99755,7 @@ Can't_Wait_to_Be_Dead
 Canadian_Summer
 Cancel_Me
 Canceled_(song)
+Canción_sin_miedo
 Candy_(Baekhyun_song)
 Canyons_(song)
 Cap_(song)
@@ -99739,6 +99866,7 @@ Cowboy_Like_Me
 Cradling_Mother,_Cradling_Woman
 Crazy_Kind_of_Love_(song)
 Crazy_Over_You_(Blackpink_song)
+Creature_(Jelly_Roll_song)
 Criminal_(Taemin_song)
 Cristal_&_Moet
 Crossing_the_Rubicon_(song)
@@ -99748,6 +99876,7 @@ Crush_(Carys_song)
 Cry_(Ashnikko_song)
 Cry_(Gryffin_and_John_Martin_song)
 Cry_About_It_Later
+Cry_Baby_(Clean_Bandit,_Anne-Marie_and_David_Guetta_song)
 Cry_Baby_(Megan_Thee_Stallion_song)
 Cry_for_Me_(Twice_song)
 Cuando_Hay_Amor
@@ -99984,7 +100113,7 @@ Feel_the_Beat_(Black_Eyed_Peas_and_Maluma_song)
 Feels_in_My_Body
 Feker_Libi
 Felt_This_Way
-FEM_(song)
+Fem_(song)
 Fences_(song)
 Fendi_(song)
 Ferma_a_guardare
@@ -100114,7 +100243,7 @@ God_of_Revival
 God_Whispered_Your_Name
 God_Who_Listens
 God's_Menu
-Godzilla_(Eminem_song)
+Godzilla_(Eminem_and_Juice_Wrld_song)
 Going-to-the-Sun_Road_(song)
 Gold_Rush_(Taylor_Swift_song)
 Golden_Destination
@@ -100157,7 +100286,7 @@ Grounds_(song)
 Grow_(Jeangu_Macrooy_song)
 GTL_(song)
 Guaranà_(song)
-Gucci_(song)
+Gucci_(Bree_Runway_and_Maliibu_Miitch_song)
 Gulf_of_Alaska_(song)
 Gunjō_(song)
 Guys_(song)
@@ -100330,7 +100459,6 @@ I'm_Not_My_Season
 I'm_Ready_(Black_Pumas_song)
 I'm_Ready_(Sam_Smith_and_Demi_Lovato_song)
 I'm_So_Blessed
-I'm_Sorry_(Lil_Uzi_Vert_song)
 I'm_the_Trend
 I'm_Your_Man_(Guy_Sebastian_song)
 I've_Made_Up_My_Mind_to_Give_Myself_to_You
@@ -100371,6 +100499,7 @@ IPhone_(song)
 Is_Everybody_Going_Crazy?
 Is_It_Really_You?
 Is_It_True_(Tame_Impala_song)
+Is_You
 It_Didn't
 It's_a_Raid
 It's_All_So_Incredibly_Loud
@@ -100440,6 +100569,7 @@ King_of_My_City
 King_of_the_Castle_(song)
 King_Vamp
 Kings_&_Queens_(Ava_Max_song)
+Kingslayer_(song)
 Kinky_(song)
 Kiss_Kiss_(Machine_Gun_Kelly_song)
 Kiss_Kiss_(Madeline_Merlo_song)
@@ -100479,6 +100609,7 @@ Lavatory_Lil
 Lay_Your_Head_on_Me
 Leah_(6ix9ine_and_Akon_song)
 Leão_(Marília_Mendonça_song)
+Learn_to_Fly_(Surfaces_and_Elton_John_song)
 Leave_Each_Other_Alone
 Leave_It_All_Behind_(Five_Finger_Death_Punch_song)
 Leave_It_Alone_(Hayley_Williams_song)
@@ -100663,7 +100794,7 @@ Million_$
 Minefields_(song)
 Mirror_(Porter_Robinson_song)
 Mirrorball_(song)
-Miss_a_Thing_(Kylie_Minogue_song)
+Miss_a_Thing
 Miss_Me_(MoStack_song)
 Miss_You_(Martin_Tungevaag,_Sick_Individuals_and_Marf_song)
 Miss_You_2
@@ -100755,7 +100886,7 @@ Neither_Would_I
 Neither/Nor_(song)
 Nemohamo_Rumor
 Neon_–_Le_ali
-Nerves_of_Steel_(Erasure_song)
+Nerves_of_Steel_(song)
 Never_Be_Sorry
 Never_Break
 Never_Destination
@@ -100929,15 +101060,15 @@ The_Plan_(Travis_Scott_song)
 Plant_(song)
 Plastic_Beach_(Future_Islands_song)
 Plastic_Doll
-Play_(Chungha_song)
+Play_(Chung_Ha_song)
 Play_This_When_I'm_Gone
+Plugged_in_Freestyle
 Plus_jamais
 Pneuma_(song)
 Polaroid_(Keith_Urban_song)
 Politics_&_Violence
 Ponte_Pa'_Mí
 Pool_Party_(Julia_Jacklin_song)
-Pop_(Lil_Uzi_Vert_song)
 Poppin_(KSI_song)
 Popstar_(DJ_Khaled_song)
 Por_Mi_México
@@ -100956,7 +101087,6 @@ Pretty_Lady_(Tash_Sultana_song)
 Pretty_Please_(song)
 Pretty_Savage
 Price_to_Pay
-Prices_(song)
 Prison_(Natalia_Gordienko_song)
 Prisoner_(Dance_Gavin_Dance_song)
 Prisoner_(Miley_Cyrus_song)
@@ -101027,6 +101157,7 @@ Resilient_(Katy_Perry_song)
 Resistiré_México
 Retrograde_(Pearl_Jam_song)
 Revenge_(Joyner_Lucas_song)
+Revival_(Zach_Bryan_song)
 Revival's_in_the_Air_(song)
 Rich_Nigga_Shit
 Ricki_Lake_(song)
@@ -101137,7 +101268,6 @@ Si_Veo_a_Tu_Mamá
 Sick_and_Tired_(Iann_Dior_song)
 Sick_of_the_Sun
 The_Silent_Treatment_ft._Terry_Blade_(Shivers_Remix)
-Silly_Watch
 Simmer_(song)
 Since_I_Was_Young
 Sine_from_Above
@@ -101674,6 +101804,7 @@ Absurd_(song)
 Acapulco_(song)
 Acaramelao
 Adrenalina_(Senhit_song)
+Adrenaline_(X_Ambassadors_song)
 Adventure_Is_Out_There
 After_All_(Elton_John_song)
 After_Last_Night
@@ -101790,6 +101921,7 @@ Beat_of_Broken_Hearts
 Beautiful_(NCT_song)
 Beautiful_Beaches
 Beautiful_Boy_(Karol_G_song)
+Beautiful_Liar_(X_Ambassadors_song)
 Beautiful_Lies_(Yung_Bleu_and_Kehlani_song)
 Beautiful_Mistakes
 La_Bebé
@@ -101877,6 +102009,7 @@ Bubbly_(Young_Thug,_Drake_and_Travis_Scott_song)
 Build_a_Bitch
 Build_It_Better
 Bullettu_Bandi
+Bullshit_(X_Ambassadors_song)
 Bunny_Is_a_Rider
 Burn_(Juice_Wrld_song)
 Butter_(song)
@@ -101989,6 +102122,7 @@ Dead_Butterflies
 Dead_Butterflies_(Architects_song)
 Dear_Miss_Loretta
 The_Death_of_Peace_of_Mind_(song)
+Deceiver,_Deceiver
 Deja_Vu_(Olivia_Rodrigo_song)
 Deja_Vu_(Tainy_and_Yandel_song)
 Déjalos_Que_Miren
@@ -102149,6 +102283,7 @@ For_God_Is_with_Us
 For_Tonight
 Forever_(Aespa_song)
 Forever_(Flight_Facilities_song)
+Forever_Winter
 Formentera_(song)
 Fountains_(song)
 Fractions_(Nicki_Minaj_song)
@@ -102246,7 +102381,7 @@ Have_Mercy_(Chlöe_song)
 Having_Our_Way
 Hazy_(Chloe_x_Halle_song)
 He_Said_She_Said_(Chvrches_song)
-Headshot_(song)
+Headshot_(Lil_Tjay,_Polo_G_and_Fivio_Foreign_song)
 Healing_(song)
 Hear_Me_Say
 Heart_on_Fire_(Eric_Church_song)
@@ -102294,6 +102429,7 @@ Hot_Sauce_(song)
 House_&_Garage
 House_Arrest_(Sofi_Tukker_and_Gorgon_City_song)
 House_Burn_Down
+House_of_Mirrors_(song)
 House_of_the_Lord_(song)
 House_Party_(Super_Junior_song)
 How_to_Talk_to_Girls_(song)
@@ -102421,7 +102557,7 @@ Keep_My_Spirit_Alive
 Kesi_(song)
 Kick_Ass_(Bryan_Adams_song)
 La_kiffance
-Killing_Me_(Chungha_song)
+Killing_Me_(Chung_Ha_song)
 Kimi_ni_Muchū
 Kimi_ni_Shikarareta
 Kimi_Shika_Katan
@@ -102484,6 +102620,7 @@ Leyenda_(song)
 Leyendas_(song)
 Libertine_(Architects_song)
 Lick_Back
+Lie_(Kizz_Daniel_song)
 Lie_Lie_Lie_(Joshua_Bassett_song)
 Life_Goes_On_(Oliver_Tree_song)
 Life_of_the_Party_(Kanye_West_and_André_3000_song)
@@ -102534,6 +102671,7 @@ Lonely_Christmas_(Bryson_Tiller_song)
 Look_at_the_Sky
 Looking_Tragic_/_Begging_for_Trouble
 Looks_Like_Me
+Lord_I_Need_You
 Lose_(song)
 Lose_You_Now
 Lost_(Maroon_5_song)
@@ -102546,6 +102684,7 @@ Love_&_War_(song)
 Love_All_(song)
 Love_Don't_Cost_a_Dime
 Love_Is_a_Game_(song)
+Love_Is_Death_(X_Ambassadors_song)
 Love_Is_on_My_Side
 Love_Me_Now_(Kygo_song)
 Love_Me_Right_(Gretta_Ray_song)
@@ -102592,7 +102731,7 @@ Maps_(Lesley_Roy_song)
 Marché_noir
 Marea_(song)
 Marea_(We've_Lost_Dancing)
-Mask_(song)
+Mask_(Dream_song)
 Masterpiece_(DaBaby_song)
 Mata_Hari_(Samira_Efendi_song)
 Mata_Sugu_Aō_Ne
@@ -102613,6 +102752,7 @@ Mercy_(Elevation_Worship_and_Maverick_City_Music_song)
 Merry_Christmas_(song)
 Message_in_a_Bottle_(Taylor_Swift_song)
 Met_Him_Last_Night
+Metamorphosis_(Interworld_song)
 Meteor_(Architects_song)
 Mi_Amor_Soy_Yo
 Mi_Debilidad
@@ -102673,6 +102813,7 @@ My_Life_(J._Cole,_21_Savage_and_Morray_song)
 My_Little_Love
 My_Mind_(Baker_Boy_song)
 My_Starry_Love
+My_Treasure
 My_Turn_(Cravity_song)
 My_Universe_(song)
 My_War_(song)
@@ -102694,7 +102835,7 @@ Neighbors_(Pooh_Shiesty_song)
 Nemohamo_Rumor
 Nena_Buena
 Neurotic_(song)
-Nevada_(song)
+Nevada_(YoungBoy_Never_Broke_Again_song)
 Never_Find_My_Place
 Never_Giving_Up_on_You
 Never_Going_Home
@@ -102708,7 +102849,7 @@ New_America_(Marina_song)
 New_Love_(Silk_City_song)
 New_Normal_(song)
 New_Old_Trucks
-New_Religion_(song)
+New_Religion_(Anton_Ewald_song)
 New_Shapes
 New_Truck
 New_Wave_(song)
@@ -102752,7 +102893,6 @@ Number_2_(song)
 Obsessed_(Addison_Rae_song)
 Obsessed_with_You
 Ocho_Kandelikas
-Odisea_(song)
 Odo_(song)
 Odoriko_(song)
 Off_My_Face
@@ -102763,6 +102903,7 @@ Oh_Na_Na
 Oh_No_(Wet_Leg_song)
 Oh!_(The_Linda_Lindas_song)
 Ok_Ok_(song)
+Okay_(X_Ambassadors_song)
 Old_Church_Basement_(song)
 Old_School_(Toby_Keith_song)
 Oliver_Twist_(ArrDee_song)
@@ -102788,6 +102929,7 @@ One_Song_(Archie_Roach_song)
 The_Only_Heartbreaker
 Only_One_(Khea,_Julia_Michaels_and_Becky_G_song)
 Only_You_(Gims_song)
+Oo_Antava_Oo_Oo_Antava
 Options_(Doja_Cat_song)
 Orwellian_(song)
 Osama_(song)
@@ -102804,6 +102946,7 @@ Oxytocin_(song)
 Pa_Mis_Muchachas
 Pain_(PinkPantheress_song)
 Pale_Blue_(song)
+Palo_Santo_(X_Ambassadors_song)
 Pandora's_Box_(Marina_song)
 Pano_(song)
 Papercuts_(Machine_Gun_Kelly_song)
@@ -102856,6 +102999,7 @@ Por_Las_Noches
 Pose_(Red_Velvet_song)
 Poster_Girl_(Zara_Larsson_song)
 Potevi_fare_di_più
+Pour_Me_Water
 Prada_(24kGoldn_and_Lil_Tecca_song)
 Praise_God
 Prends_ma_main
@@ -102902,6 +103046,7 @@ Recordar_(song)
 Recover_(James_song)
 Red_Light_Green_Light_(song)
 Red_Room_(Hiatus_Kaiyote_song)
+Reincarnated_(X_Ambassadors_song)
 Reír
 Relate_(song)
 Relationship_Goals_(song)
@@ -102950,6 +103095,7 @@ Running_Away_(VANO_3000)
 Running_with_the_Hurricane_(song)
 Rush_(Ayra_Starr_song)
 Rushing_Water
+Saami_Saami
 Sabotage_(Bebe_Rexha_song)
 Sacrifice_(Bebe_Rexha_song)
 Saigo_no_Tight_Hug
@@ -103033,6 +103179,7 @@ Slow_(Black_Midi_song)
 Slow_Clap_(song)
 Slow_Down_Summer
 Slower_(song)
+Smile_(Benjamin_Ingrosso_song)
 Smile_(Wolf_Alice_song)
 Smokin_out_the_Window
 Snacky_Poo
@@ -103406,6 +103553,7 @@ Category:2022_songs
 3AM_on_Glenwood
 5_Foot_9
 5_gocce
+9_giugno
 10_Things_I_Hate_About_You_(song)
 10:35
 11_Beers
@@ -103414,6 +103562,7 @@ Category:2022_songs
 21_Reasons
 28_Reasons_(song)
 29_(Demi_Lovato_song)
+90_Proof
 1984_(Macklemore_song)
 54321_(song)
 A_Meia_Noite
@@ -103445,6 +103594,7 @@ All_I_Need_to_Hear
 All_I_Wanted_(Avril_Lavigne_song)
 All_Mine_(Brent_Faiyaz_song)
 All_Night_(S-X_song)
+All_of_Us_(Ashawo)
 All_the_Things_I_Hate_About_You
 All_These_Nights
 All_Things_Must_Change
@@ -103478,6 +103628,7 @@ Armee_der_Tristen
 Around_Me
 As_It_Was
 Asanda_(song)
+Asiwaju
 Aston_Martin_Truck
 The_Astronaut_(song)
 Atopos_(song)
@@ -103498,6 +103649,7 @@ B.R.O._(Better_Ride_Out)
 Baby_(Aitch_and_Ashanti_song)
 Baby_(Charli_XCX_song)
 Baby_Queen_(song)
+Babydoll_(Ari_Abdul_song)
 Back_End_(song)
 Back_in_the_Day_(Sugababes_song)
 Back_That_Up_to_the_Beat
@@ -103522,6 +103674,7 @@ Bailé_Con_Mi_Ex
 Baka_Majime
 Balader_(song)
 Bam_Bam_(Camila_Cabello_song)
+Bandana_(song)
 Banking_on_Me
 Baraye
 Bayraktar_(song)
@@ -103615,7 +103768,9 @@ Budweiser_(Nate_Haller_song)
 Buen_Dia_(song)
 La_Buena_Vida_(song)
 Buenos_Días_(song)
+Buga_(song)
 Bulan_(song)
+Burn,_Burn,_Burn
 Burning_(Yeah_Yeah_Yeahs_song)
 Bussin_(Nicki_Minaj_and_Lil_Baby_song)
 Cachorrinhas
@@ -103646,6 +103801,7 @@ Catch_Me_in_the_Air
 Cate's_Brother
 Ceilings_(song)
 Celebrate_(Twice_song)
+Celestial_(Ed_Sheeran_song)
 Celia_(Camila_Cabello_song)
 Ch_y_la_Pizza
 Chameleon_(King_Gnu_song)
@@ -103704,6 +103860,7 @@ Cookie_(song)
 Cooped_Up
 Copycat_(Apink_Chobom_song)
 Corazón_Roto
+Cough_(Odo)
 Country_Music,_Girls_and_Trucks
 Country_On
 Cozy_(song)
@@ -103765,6 +103922,7 @@ Die_Together
 Die_Young_(Sleepy_Hallow_song)
 Diet_Coke_(song)
 Dilemma_(Apink_song)
+Dime_Quién??
 Dirty_Secrets
 Dirty_White_Vans
 Disciplina_(song)
@@ -103984,6 +104142,7 @@ Hallucination_(song)
 Halo_(Lumix_song)
 Hana_wa_Dare_no_Mono?
 Handle_on_You
+Handshake_with_Hell
 Handsomer
 Hanging_with_Wolves
 The_Happiest_Girl
@@ -104032,6 +104191,7 @@ High_Infidelity_(song)
 High_Plains_Drifter_(song)
 High_School_in_Jakarta
 Higher_Power_(Anna_Bergendahl_song)
+Highway_Boys
 Hisashiburi_no_Lip_Gloss
 Hits_Different
 Hold_Me_Closer_(Cornelia_Jakobs_song)
@@ -104120,6 +104280,7 @@ In_Jesus_Name_(God_of_Possible)
 In_My_Head_(Juice_Wrld_song)
 In_My_Head_(Lil_Tjay_song)
 In_the_Dark_(Purple_Disco_Machine_and_Sophie_and_the_Giants_song)
+In_the_Eye_of_the_Storm_(song)
 In_the_Stars_(Benson_Boone_song)
 In_the_Wake_of_Your_Leave
 Innocent_Love_(Robin_Bengtsson_song)
@@ -104145,6 +104306,7 @@ Jimmy_Cooks
 Jodie_(SZA_song)
 Johnny_P's_Caddy
 Jolly_O_Gymkhana
+JS4E
 Juice_Wrld_Did
 Julieta_(song)
 Jumbotron_Shit_Poppin
@@ -104199,6 +104361,7 @@ La_Reina_(song)
 La_Vida_Es_Una_(song)
 Labyrinth_(Cryalot_song)
 Labyrinth_(Taylor_Swift_song)
+Lagi_(Bini_song)
 Last_Last
 Last_Night_Lonely
 The_Last_Ride_(song)
@@ -104222,6 +104385,7 @@ Let's_Go_(King_Stingray_song)
 Let's_Trot!
 Let's_Try_Being_in_Love
 Levels_(Sidhu_Moose_Wala_song)
+Liar_(Jay_Chang_song)
 Liberation_(Muse_song)
 Lick_(Shenseea_and_Megan_Thee_Stallion_song)
 Lie_Again
@@ -104234,9 +104398,11 @@ Light_Switch_(song)
 Lightning_(Charli_XCX_song)
 Like_I_Love_Country_Music
 Lion_(Elevation_Worship_song)
+Litoranea_(song)
 A_Little_Bit_of_Love_(Weezer_song)
 Little_Freak
 Llámame_(Wrs_song)
+Loaded_(Tiwa_Savage_and_Asake_song)
 Lock_Me_In
 Lokera
 London_(Bia_and_J._Cole_song)
@@ -104365,6 +104531,7 @@ Naa_Ready
 Nabillera_(song)
 Nail_Tech
 Naked_(Lizzo_song)
+Naked_in_Manhattan
 Nashville_or_Nothing
 Nasty_(Tyga_and_Chris_Brown_song)
 Naughty_&_Nice
@@ -104408,6 +104575,7 @@ No_Time_Like_Christmas
 Nobody_Gets_Me
 Nobody_Like_U
 Noche_de_Novela
+Nochentera
 Nonfiction_(song)
 Nonsense_(song)
 Normal_(Feid_song)
@@ -104516,6 +104684,7 @@ Players_(song)
 Pocket_(Poppy_song)
 Pointless_(song)
 Poison_Flowers_(song)
+Poisoned_Arrow
 Poland_(song)
 Pop_Out_(Lil_Baby_and_Nardo_Wick_song)
 Pop!_(Nayeon_song)
@@ -104679,7 +104848,7 @@ Smoking_on_My_Ex_Pack
 SMS_(song)
 Snap_(Rosa_Linn_song)
 Sneakers_(song)
-Snooze_(song)
+Snooze_(SZA_song)
 Snow_on_the_Beach
 So_Good_(Halsey_song)
 Soft_Life
@@ -104708,8 +104877,9 @@ Soso_(Omah_Lay_song)
 Soweto_(song)
 Soy_el_Único
 Soy_Yo_(Don_Omar,_Wisin_and_Gente_de_Zona_song)
+Espacio_en_Tu_Corazón
 Space_Man
-Sparkling_(Chungha_song)
+Sparkling_(Chung_Ha_song)
 Special_(Lizzo_song)
 Special_(SZA_song)
 Spin_Bout_U
@@ -104732,6 +104902,7 @@ Staying_Alive_(song)
 Stefania_(song)
 Step_1_(song)
 Step_Back_(Got_the_Beat_song)
+Step_by_Step_(Braxe_+_Falcon_song)
 Stick_(song)
 Stick_Season_(song)
 Sticky_(Drake_song)
@@ -104766,6 +104937,7 @@ Summer_Is_Over_(KSI_song)
 Summer_of_'99
 Sun_and_Moon_(Anees_song)
 Sunday_Sermons
+Sunset_over_the_Empire
 Sunshine_(Latto_song)
 Super_Freaky_Girl
 Superhero_(Heroes_&_Villains)
@@ -104938,6 +105110,7 @@ War_(King_Von_song)
 Waste_of_Space
 Wastin'_Whiskey
 Watawi
+The_Watcher_(Arch_Enemy_song)
 Water_(Drowning_Pt._2)
 Water_Is_Wild
 Water_Under_the_Bridge_(Sam_Hunt_song)
@@ -104987,6 +105160,7 @@ With_You_(Jimin_and_Ha_Sung-woon_song)
 With_You_(Khaid_song)
 Woke_Up_in_Love_(Kygo,_Gryffin_and_Calum_Scott_song)
 Wolf_(Saint_Asonia_song)
+Won_Da_Mo
 Won't_Forget_You
 Won't_Stand_Down
 Wondering_Why
@@ -105036,6 +105210,7 @@ Category:2023_songs
 $ad_Boyz_II
 1-800-Nas-&-Hit
 2_Die_4_(Addison_Rae_song)
+2_Die_4_(song)
 2_Grown
 2_in_Luv
 2_Much_2_Handle
@@ -105053,6 +105228,7 @@ $ad_Boyz_II
 72_Seasons_(song)
 77_(song)
 100%_Terrible
+180_(Lifestyle)
 350_(song)
 500lbs
 0800_Heaven
@@ -105066,6 +105242,7 @@ Acho_PR
 Acróstico
 Act_II:_Date_@_8
 Adiós_(María_Becerra_song)
+Adoption_Song
 Adore_U
 Adventure_(Yoasobi_song)
 AEIOU_(Pnau_and_Empire_of_the_Sun_song)
@@ -105310,6 +105487,7 @@ Coming_Your_Way
 Common_Ground_(song)
 Cool_with_You
 Copa_Vacía
+Cough_(Odo)
 Count_'Em
 Country_Music_Made_Me_Do_It_(Carly_Pearce_song)
 The_Court_(song)
@@ -105379,6 +105557,7 @@ Divatā
 DJ_Play_a_Christmas_Song
 DNA_(Loving_You)
 Do_It_Again_(Benee_song)
+Do_It_Anyway_(Jade_Eagleson_song)
 Do_It_Like_That_(Tomorrow_X_Together_and_Jonas_Brothers_song)
 Do_Not_Touch
 Do_You_Like_Me?
@@ -105421,6 +105600,7 @@ Electric_Touch_(song)
 Elevator_Eyes
 Ella_Baila_Sola_(song)
 Elon_Musk_(Shallipopi_song)
+Embarrassed
 Emoji_(Ronny_J_and_XXXTentacion_song)
 En_la_Intimidad_(Big_One,_Emilia_and_Callejero_Fino_song)
 End_of_Time_(Zara_Larsson_song)
@@ -105519,7 +105699,7 @@ The_Gift_(Celine_Dion_song)
 Gila_Monster_(song)
 Gimme_(Sam_Smith,_Koffee_and_Jessie_Reyez_song)
 Gimme_Love_(Sia_song)
-Girl_Next_Door_(Tyla_song)
+Girl_Next_Door_(Tyla_and_Ayra_Starr_song)
 The_Girl_That_Never_Was
 The_Girls_(Blackpink_song)
 Give_You_Love
@@ -105530,6 +105710,7 @@ Glu_(song)
 Glue_Song
 Go_Hard_(Lil_Baby_song)
 The_Goblin_Song
+God_Is_Not_Against_Me
 God_Is_Really_Real
 God_of_Music_(song)
 God's_Country_(Travis_Scott_song)
@@ -105560,6 +105741,8 @@ Guasto_d'amore
 Gucci_los_Paños
 Guerrero_(song)
 Guli_Mata
+Gusto_(song)
+Gwagwalada_(song)
 H00dByAir
 Haegeum_(song)
 Halfway_to_Hell
@@ -105616,6 +105799,7 @@ How_Much_Is_Weed?
 How_We_Roll_(Ciara_and_Chris_Brown_song)
 How_You_Leave_a_Man
 Huh?!
+Hukum_–_Thalaivar_Alappara
 Humans_(song)
 Hummingbird_(Metro_Boomin_and_James_Blake_song)
 Hvn_on_Earth
@@ -105626,6 +105810,7 @@ I_Can_Feel_It_(Kane_Brown_song)
 I_Can_See_You_(song)
 I_Do_((G)I-dle_song)
 I_Do!_Do_You?
+I_Got_It_Bad_(song)
 I_Know_?
 I_Like_U_(Tove_Lo_song)
 I_Love_You_(Dadju_and_Tayc_song)
@@ -105640,8 +105825,10 @@ I_Want_You_(SB19_song)
 I_Wish_You_Roses
 I_Wrote_a_Song
 I_Wrote_the_Book_(Morgan_Wallen_song)
+I'd_Do_Anything_(Jay_Chang_song)
 I'd_Rather_Sing
 I'll_Be_(Celine_Dion_song)
+I'll_Be_There_(Jay_Chang_song)
 I'm_Just_Ken
 I'm_Not_Here_to_Make_Friends
 I'm_Not_Human
@@ -105853,6 +106040,7 @@ Milo_J:_Bzrp_Music_Sessions,_Vol._57
 Mind_Your_Business_(song)
 Mine_(Kelly_Clarkson_song)
 Miracle_(Calvin_Harris_and_Ellie_Goulding_song)
+Miracle_Child_(song)
 Mirage_(OneRepublic_song)
 Mirror_to_the_Sky_(song)
 Missin_U_(Tori_Kelly_song)
@@ -105879,6 +106067,7 @@ Motion_God
 Motto_(NF_song)
 Mountain_(Sam_Ryder_song)
 Mourning_(Post_Malone_song)
+Move_(T5_song)
 Mr_Right_(song)
 Mr._October_(song)
 Mr._Take_Ya_Bitch
@@ -105913,16 +106102,20 @@ Never_Gonna_Stop_(Rick_Astley_song)
 Never_Let_Me_Go_(Depeche_Mode_song)
 Never_Lose_Me
 New_Jeans_(song)
+New_Religion_(Olamide_song)
 Next_(YoungBoy_Never_Broke_Again_song)
 Next_to_You_(Loud_Luxury_and_Dvbbs_song)
 Ngiyeza
 Nice_2_Me
+Nice_to_Meet_You_(PinkPantheress_song)
 Nightmares_(Bresh_song)
 Nightmares_(Chris_Brown_song)
 Nights_Like_This_(The_Kid_Laroi_song)
 Niña_Bonita_(Feid_and_Sean_Paul_song)
 No_Bad_Days
 No_Difference
+No_Longer_Bound
+No_Pole
 No_Se_Ve
 No_Statements
 No_Szns
@@ -106014,6 +106207,7 @@ Pedestal_(Aiko_song)
 Penhasco2
 La_People
 People_Are_Good
+People_of_Heaven
 People_Pt._2
 Perfect_Night_(Le_Sserafim_song)
 Perfume_(NCT_DoJaeJung_song)
@@ -106076,7 +106270,7 @@ Rabbit_Hole_(song)
 Ragazza_sola
 Rain_(Boldly_in_the_Pretend)
 Rainy_Days_(song)
-Rajieen_(song)
+Rajieen
 Ram_Dass_Interlude
 Rauw_Alejandro:_Bzrp_Music_Sessions,_Vol._56
 React_(Switch_Disco_and_Ella_Henderson_song)
@@ -106100,6 +106294,7 @@ Ritual_(Within_Temptation_song)
 River_(Miley_Cyrus_song)
 Road_to_Joy_(Peter_Gabriel_song)
 Robberies_(song)
+Rockstar_(Jay_Chang_song)
 Rockstar_(Xikers_song)
 Rodeo_Man
 Rodeo_Queen_(song)
@@ -106112,6 +106307,7 @@ Rosa_Pastel_(Peso_Pluma_and_Jasiel_Nuñez_song)
 Round_We_Go_(Madness_song)
 Rover_(Kai_song)
 Royals_(Paul_Rey_song)
+RTID_(Rich_Till_I_Die)
 Run_for_the_Hills_(song)
 Runaway_(OneRepublic_song)
 Running_Out_of_Time_(song)
@@ -106119,6 +106315,7 @@ Rush_(Troye_Sivan_song)
 S-Class_(song)
 S91_(song)
 Sab_Sitaray_Humaray
+Sability
 Sabor_Fresa
 Sacred_the_Thread
 Sad_Bitch
@@ -106147,7 +106344,7 @@ See_You_Soon_(Mimi_Webb_song)
 See_Your_Heart
 Según_Quién
 Self_Love_(song)
-Selos_(Shaira_song)
+Selos_(song)
 Sensational_(song)
 Set_Me_Free_(Twice_song)
 Set_Me_Free_Pt._2
@@ -106155,6 +106352,7 @@ Seven_(Jungkook_song)
 Seventeen_(Yoasobi_song)
 Shadows_Follow
 Shaka_Laka
+Shake_Dat_Ass_(Twerk_Song)
 Shake_Sumn
 Shaq_&_Kobe
 She_Knows_(Dimitri_Vegas_&_Like_Mike_song)
@@ -106194,6 +106392,7 @@ Soak_(Samuel_Mancini_song)
 Soak_City_(Do_It)
 Soarele_și_Luna
 Social_Path
+Solo_(Myles_Smith_song)
 Somebody_(TSHA,_Ellie_Goulding_and_Gregory_Porter_song)
 Something_to_Believe_In_(Kesha_song)
 Something's_Gonna_Kill_Me
@@ -106226,6 +106425,7 @@ Standing_Room_Only_(Tim_McGraw_song)
 Stars_(B'z_song)
 Stars_(Pnau,_Bebe_Rexha_and_Ozuna_song)
 Stay_(Monika_Linkytė_song)
+Stay_High_(Diplo_and_Hugel_song)
 Steal_the_Show
 Still_Alive_(Demi_Lovato_song)
 Still_Believe_in_Love
@@ -106295,6 +106495,7 @@ Things_We_Do_for_Love_(Kylie_Minogue_song)
 Think_Fast_(Dominic_Fike_song)
 Think_I'm_in_Love_with_You
 Thinkin'_Bout_Me
+Thirsty_(Aespa_song)
 This_Is_My_Dirt
 This_Is_New_York
 This_Is_Our_God_(song)
@@ -106319,6 +106520,7 @@ Too_Far_Gone?
 Too_Much_(The_Kid_Laroi,_Jungkook_and_Central_Cee_song)
 Topia_Twins
 Tormenta_(Gorillaz_song)
+Touché_(Sarah_song)
 Touchy_Feely_Fool
 TQG
 TQM_(song)
@@ -106357,7 +106559,6 @@ Una_Foto
 Unavailable_(song)
 Under_the_Tree_(SiM_song)
 Under_You_(Foo_Fighters_song)
-Unforgiven_(Le_Sserafim_song)
 Unhealthy_(song)
 Unicorn_(song)
 United_Strike_Back
@@ -106372,6 +106573,7 @@ Vibe_(Taeyang_song)
 La_Víctima
 Video_Games_(Tenacious_D_song)
 Vidury_naktų
+Viole_e_violini
 Violet_Chemistry
 Virginia_Beach_(song)
 Vision_(Qing_Madi_song)
@@ -106452,6 +106654,7 @@ The_Worst_Person_Alive
 Worth_It_(Offset_and_Don_Toliver_song)
 Wrap_Me_Up_(Jimmy_Fallon_and_Meghan_Trainor_song)
 WTF_(YoungBoy_Never_Broke_Again_and_Nicki_Minaj_song)
+WYA_(song)
 XXL_(LANY_song)
 Y_Lloro
 Yentamma
@@ -106482,19 +106685,25 @@ Category:2024_songs
 (OST)_(Spi)ritual
 (OST)_Dreamseeker
 (OST)_Puss-e
++57_(song)
 $$$_(Gunna_song)
 1_to_3_(song)
+1_Wish
 1:59
 1+1=11
 2_Hands
 2_the_Moon
 02.02.99
+3am_(Rosé_song)
 4x4xU
+5AM_(song)
 6:16_in_LA
 7_Minute_Drill
 11:11_(Megara_song)
+14_Febreros
 16_Carriages
 25_(song)
+28_(song)
 30_km/h
 30°C
 42_(Aya_Nakamura_song)
@@ -106505,8 +106714,9 @@ $$$_(Gunna_song)
 1093_(song)
 1981_(Green_Day_song)
 2093_(song)
-Aaj_Ki_Raat_(2024_song)
+Aaj_Ki_Raat_(Stree_2_song)
 ABCD_(song)
+Abigail_(song)
 Access_Memory_(RAM)
 Aceita
 Acknowledge_Me_(Doja_Cat_song)
@@ -106515,6 +106725,7 @@ Addicted_(Zerb_and_the_Chainsmokers_song)
 Adivino
 Aeon_Lust
 After_Hours_(Kehlani_song)
+AGATS2_(Insecure)
 Agora_(María_Becerra_song)
 Ain't_How_It_Ends
 Ain't_No_Love_in_Oklahoma
@@ -106525,6 +106736,7 @@ Alegría_(Tiago_PZK,_Anitta_and_Emilia_song)
 Alibi_(Ella_Henderson_song)
 Alibi_(Sevdaliza,_Pabllo_Vittar_and_Yseult_song)
 Alienated_(song)
+All_I_Ever_Wanted_(Ivy_song)
 All_My_Life_(Benjamin_Ingrosso_song)
 All_My_Life_(Falling_in_Reverse_song)
 All_My_Life_(Tiësto_and_Fast_Boy_song)
@@ -106537,8 +106749,10 @@ All_Your_Fault_(Gwen_Stefani_song)
 Alligator_Tears_(Beyoncé_song)
 Alligator_Tears_(song)
 Alma_Mater_(Bleachers_song)
+Alone_(The_Cure_song)
 Always_on_the_Run_(Isaak_song)
 Am_I_Okay?_(song)
+Amaneció
 Amen_(Beyoncé_song)
 American_Dream_(21_Savage_song)
 American_Requiem
@@ -106558,7 +106772,6 @@ Apnea_(Emma_Marrone_song)
 Apple_(song)
 Apply_Pressure_(song)
 Apt._(song)
-Aquamarine_(Addison_Rae_song)
 Aquamarine_(song)
 The_Architect_(Kacey_Musgraves_song)
 Are_You_Going_to_See_the_Rose_in_the_Vase,_or_the_Dust_on_the_Table
@@ -106570,14 +106783,20 @@ ASAP_(Shallipopi_song)
 Assume_the_Position_(song)
 Attention_(Bryson_Tiller_song)
 Attitude_(Don_Toliver_song)
+Attn_(song)
 Awaaz_Utha
+Awaken_(Breaking_Benjamin_song)
 Awful_Liar
+Awuke
 Aye_Say_Gang
 Babaero
+Baby_It's_Both
+Baby_Oil_(song)
 Baby_Pink_(song)
 Bachelor_(Rod_Wave_song)
 Back_Around_(Becky_Hill_song)
 Back_in_the_A
+Back_to_Back_(Zerrydl_song)
 Back_to_Me_(¥$_song)
 Back_to_My_Roots_(Jay_Smith_song)
 Back_to_Texas
@@ -106589,6 +106808,8 @@ Bad_Bitty
 Bad_Boy_(Chris_Jedi,_Gaby_Music_and_Dei_V_song)
 Bad_Dreams_(song)
 Bad_Time_(Lil_Tecca_song)
+The_Ballad_of_the_Witches'_Road
+Balloon_(Tyler,_the_Creator_song)
 Bam_Yang_Gang
 Band4Band
 Bandido_(Becky_G_song)
@@ -106600,6 +106821,7 @@ BBL_Drizzy
 Be_Someone_(Benson_Boone_song)
 Beat_of_Your_Heart
 Beautiful_as_You_(Thomas_Rhett_song)
+Beautiful_That_Way_(Miley_Cyrus_song)
 Beautiful_Things_(Benson_Boone_song)
 Bed_Chem
 Been_Like_This
@@ -106626,6 +106848,7 @@ Bittersweet_(Gunna_song)
 The_Black_Dog_(song)
 Black_Friday_(Pretty_Like_the_Sun)
 Black_Friday_(Tom_Odell_song)
+Black_Hole_(Lil_Uzi_Vert_song)
 Black_Nirvana
 Blackbird_(Beyoncé_song)
 Blackjack_(Gunna_song)
@@ -106639,10 +106862,10 @@ Bluetooth_(song)
 Boa_(song)
 Bobby_Sox_(song)
 Body_(A_Boogie_wit_da_Hoodie_song)
+Body_(Meovv_song)
 Bodyguard_(Beyoncé_song)
 Boku_wa...
 The_Bolter_(song)
-Bomb_(song)
 Bones_(Russell_Dickerson_song)
 Boogieman_(EBK_Jaaybo_song)
 Boom_Boom_Bass
@@ -106655,11 +106878,14 @@ The_Boy_Is_Mine_(Ariana_Grande_song)
 Brand_New_Dance_(song)
 Brazzier
 Breathe_(Yeat_song)
+Breathing_(Mary_J._Blige_song)
 Brickell_(song)
 Brindo_Con_Agua
+Brokey_(song)
 Brother_Stone
 Brought_the_Heat_Back
 Bubble_Gum_(NewJeans_song)
+Buenas_Noches_(song)
 Buenos_Aires_(Tini_song)
 Bulaklak_Sa_Buwan
 Bulletproof_(Nate_Smith_song)
@@ -106672,8 +106898,11 @@ Bussin_(Moneybagg_Yo_and_Rob49_song)
 Busy_Girl
 But_Daddy_I_Love_Him
 Butai_ni_Tatte
+Buttalo_via
 Bye_(Ariana_Grande_song)
+Bye-Bye_(Ayumi_Hamasaki_song)
 Cactus_(Belinda_Peregrín_song)
+Call_It_the_End
 Called_Crazy
 Calypso_(Bryson_Tiller_song)
 Can_Friends_Kiss?
@@ -106685,25 +106914,32 @@ Capricorn_(song)
 Cardinal_(song)
 Carita_Triste
 Carnival_(¥$_song)
+Cartier_Santos
 Casa_mia
 Cassandra_(Taylor_Swift_song)
 Champagne_Moments
 Change_Me_(BigXthaPlug_song)
+Chapiadora.com
 Cheeky_Icy_Thang
 Cheerleader_(Porter_Robinson_song)
+Cherish_(My_Love)
 Cherry_on_Top_(Bini_song)
 Chihiro_(song)
+Chill_Bae
+Chips_and_Dip_(song)
 Chk_Chk_Boom
 Chloe_or_Sam_or_Sophia_or_Marcus
 Chocolat_Cadabra
 Chow_(Drug_Church_song)
 Chula_(song)
+Chuttamalle
 Ciao!_(Bryson_Tiller_song)
 Cinderella_(Future,_Metro_Boomin_and_Travis_Scott_song)
 Clara_Bow_(song)
 Classical_(song)
 Clear_My_Rain
 Click_Boom!
+Clik_Clak
 Close_to_You_(Gracie_Abrams_song)
 The_Code_(Nemo_song)
 Cohete
@@ -106711,12 +106947,15 @@ A_Cold_Sunday
 Collage_(Gunna_song)
 Coma_(Caroline_Polachek_song)
 Coma_City
+Combo_(song)
 Come_Back_to_Me_(RM_song)
 Come_Show_Me
 Come_un_tuono
 Coming_Home_(Old_Dominion_song)
 Como_Diablos
 Cómo_Dónde_y_Cuándo
+Compress_/_Repress
+Conceited_(Lil_Uzi_Vert_song)
 Connect_(Vampire_Weekend_song)
 Conscience_(song)
 Contigo_(song)
@@ -106725,7 +106964,7 @@ Corazón_(Nelly_Furtado_and_Bomba_Estéreo_song)
 Corazón_de_Piedra
 Corvette_Summer_(song)
 Cosas_de_la_Peda
-Cosmic_(Red_Velvet_song)
+Cosmic_(song)
 Cowboy_Songs_(song)
 Cowboys_Cry_Too
 The_Craving_(song)
@@ -106736,10 +106975,11 @@ Crisis_(Becky_G_song)
 Crocodile_Tearz
 Crush_(Katy_Perry_song)
 Cry_(Benson_Boone_song)
-Cry_Baby_(Clean_Bandit,_Anne-Marie_and_David_Guetta_song)
 A_Cure_for_Minds_Unwell
 D.A.R.E._(song)
+Dance_All_Night_(Rosé_song)
 Dance_Alone_(Sia_and_Kylie_Minogue_song)
+Dance_with_Me_(Tones_and_I_song)
 Dancing_in_Babylon
 Dancing_in_the_Flames
 Dandelion_(Jaehyun_song)
@@ -106747,6 +106987,8 @@ Dangerous_(21_Savage,_Lil_Durk_and_Metro_Boomin_song)
 Dangerous_(BoyNextDoor_song)
 Dark_Days_(21_Savage_and_Mariah_the_Scientist_song)
 Darkest_Hour_(Becky_Hill_song)
+Darkest_Hour_(Eric_Church_song)
+Darling,_I
 Dash_(Nmixx_song)
 Daughter_(Beyoncé_song)
 The_Day_of...
@@ -106756,10 +106998,12 @@ Dead_at_the_Honky_Tonk
 Dead_Man_(Alessia_Cara_song)
 Death_&_Romance
 Death_of_Me_(Skye_Riley_song)
+Debut_(Katseye_song)
 Decline_and_Fall_(song)
 Deep_in_the_Water
 Deeper_Well_(song)
 Delusion:All
+Delusional_(Kesha_song)
 Demolition_Man_(Drug_Church_song)
 Desert_Eagle_(Beyoncé_song)
 Desert_Eagle_(song)
@@ -106772,12 +107016,14 @@ Did_It_First
 Die_with_a_Smile
 Diet_Pepsi_(song)
 Dilaw_(song)
+Dillo_solo_al_buio
 Dinner_with_Friends_(song)
 Dirty_(Jessie_Murph_and_Teddy_Swims_song)
 Disease_(Lady_Gaga_song)
 Dizzy_(Olly_Alexander_song)
 Do_It_(¥$_song)
 Do_or_Die_(Xikers_song)
+Dobrodošli
 Doctor_(Work_It_Out)
 Dolly_P
 Don't_Cry_(Candy_Shop_song)
@@ -106791,12 +107037,16 @@ Down_Bad_(Taylor_Swift_song)
 Down_with_Me
 Dragon_(song)
 Drama_(Janalynn_Castelino_song)
+Dream_Stealer
 Drinkin'_Buddies
+Drinks_or_Coffee
+Drip_(Babymonster_song)
 Drop_and_Give_Me_50
 Drown_(Justin_Timberlake_song)
 Drunk_in_My_Mind
 Dunk_Contest_(song)
 La_Durango
+Duro_(song)
 Earth,_Wind_&_Fire_(song)
 East_Finchley_(song)
 Easy_(Le_Sserafim_song)
@@ -106804,6 +107054,7 @@ Eating_the_Cats
 Edge_of_Saturday_Night
 Effortless
 Ego_(Halsey_song)
+El_Estribillo
 Embrace_It
 Empire_Now
 The_Emptiness_Machine
@@ -106825,6 +107076,7 @@ Evil_(Eminem_song)
 EvilJ0rdan
 Eyes_Closed_(Imagine_Dragons_song)
 F4U_(song)
+Fable_(Gigi_Perez_song)
 Facts_(Tom_MacDonald_and_Ben_Shapiro_song)
 Fall_Back
 Fall_Fast_in_Love
@@ -106845,9 +107097,9 @@ Federal_Nightmares_(Rod_Wave_song)
 Feed_the_Flames
 Feel_It_(D4vd_song)
 Feel_the_Pop
+Feeling_(Elodie_and_Tiziano_Ferro_song)
 Feels_Like_I'm_Falling_in_Love
 Fell_in_Love_(Megan_Thee_Stallion_song)
-Field_Trip_(¥$_song)
 Field_Trip_(song)
 Fighter_(Tali_song)
 Find_My_Way_(Bryson_Tiller_song)
@@ -106859,10 +107111,14 @@ First_(Schoolboy_Q_song)
 First_Time_(Coldplay_song)
 Fishbrain_(song)
 Fisherrr
+Fix_What_You_Didn't_Break
 Flamenco_(Beyoncé_song)
 Flores_Pa_Ti
 Florida!!!
+For_Me
+For_Months_Now_(III)
 Forbidden_Fruit_(Leigh-Anne_song)
+Forbidden_Road
 Forever_(Babymonster_song)
 Forever_(Loreen_song)
 Forever_(Noah_Kahan_song)
@@ -106888,9 +107144,11 @@ Fuck_the_Fame
 Fuel_(Eminem_song)
 La_Fuerte
 Fuk_Sumn
+Funds_(song)
 Funny_Guy
 Gala_y_Dalí
 Gambler's_Prayer
+Gameboy_(song)
 Gangsta_(Free_Nationals,_ASAP_Rocky_and_Anderson_.Paak_song)
 Gen-X_Cops_(song)
 Generator_(Justice_song)
@@ -106901,33 +107159,41 @@ Get_It_Sexyy
 Get_Off_Me
 Get_Up_Bitch!_Shake_Ya_Ass
 Getaway_(Tom_Odell_song)
+Ggum
+Giant_(Stray_Kids_song)
 Gimme_Gimme_(Katy_Perry_song)
 Gimmie_a_Light
 Girls_(Dom_Dolla_song)
 Girls_(The_Kid_Laroi_song)
 Girls_Never_Die
 Give_My_Heart_a_Break
+The_Giver_(song)
 Giver_/_Taker
 Giving_Chanel
 Glow_(Fred_Again,_Duskus,_Four_Tet_and_Skrillex_song)
 Gnezdo_orlovo
+GNX_(song)
 Go_Home_W_U
 Go_to_Hell_(Post_Malone_song)
 Go-Getters
+God_Is_Good_(Forrest_Frank_song)
+Goddard_Song
 Goddess_(Laufey_song)
 Godspeed_(Camila_Cabello_song)
 Gold_(Itzy_song)
 GomezX4
 Good_(Don't_Die)
-Good_Day_(BoyNextDoor_song)
+Good_Day_(Forrest_Frank_song)
 Good_Girl_(Candy_Shop_song)
 Good_Girl_Phase
 Good_Graces
 Good_Luck,_Babe!
+Good_News_(Shaboozey_song)
 Good_People_(Mumford_&_Sons_and_Pharrell_Williams_song)
 Good_So_Bad
 Goodnight_Adeline
 Gorgeous_(Katy_Perry_song)
+Gran_Vía_(song)
 Greatest_Fear
 Grieved_You
 Grito_(song)
@@ -106940,10 +107206,12 @@ H.Y.B._(song)
 Habits_(Eminem_song)
 Hai_Yorokonde
 Hakuna_Matata_(Gunna_song)
+Halo_(Quevedo_song)
 Hang_Tight_Honey
 Happy_for_You
 Happy_Hour_(Hardy_song)
 Happy_That_You_Found_Me
+Hard_Fought_Hallelujah
 Hardwired_(Gemma_Hayes_song)
 Hate_Me_(Lil_Yachty_and_Ian_song)
 Hate_the_World_Without_U_(Maddy's_Song)
@@ -106953,8 +107221,10 @@ He_Think_I_Love_Him
 Headhigh
 Headshot_(Anuel_AA_song)
 Heart_of_a_Woman_(song)
+Heart_of_Gold_(Shawn_Mendes_song)
 Heart_of_the_Woods_(song)
 The_Heart_Part_6
+Heart_Pt._6
 Heartbreaker_/_C'monova
 Heat_(SG_Lewis_and_Tove_Lo_song)
 Heat_Stick
@@ -106964,22 +107234,29 @@ Heaven_Is_(Kacey_Musgraves_song)
 Heavy_Is_the_Crown_(Linkin_Park_song)
 Hell's_Greatest_Dad
 Hello_Love_(Benson_Boone_song)
+Hello_Miss_Johnson
 Hello_World_(Gwen_Stefani_and_Anderson_.Paak_song)
 Help_Me_(Real_Boston_Richey_song)
+Here_I_Go_(The_Lonely_Island_song)
 Heroes_Are_Calling
+Hey_Jane_(song)
 Hey_Mercedes_(song)
 Heya_(Ive_song)
 High_in_Low_Places
 High_Road_(Koe_Wetzel_song)
+High_Road_(Zach_Bryan_song)
 Higher_(Burna_Boy_song)
+Higher_(Tom_Grennan_song)
 Higher_Ground_(Purple_Disco_Machine_song)
 Highjack
+Him_All_Along
 Hind's_Hall
 Hiss_(song)
 Hollon
 Hollywood_(Estevan_Plazola_song)
 Holy_Smokes_(Bailey_Zimmerman_song)
 Home_(Good_Neighbours_song)
+Home_Sweet_Home_(G-Dragon_song)
 Honey_Boy_(Purple_Disco_Machine_and_Benjamin_Ingrosso_song)
 Hood_Happy
 Hoodrat
@@ -106996,6 +107273,7 @@ Husband_(song)
 Hypé
 Hyururirapappa
 I_Adore_You_(Hugel,_Topic_and_Arash_song)
+I_Ain't_Sayin'
 I_Am_Not_Okay
 I_Can_Do_It_with_a_Broken_Heart
 I_Can_Fix_Him_(No_Really_I_Can)
@@ -107007,6 +107285,8 @@ I_Guess
 I_Had_a_Heart
 I_Had_Some_Help
 I_Hate_It_Here
+I_Hope_You_Find_Your_Way_Home
+I_Killed_You
 I_Know_It'll_Never_End
 I_Like_It_(Stray_Kids_song)
 I_Like_the_Way_You_Kiss_Me
@@ -107018,6 +107298,7 @@ I_p'_me,_tu_p'_te
 I_Saw_You_(song)
 I_Wanna_Know_(Zhang_Hao_song)
 I_Won't_Shake_(La_La_Gunilla)
+I'll_Be_There_(Jin_song)
 I'm_Free_(Paris_Hilton_and_Rina_Sawayama_song)
 I'm_Gonna_Love_You
 I'm_His,_He's_Mine
@@ -107025,25 +107306,32 @@ Ice_Age_(Don_Toliver_song)
 Ice_Cream_Piano
 If_We_Being_Real
 Igual_que_un_Ángel
+Iguales
 II_Hands_II_Heaven
 II_Most_Wanted
+Illuminati_(2024_song)
 Illusion_(song)
 ILUV
+Image_(song)
 Imagine_(Carbonne_song)
 Imán_(Two_of_Us)
 Imgonnagetyouback
+Immortal_Queen
 Imperfect_for_You
 Impossible_(Riize_song)
 In_My_Dreams_(Four_Tet_and_Ellie_Goulding_song)
 In_the_Middle_(Natalia_Barbu_song)
 In_Your_Hands_(song)
 Incredible_(Sia_song)
+Insecurities_(song)
 La_Intención
 Interlude_(Justin_Timberlake_song)
 Intro_(Benson_Boone_song)
 Intro_(End_of_the_World)
 IRan_(song)
 Isabella_(¥$_song)
+Iseoluwa
+It_Can't_Be_Christmas
 It's_Not_Easy_to_Write_a_Love_Song
 It's_OK_I'm_OK
 It's_Up
@@ -107057,7 +107345,9 @@ Jjam_(song)
 Johnny_(Basim_song)
 Jolene_(Beyoncé_song)
 Joni_(song)
+Joy_to_the_World_(Bini_song)
 Joyride_(Kesha_song)
+Judge_Judy_(song)
 Jump_(Tyla,_Gunna,_and_Skillibeng_song)
 June_Gloom_(song)
 Juno_(song)
@@ -107072,16 +107362,21 @@ Karma_(JoJo_Siwa_song)
 Karma_(Rod_Wave_song)
 Karma_(The_Kolors_song)
 Karma's_a_Bitch
+Kassandra_(song)
 Keep_Holding_On_(Becky_Hill_song)
 Keep_Pushin_(song)
 Keep_Up_(Odetari_song)
 Kehlani_(song)
+Kese_(Dance)
 Keys_to_My_Life
+Khé?
 Khul_Ke_Khel
 Killed_a_Man
 Kimi_wa_Honeydew
 Kindred_(song)
 King_(Kanye_West_and_Ty_Dolla_Sign_song)
+Kiss_the_Sky_(Maren_Morris_single)
+Kiss_the_Sky_(Maren_Morris_song)
 Kisses_(song)
 Klaxon_(song)
 Kool-Aid_(song)
@@ -107089,29 +107384,38 @@ Kryptonite_(Don_Toliver_song)
 Kurchi_Madathapetti
 L'amore_in_bocca
 L'Amour_de_Ma_Vie
+La_125
 La_Botella
 La_Patrulla
 La_Playlist
 La_rabbia_non_ti_basta
 La_Ranger
-La_Tóxica_(Alejandro_Fernández_and_Anitta_song)
 La_Última
 Laage_Ura_Dhura
+The_Largest_(song)
+LaSalle_Ave
+Last_Bell_(song)
 Last_Lap_(song)
 Last_Night_(JxW_song)
 Late_to_Bloom
 Lavica
 Lead_Me_On_(Fletcher_song)
+Leash_(Sky_Ferreira_song)
+Leash_(song)
+Leave_Me_Slowly
 Legendary_(Bon_Jovi_song)
 Let_It_Breathe
 Let_Me_Go_Oh_Oh
 Let_Your_Horses_Run
+Let's_Put_the_Christ_Back_in_Christmas
 Letter_to_My_Brudda
+Letter_to_Myself_(song)
 Letters_(Frank_Turner_song)
 Levii's_Jeans
 Levii's_Jeans_(song)
 Liar_(Jelly_Roll_song)
 Liar_(Silia_Kapsis_song)
+Liars_&_Thieves
 Lieb_mich
 Lies_Lies_Lies
 Life's_Changing
@@ -107119,10 +107423,15 @@ Lifestyle_(¥$_song)
 Lifetimes_(song)
 Lift_You_Up
 Light_(Annika_Wickihalder_song)
+Light_Again!
+Light_Year_(Practice)
 Lighter_(Galantis,_David_Guetta_and_5_Seconds_of_Summer_song)
+The_Lighthouse_(Stevie_Nicks_song)
 Lightning_and_Thunder_(song)
 Lights_Camera_Action_(Kylie_Minogue_song)
+Like_a_Flower_(song)
 Like_a_Freak
+Like_Him
 Like_That_(Future,_Metro_Boomin_and_Kendrick_Lamar_song)
 Like_What_(Freestyle)
 Lil_Demon
@@ -107140,6 +107449,7 @@ Look_at_My_Body
 Look_Who's_Laughing_Now
 Looking_for_a_Man_in_Finance
 Loop_(Sarah_Bonnici_song)
+Los_Días_Contados
 Lose_Ya_Breath
 Loser_(Apache_207_song)
 Loser,_Baby
@@ -107150,7 +107460,9 @@ Lost_Times
 Love_119
 Love_Birds_(Schoolboy_Q_song)
 Love_Bites_(Nelly_Furtado,_Tove_Lo_and_SG_Lewis_song)
+Love_Is_the_Only_Thing
 Love_Me_JeJe
+Love_of_God_(song)
 Love_of_Mine
 Love_On
 Love_Somebody_(Morgan_Wallen_song)
@@ -107166,6 +107478,9 @@ Lucky_(Halsey_song)
 Lucky_(Riize_song)
 Luktelk
 Lunch_(song)
+Luther_(song)
+Lyft_Em_Up
+Ma_meilleure_ennemie
 Ma_non_tutta_la_vita
 Made_My_Hoe_Faint
 Madonna_(Natanael_Cano_and_Óscar_Maydon_song)
@@ -107178,20 +107493,25 @@ Mamushi_(song)
 Man_of_My_Dreams
 Mantra_(Jennie_song)
 The_Manuscript_(song)
+Mappamondo_(Sarah_song)
 Maria_(Dua_Lipa_song)
 Marigolds_(song)
 Marry_F_Kill
 Mary_Boone_(song)
 Masc_(song)
 Maybe_(¥$_song)
+Mayday_(Three_Days_Grace_song)
 Me_Before_You_(song)
 Meanwhile_(Caroline_Polachek_song)
 Meet_the_Grahams
 Melodrama_(song)
+Meow_(Meovv_song)
 Mercedes_(Becky_G_and_Oscar_Maydon_song)
 Mesmerizer_(song)
 The_Mess_They_Made
 Messed_Up_as_Me
+Messy_(Lola_Young_song)
+Meteor_Man_(song)
 Mezzo_rotto
 Miami_(Apache_207_song)
 Michiteyuku
@@ -107201,6 +107521,7 @@ Midnight_Ride_(song)
 Mike_(Rod_Wave_song)
 Miles_on_It
 Million_Dollar_Baby_(Tommy_Richman_song)
+Mírame_(Blessd_song)
 Mirror_(Ado_song)
 Mittelmeer
 MJ_(song)
@@ -107209,7 +107530,8 @@ Modo_Capone
 Moi_(song)
 Monotone_(song)
 Moonlight_(Ian_Asher,_SB19_and_Terry_Zhong_song)
-Moonlit_Floor
+Moonlit_Floor_(Kiss_Me)
+Moonshines
 More_(Yeat_song)
 Morfina
 Motion_(Megan_Thee_Stallion_song)
@@ -107217,12 +107539,15 @@ Mountains_(Stray_Kids_song)
 Move_(Adam_Port_and_Stryv_song)
 Movie_(Schoolboy_Q_song)
 Moving_Out_(Kacey_Musgraves_song)
+Mr_Chow_(song)
 Mr_Pot_Scraper
 Mr._Inbetweenit
+Mr._Moondial
 Muchas_Gracias
 Mucho_Mucho_Muchooo
 Multiply_(Becky_Hill_song)
 Murdergram_Deux
+Music_Is_Better
 My_Boy_Only_Breaks_His_Favorite_Toys
 My_Favorite_Drug
 My_Oh_My_(Ava_Max_song)
@@ -107232,31 +107557,38 @@ My_Soul_(¥$_song)
 N.H.I.E.
 Nakama_(song)
 Namumula
+Nanani_Nanana
 Nassau_(song)
 Nasty_(Tinashe_song)
 Natanael_Cano:_Bzrp_Music_Sessions,_Vol._59
 Neck_on_a_Yacht
 Née-Nah
+Need_Dat_Boy
 Nel_(song)
 Neva_Play
 Never_Be_Alone_(Becky_Hill_and_Sonny_Fodera_song)
 Never_Be_Alone_(Becky_Hill_song)
-Never_Be_Yours_(Kali_Uchis_song)
+Never_Be_Yours
+Never_Get_Used_to_This
 Never_Going_Home_Tonight
 Never_Let_Go_(Jungkook_song)
 Never_Mind_(Rod_Wave_song)
 Never_Mind_the_Back_Problems
 New_Brain_(song)
 New_Drop
+New_Me
 New_Way_Out_(song)
 New_Woman_(song)
 Next_Semester
 Nice_Guy_(BoyNextDoor_song)
 Nice_to_Meet_You_(Imagine_Dragons_song)
+Nice_to_Meet_You_(Myles_Smith_song)
 Nidone
+Niente_di_male
 Night_(Stray_Kids_song)
 Nirvana_(Katy_Perry_song)
 No_Angels_(Justin_Timberlake_song)
+No_Broke_Boys
 No_Caller_ID
 No_Face_(song)
 No_Me_Cansare
@@ -107268,15 +107600,21 @@ No_Thank_You_(song)
 Nobody_(OneRepublic_song)
 Nobody_Knows_(Shawn_Mendes_song)
 Nobody's_Soldier
+Noemú
 La_noia_(song)
 Noid_(Tyler,_the_Creator_song)
+Non_c'è
+Not_an_Option
 Not_Like_Us
+Not_the_Same_(Rosé_song)
 Nothing_Change
 Nothing_Hurts_Like_Love_(Tom_Odell_song)
 Nothing_to_Be_Scared_Of
 Novum_Vetus
+Now_or_Never_(Pitbull_and_Bon_Jovi_song)
 Nowhere_to_Be
 Nu_Nu_(Schoolboy_Q_song)
+Number_One_Girl
 Number_One_Rule
 Oath_(Future_song)
 Ocean_(Future_song)
@@ -107289,7 +107627,6 @@ Okay_(JT_song)
 OKloser
 Old_Days_(Lil_Durk_song)
 Old_Navy_Blue
-Older_(Eden_Golan_song)
 Older_(Lizzy_McAlpine_song)
 Omega_(song)
 OMG_(Candelita_song)
@@ -107298,6 +107635,7 @@ On_One_Tonight
 One_Bad_Habit_(song)
 One_Beer_Away
 One_Eyed_Bastard
+One_Less_Question
 One_Milkali_(One_Blood)
 One_More_Time_(Sophie_song)
 One_Night_(Sia_song)
@@ -107316,11 +107654,13 @@ Otaku_Hot_Girl
 Otonoke
 Otro_Capítulo
 Outside_(Bryson_Tiller_song)
+Over_Each_Other
 Over_When_We're_Sober
 Overcompensate_(song)
 Overseas_(Ken_Carson_song)
 Özünlə_apar
 Pa_(song)
+Paars_in_the_Mars
 Paid_(Kanye_West_and_Ty_Dolla_Sign_song)
 Pandemic_PTSD
 Panic_Attack_(Judas_Priest_song)
@@ -107334,13 +107674,19 @@ Peace_Interlude
 Peace_U_Need
 Peligrosa_(FloyyMenor_song)
 La_People_II
+People_Still_Show_Up
+People_Watching_(Sam_Fender_song)
 Per_due_come_noi
 Perdonarte,_¿Para_Qué?
+Perfume_(Pale_Waves_song)
 Perfume_of_the_Timeless
+PerkySex
 Persuasion_(Bryson_Tiller_song)
 Peso_Completo
 Phat_Butt
+Piece_of_My_Heart_(Wizkid_song)
 Pig_Feet
+Pinacolada_(song)
 Pink_Skies
 Piss_(Doja_Cat_song)
 PJ_(song)
@@ -107351,8 +107697,10 @@ Point_Em_Out
 Poison_(Hazbin_Hotel_song)
 Pop_(Schoolboy_Q_song)
 Pop_Ur_Shit
+Por_Atrás
 Posta_(song)
 Pour_Me_a_Drink
+Power_(G-Dragon_song)
 Power_Trip_(Yeat_song)
 Prada_Dem
 Pravda_(song)
@@ -107374,16 +107722,23 @@ Prove_It_(21_Savage_and_Summer_Walker_song)
 Psycho_(Hardy_song)
 Psycho_CEO
 Psychocaine
+Punish_(song)
 Puntería
 Purple_Irises
+Push_2_Start
 Push_Ups_(song)
 Put_Em_in_the_Fridge
 Q&A_(Hyuna_song)
+Qué_Asco_de_Todo
+Qué_Pasaría...
 Que_Sera_(Medina_song)
 Quit!!_(song)
+Quitter_(song)
 Ra_ta_ta
+Rah_Tah_Tah
 Raise_the_Red_Flag
 Ramonda_(song)
+Ratata_(Tyler,_the_Creator_song)
 Ratatata
 Raw_(Victoria_Justice_song)
 Ready_'24
@@ -107394,6 +107749,7 @@ Red_(Descendants_song)
 Red_Leather
 Red_Sky_(21_Savage_song)
 Redrum_(21_Savage_song)
+Reincarnated_(song)
 Reminders_(song)
 Renaissance_(Eminem_song)
 Residuals_(song)
@@ -107409,7 +107765,6 @@ Riot_&_Set_It_Off
 Rise_Together
 Risk_(song)
 River_(¥$_and_Young_Thug_song)
-River_(¥$_song)
 Riverdance_(Beyoncé_song)
 Roc_Steady
 Rockstar_(Hardy_song)
@@ -107417,9 +107772,12 @@ Rockstar_(Lisa_song)
 Roma_(Luis_Fonsi_and_Laura_Pausini_song)
 Ronald_(song)
 Roses_(Jaehyun_song)
+Rossetto_e_caffè
+Roulette_(Sarah_song)
 Ruby_Rosary
 Run_They_Mouth
 Runners_(song)
+Running_Wild_(Jin_song)
 Sacrilegious_(song)
 Safe_Word_(song)
 Sailor_Song_(song)
@@ -107427,6 +107785,7 @@ Salamin,_Salamin
 Sanctified_(Justin_Timberlake_song)
 Sand_(Saba_song)
 Santa_(song)
+São_Paulo_(song)
 Sāp
 Satellite_Business_2.0
 Saturday_Mornings
@@ -107443,9 +107802,14 @@ See_the_Real
 Selfish_(Justin_Timberlake_song)
 Sesame_(song)
 Sesso_e_samba
+Sexy_magica
 Shade_(Yeat_song)
 Shampoo_(Kodak_Black_song)
+She_Stank
+She's_Leaving_You
 Sheesh_(Babymonster_song)
+Shibatto
+Shohikigen
 Shopper_(song)
 Should've_Wore_a_Bonnet
 Si_Antes_Te_Hubiera_Conocido
@@ -107494,7 +107858,8 @@ Sorry_Not_Sorry_(Lil_Yachty_and_Veeze_song)
 Sorrys_&_Ferraris
 Soul4Sale
 Sounds_Like_the_Radio
-Espacio_en_Tu_Corazón
+South_of_France_(song)
+Space_High
 Spaceship_(Rod_Wave_song)
 Spaghetti_(Beyoncé_song)
 The_Spark_(Kabin_Crew_and_Lisdoonvarna_Crew_song)
@@ -107504,20 +107869,24 @@ SportsCenter_(song)
 Spot_a_Fake
 Spot!
 Spring_Is_Coming_with_a_Strawberry_in_the_Mouth
+Squabble_Up
 St._Chroma
 Stand_on_It_(Yeat_song)
+Star_(Heavy_Moss_song)
 Starburster
 Stardust_(Zayn_song)
 Stargazing_(Myles_Smith_song)
 Starry_Night_(Fifty_Fifty_song)
 Stars_(¥$_song)
 Stars_Will_Align
+Stay_a_Little_Longer_(Rosé_song)
 Stay_Gold_(Bryson_Tiller_song)
 Stayed_Gone
 Stealin'_Love
 Steppas
 Sticks_&_Stones_(Joyner_Lucas_and_Conway_the_Machine_song)
 Sticky_(Kiss_of_Life_song)
+Sticky_(Tyler,_the_Creator_song)
 Still_Prevail
 Stone_in_Focus
 Storie_brevi
@@ -107525,13 +107894,16 @@ Straight_Line_(song)
 Strange_Days_Are_Here_to_Stay
 Strangers_(Lewis_Capaldi_song)
 Stray_Kids_(song)
+Street_Carol
 Stuck_in_the_Middle_(Babymonster_song)
 Subway_(Chappell_Roan_song)
-Sunday_Service_(song)
+Suffocate_(Knocked_Loose_song)
+Sunday_Service
 Super_Lady
 Supernatural_(Ariana_Grande_song)
 Supernatural_(NewJeans_song)
 Supernova_(Aespa_song)
+Supernova_Love
 Supersonic_(Fromis_9_song)
 The_Surfer_(song)
 Surfing_a_Tsunami
@@ -107548,30 +107920,37 @@ Swimming_Pool_(Florrie_song)
 Sympathy_Is_a_Knife
 Symptom_of_Life
 Taambdi_Chaamdi
+Tacchi_(fra_le_dita)
 Tailor_Swif
+Take_Your_Mask_Off
 Talk_My_Shit
 Talk_Talk_(Charli_XCX_song)
 Talking_/_Once_Again
 Taste_(Sabrina_Carpenter_song)
 Tauba_Tauba_(song)
 Taylor_Made_Freestyle
+Te_Fallé_(Quevedo_song)
 Team_CEO
 Teardrops_(Liam_Payne_song)
 Tears_(Perrie_Edwards_song)
+Tears_(Tyla_song)
 Teflon_Don_(song)
 Tell_Me_(Yeat_song)
 Tell_Ur_Girlfriend
 Temporary_(song)
 Teresa_&_Maria
 Tested,_Approved_&_Trusted
+Texas_(Blake_Shelton_song)
 Texas_Hold_'Em_(song)
 TGIF_(song)
+Th1_(evnslower)
 Thank_God_4_Me
 Thank_You_Aimee
 That's_My_Girl_(Russ_song)
 That's_Showbiz,_Baby
+That's_So_True
 That's_Who_I_Praise
-The_Ballad_of_the_Witches'_Road
+The_Rush_(song)
 There_She_Goes_(Benson_Boone_song)
 These_Walls_(Dua_Lipa_song)
 They're_All_Around_Us
@@ -107581,7 +107960,10 @@ The_Thin_Grey_Line
 Think_U_the_Shit_(Fart)
 This_Thread_Is_a_Green_Street
 This_Town's_Been_Too_Good_to_Us
+This_World's_a_Giant
+Thought_I_Was_Dead
 Ti_muovi
+Tick-Tack
 Tide_(song)
 Tie_Up
 Tiempo_Sin_Verte
@@ -107597,7 +107979,9 @@ Today_I_Did_Good
 Todo_(Becky_G_song)
 Told_My
 Tommy_&_Pamela
+Tomorrow_(Tyler,_the_Creator_song)
 Tonight_(Black_Eyed_Peas_and_El_Alfa_song)
+Too_Bad_for_Us
 Too_Fast
 Too_Good_to_Be_True_(Kacey_Musgraves_song)
 Too_Much_(Girl_in_Red_song)
@@ -107605,11 +107989,16 @@ Too_Sweet
 Tore_Up_(song)
 The_Tortured_Poets_Department_(song)
 Touch_(Katseye_song)
+Touching_the_Sky
 Tough_(Quavo_and_Lana_Del_Rey_song)
 Towards_the_Sun_(Sia_song)
 The_Tower_(song)
+Toxic_(Meovv_song)
+Toxic_Till_the_End
+La_Tóxica_(Alejandro_Fernández_and_Anitta_song)
 Trafik!
 Training_Season
+Treadmills_(song)
 Treesh
 Trio_(song)
 Tripped
@@ -107626,9 +108015,12 @@ Turn_the_Lights_Back_On
 Turn_Up_a_Notch
 Turtle_Race_(song)
 Tuta_gold
+TV_Off
 Twilight_(Stray_Kids_song)
 Twisting_Fingers
+Two_Faced_(song)
 Two_Hearts_(Post_Malone_song)
+Two_Years
 TYG_(song)
 Tyliai_tyliai
 Type_Shit
@@ -107642,22 +108034,28 @@ Un_ragazzo_una_ragazza
 Una_Foto_(Remix)
 Una_Velita
 Undead_(Yoasobi_song)
+Under_the_Tree_(Ed_Sheeran_song)
 Undertow_(Bryson_Tiller_song)
 Unforgettable_(Marcus_&_Martinus_song)
 Unga_&_fria
 Untouchable_(Itzy_song)
 Up_(Aespa_song)
 Up_All_Night_(James_Bay_song)
+UP!_(Forrest_Frank_and_Connor_Price_song)
 Urrrge!
 Us_(Gracie_Abrams_song)
 Us_vs._Them
 V.A.N_(song)
+Vampirehollie
 Vengeance_(Coldrain_song)
 Veronika_(song)
+Vilified
 Vino_Tinto
 Visto_Caro
 Vitamins_(song)
 Von_Dutch_(song)
+Wacced_Out_Murals
+Wait_for_You_(Myles_Smith_song)
 Wait_on_It
 Waited_2_Late
 Wake_Up_(Imagine_Dragons_song)
@@ -107671,8 +108069,10 @@ Waterfalls_(Bryson_Tiller_song)
 Wave_(Asake_and_Central_Cee_song)
 We_Can't_Be_Friends_(Wait_for_Your_Love)
 We_Don't_Trust_You_(song)
+We_Good
 We_Pray
 We_Still_Don't_Trust_You_(song)
+We_Uh_Shoot
 We_Will_Rave
 We're_All_Losing_It
 Weakest_Link_(song)
@@ -107680,6 +108080,7 @@ What_Do_You_Want_(Benson_Boone_song)
 What_Don't_Belong_to_Me
 What_I_Am_(Zayn_song)
 What_This_Could_Be
+What_Would_You_Do_(Wonho_song)
 Whatcha_Doing
 Whatcha_See_Is_Whatcha_Get_(Chris_Janson_song)
 Whatchu_Kno_About_Me
@@ -107701,6 +108102,7 @@ Why_Why_Why_(Shawn_Mendes_song)
 Why?_(Stray_Kids_song)
 WHYBMWL
 Wife_(song)
+Wildflower_(Billie_Eilish_song)
 Wildflower_and_Barley
 Wind_Up_Missin'_You
 Wine_Into_Whiskey
@@ -107710,27 +108112,29 @@ Woman's_World_(Katy_Perry_song)
 Wonder_(Katy_Perry_song)
 Work_It_Out_(Joe_Jonas_song)
 Workin_on_Me
+Worst_Case_Scenario_(Madi_Diaz_song)
 Wranglers_(song)
 Wreckage_(Pearl_Jam_song)
 Wrong_Ones
 Wunder_(Ayliva_song)
-WYA_(song)
 XLas_Nubes
 XXL_(Young_Posse_song)
 Ya_Ya_(Beyoncé_song)
 Yeah_Glo!
 Yeern_101
 Yes,_And?
-You_For_Christmas
+You_for_Christmas
 You_Go_Your_Way_(Perrie_Edwards_song)
 You_Look_Like_You_Love_Me
 You_Need_Me_Now?
 You'll_Be_OK,_Kid
 Young_Metro
 Young_Miko:_Bzrp_Music_Sessions,_Vol._58
+Young_Posse_Up
 Yours_(Post_Malone_song)
 Yura_Yura_(Unmei_no_Hana)
 Zari_(song)
 Zeit,_dass_sich_was_dreht
 Zeri_in_più_(Locura)
+Zettaiteki_Dairokkan
 Zombie_(Everglow_song)

@@ -6,7 +6,7 @@ Only focuses on song birthdays in the English Wikipedia. Not much about artists 
 Made this because other song birthday websites just aren't complete and omit the majority of songs (including some famous ones like [I Want It That Way](https://en.wikipedia.org/wiki/I_Want_It_That_Way)). Also for fun.
 
 ## Todo
-* Figure out which wiki categories are needed (and collect all page links under them)
+* Figure out which wiki categories are needed (and collect all page links under them) ✅
   * [Songs by year](https://en.wikipedia.org/wiki/Category:Songs_by_year)
     * [Eurovision songs by year](https://en.wikipedia.org/wiki/Category:Eurovision_songs_by_year) (some pages like [this](https://en.wikipedia.org/w/index.php?title=What_Love_Is_(song)&oldid=1164588474) are not part of the songs categories themselves)
     * [Year of song missing](https://en.wikipedia.org/wiki/Category:Year_of_song_missing) and [unknown](https://en.wikipedia.org/wiki/Category:Year_of_song_unknown) (just to be complete and safe)
@@ -18,6 +18,7 @@ Made this because other song birthday websites just aren't complete and omit the
     * Normal individual year categories (of course)
 * Find a way to extract information from [wiki infoboxes](https://en.wikipedia.org/wiki/Help:Infobox) ✅
   * Shoutout to [spencermountain](https://github.com/spencermountain)'s [wtf-wikipedia](https://github.com/spencermountain/wtf_wikipedia), **the only** wikitext parser that correctly handles infoboxes (to my best knowledge). Thanks!
+* Deal with [redirects to albums](https://en.wikipedia.org/w/index.php?title=Via_Dolorosa_(song)&oldid=1197232866) or [people](https://en.wikipedia.org/w/index.php?title=N-N-Nineteen_Not_Out&oldid=1257022163) or [Eurovision](https://en.wikipedia.org/w/index.php?title=Cliche_Love_Song&oldid=1075394663) or [other pages](https://en.wikipedia.org/w/index.php?title=Welcome_to_LazyTown&oldid=1206159027)
 * Figure out which infobox attributes are needed (and determine order of importance)
   * [released](https://en.wikipedia.org/w/index.php?title=Die_with_a_Smile&oldid=1262437254), [published](https://en.wikipedia.org/w/index.php?title=Ekla_Chalo_Re&oldid=1249194214), [composed](https://en.wikipedia.org/w/index.php?title=Allerseelen_(Strauss)&oldid=1252214203), [recorded](https://en.wikipedia.org/w/index.php?title=Nobody_(1905_song)&oldid=1255091399), [premiere_date](https://en.wikipedia.org/w/index.php?title=Höstkväll&oldid=1213944779), ...
   * To be comprehensive, every page's infobox data will need to be parsed first

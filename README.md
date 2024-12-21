@@ -20,11 +20,16 @@ Made this because other song birthday websites just aren't complete and omit the
   * Shoutout to [spencermountain](https://github.com/spencermountain)'s [wtf-wikipedia](https://github.com/spencermountain/wtf_wikipedia), **the only** wikitext parser that correctly handles infoboxes (to my best knowledge). Thanks!
 * Deal with [redirects to albums](https://en.wikipedia.org/w/index.php?title=Via_Dolorosa_(song)&oldid=1197232866) or [people](https://en.wikipedia.org/w/index.php?title=N-N-Nineteen_Not_Out&oldid=1257022163) or [Eurovision](https://en.wikipedia.org/w/index.php?title=Cliche_Love_Song&oldid=1075394663) or [other pages](https://en.wikipedia.org/w/index.php?title=Welcome_to_LazyTown&oldid=1206159027) ✅
   * To my best knowledge, redirects to other song pages are [rare](https://en.wikipedia.org/w/index.php?title=Crying_Shame_(Muse_song)&oldid=1143052951) and said song pages are already in the above categories, so redirects will be ignored
-* Filter unneeded infobox data
+* Filter unneeded infobox data ✅
   * Figure out which infobox types are needed
   * Figure out which infobox attributes are needed (and determine order of importance)
     * Ex: [this song](https://en.wikipedia.org/w/index.php?title=Stardust_(1927_song)&oldid=1263625839) was written in 1927, recorded on October 31, 1927, released in October 1928, and published on January 19, 1929. **Which should be considered first?**
-* Collect all relevant data and neatly arrange them in text files
-* Manage the [**ugly**](https://en.wikipedia.org/w/index.php?title=Big_Joe_Mufferaw_(song)&oldid=1238351909), [**inconsistent**](https://en.wikipedia.org/w/index.php?title=After_All_(David_Bowie_song)&oldid=1225355888) and [**very ugly**](https://en.wikipedia.org/w/index.php?title=Everything_Is_(song)&oldid=1229964742) date formats and parse them to a more structured one
-* Make a script for filtering the songs based on given birthdates
-* Figure out how to order the songs (perhaps based on [pageview statistics](https://en.wikipedia.org/wiki/Wikipedia:Pageview_statistics))
+* Collect all relevant data and neatly arrange them in text files ✅
+  * Half-manually deal with some [very](https://en.wikipedia.org/w/index.php?title=Swiss_Psalm&oldid=1256428339) [ugly](https://en.wikipedia.org/w/index.php?title=Jai_Jai_Maharashtra_Majha&oldid=1262451594#2004_version) [exceptions](https://en.wikipedia.org/w/index.php?title=Go_Down_Moses&oldid=1253619218)<sup>[1]</sup> and formatting issues not fixed by wtf-wikipedia
+* Manage the [**ugly**](https://en.wikipedia.org/w/index.php?title=Big_Joe_Mufferaw_(song)&oldid=1238351909), [**inconsistent**](https://en.wikipedia.org/w/index.php?title=After_All_(David_Bowie_song)&oldid=1225355888) and [**very ugly**](https://en.wikipedia.org/w/index.php?title=Everything_Is_(song)&oldid=1229964742) date formats and parse them to a more structured one ✅
+* Make a script for filtering the songs based on given birthdates ✅
+* Figure out how to order the songs (perhaps based on [pageview statistics](https://en.wikipedia.org/wiki/Wikipedia:Pageview_statistics)) ✅
+* Make the whole thing look reasonably good for the eyes
+
+## Footnotes
+<sup>[1]</sup>This particular page has the text "Fisk Jubilee Singers (earliest attested)" as its [cover](https://en.wikipedia.org/wiki/Template:Infobox_song#cover) attribute, which is supposed to be for images. This is a unique exception, but there are many others.

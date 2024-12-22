@@ -29,7 +29,7 @@ Made this because other song birthday websites just aren't complete and omit the
 * Manage the [**ugly**](https://en.wikipedia.org/w/index.php?title=Big_Joe_Mufferaw_(song)&oldid=1238351909), [**inconsistent**](https://en.wikipedia.org/w/index.php?title=After_All_(David_Bowie_song)&oldid=1225355888) and [**very ugly**](https://en.wikipedia.org/w/index.php?title=Everything_Is_(song)&oldid=1229964742) date formats and parse them to a more structured one ✅
 * Make a script for filtering the songs based on given birthdates ✅
 * Figure out how to order the songs (perhaps based on [pageview statistics](https://en.wikipedia.org/wiki/Wikipedia:Pageview_statistics)) ✅
-* Make the whole thing look reasonably good for the eyes
+* Make the whole thing look reasonably good for the eyes ✅
 
 ## Footnotes
 <sup>[1]</sup>This particular page has the text "Fisk Jubilee Singers (earliest attested)" as its [cover](https://en.wikipedia.org/wiki/Template:Infobox_song#cover) attribute, which is supposed to be for images. This is a unique exception, but there are many others.

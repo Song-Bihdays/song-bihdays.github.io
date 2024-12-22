@@ -16,6 +16,14 @@ let BIHDAY_ARR = [];
 let pageIndex = 0;
 let successCount = 0;
 
+function render(arr){
+    let htmlString = "";
+    for (let song of arr){
+        htmlString += `<div class="songContainer">${(song[4] == "" ? "" : `<img src="${song[5]}" width="220px">`)}<div class="songData"><h3><a href="https://en.wikipedia.org/wiki/${song[0]}" target="_blank">${song[1]}</a></h3><h4>${song[2]}</h4><p>Birthday: ${song[3]}</p></div></div>`;
+    }
+    $("#songs").innerHTML = htmlString;
+}
+
 function fetchImages(i, MAX){
     fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&origin=*&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
         for (let obj of Object.values(res["query"]["pages"])){
@@ -81,6 +89,7 @@ function fetchViews(i, MAX){
                 }
                 BIHDAY_ARR = BIHDAY_ARR.sort((a, b) => b[6] - a[6]);
                 console.log(BIHDAY_ARR);
+                render(BIHDAY_ARR);
             }else{
                 console.log(`${successCount}/${Object.keys(BIHDAY_OBJ).length} pageviews fetched.`);
                 console.log("Refetching pageviews...");
@@ -93,7 +102,7 @@ function fetchViews(i, MAX){
 }
 
 if (localStorage.getItem("SONG_DATA") === null){
-    fetch(`https://raw.githubusercontent.com/Song-Bihdays/song-bihdays.github.io/refs/heads/main/txt/data/song-data-cropped.txt`).then(res => res.text()).then(text => {
+    fetch("/txt/data/song-data-cropped.txt").then(res => res.text()).then(text => {
         console.log("Fetched cropped data!");
         localStorage.setItem("SONG_DATA", LZString.compress(text));
         console.log("localStorage set up!");

@@ -1,0 +1,49 @@
+@font-face{
+    font-family: Hammersmith One;
+    src: url('/fonts/HammersmithOne.ttf');
+}
+
+body{
+    color: white;
+    font-family: Hammersmith One;
+    background-image: url('/images/background.jpg');
+}
+
+h1, h2, #heading{
+    text-align: center;
+}
+
+#layer{
+    background-color: rgba(50, 50, 50, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -100;
+}
+
+.songContainer{
+    margin:auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    width:70vw;
+    color: black;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+
+img{
+    display: inline-block;
+    border-radius: 15px 0px 0px 0px;
+}
+
+.songData{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 25px;
+}
+
+div > .songContainer{
+    margin-top: 20px;
+}

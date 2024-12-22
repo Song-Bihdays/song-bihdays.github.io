@@ -17,7 +17,7 @@ let pageIndex = 0;
 let successCount = 0;
 
 function fetchImages(i, MAX){
-    fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
+    fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&origin=*&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
         for (let obj of Object.values(res["query"]["pages"])){
             if (obj["imageinfo"] !== undefined){
                 if (obj["imageinfo"][0]["thumburl"] !== undefined){
@@ -58,7 +58,7 @@ function fetchImages(i, MAX){
 }
 
 function fetchViews(i, MAX){
-    fetch(`https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageviews&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
+    fetch(`https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageviews&origin=*&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
         for (let obj of Object.values(res["query"]["pages"])){
             let totalViews = 0;
             if (obj["pageviews"] !== undefined){

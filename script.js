@@ -19,7 +19,7 @@ let successCount = 0;
 function render(arr){
     let htmlString = "";
     for (let song of arr){
-        htmlString += `<div class="songContainer">${(song[4] == "" ? "" : `<img src="${song[5]}" width="220px">`)}<div class="songData"><h3><a href="https://en.wikipedia.org/wiki/${song[0]}" target="_blank">${song[1]}</a></h3><h4>${song[2]}</h4><p>Birthday: ${song[3]}</p></div></div>`;
+        htmlString += `<div class="songContainer">${(song[4] == "" ? "" : `<img src="${song[5]}" width="220px">`)}<div class="songData"><h3><a href="https://en.wikipedia.org/wiki/${encodeURIComponent(song[0])}" target="_blank">${song[1]}</a></h3><h4>${song[2]}</h4><p>Birthday: ${song[3]}</p></div></div>`;
     }
     $("#songs").innerHTML = htmlString;
 }
@@ -101,10 +101,11 @@ function fetchViews(i, MAX){
     });
 }
 
-if (localStorage.getItem("SONG_DATA") === null){
+if (localStorage.getItem("SONG_DATA") === null || localStorage.getItem("version") === null){
     fetch("/txt/data/song-data-cropped.txt").then(res => res.text()).then(text => {
         console.log("Fetched cropped data!");
         localStorage.setItem("SONG_DATA", LZString.compress(text));
+        localStorage.setItem("version", 1);
         console.log("localStorage set up!");
         DATA = text.split("\r\n");
         DATA.pop();

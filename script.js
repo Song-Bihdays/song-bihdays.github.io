@@ -96,8 +96,6 @@ function fetchViews(i, MAX){
             fetchViews(pageIndex, MAX);
             log(`${i * PAGES_PER_FETCH} pages thus far!`);
         }else{
-            log(MAX);
-            log(PAGES_PER_FETCH*i + PAGES_PER_FETCH);
             if (successCount == Object.keys(BIHDAY_OBJ).length){
                 log("DONE fetching pageviews!");
                 for (let song of Object.keys(BIHDAY_OBJ)){

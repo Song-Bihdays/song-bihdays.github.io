@@ -9,7 +9,7 @@ body:not(textarea){
     background-image: url('/images/background.jpg');
 }
 
-h1, h2, #heading{
+h1, h2, p{
     text-align: center;
 }
 

@@ -3,7 +3,7 @@
     src: url('/fonts/HammersmithOne.ttf');
 }
 
-body{
+body:not(textarea){
     color: white;
     font-family: Hammersmith One;
     background-image: url('/images/background.jpg');
@@ -25,9 +25,9 @@ h1, h2, #heading{
 }
 
 .songContainer{
-    margin:auto;
+    margin: auto;
     background-color: rgba(255, 255, 255, 0.7);
-    width:70vw;
+    width: 70vw;
     color: black;
     border-radius: 15px;
     padding-bottom: 10px;
@@ -46,4 +46,11 @@ img{
 
 div > .songContainer{
     margin-top: 20px;
+}
+
+textarea{
+    background-color: black;
+    color: yellow;
+    display: block;
+    margin: auto;
 }

@@ -23,7 +23,7 @@ function log(text=""){
     pageLog.scrollTop = pageLog.scrollHeight;
 }
 
-log("====LOG START====")
+log("====LOG START====");
 log("script.js working!");
 
 function render(arr){

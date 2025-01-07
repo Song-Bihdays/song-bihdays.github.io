@@ -36,26 +36,26 @@ function render(arr){
 }
 
 function fetchImages(i, MAX){
-    fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&origin=*&titles=${imageNames.slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|")}`.replaceAll("%25", "%")).then(res => res.json()).then(res => {
+    fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&origin=*&titles=${imageNames.slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i + PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|")}`.replaceAll("%25", "%")).then(res => res.json()).then(res => {
         for (let obj of Object.values(res["query"]["pages"])){
             if (obj["imageinfo"] !== undefined){
                 if (obj["imageinfo"][0]["thumburl"] !== undefined){
                     successCount++;
-                    BIHDAY_OBJ[firstUppercase(obj["title"].slice(5).replaceAll(" ", "_"))][4] = obj["imageinfo"][0]["thumburl"];
+                    BIHDAY_OBJ[decodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))][4] = obj["imageinfo"][0]["thumburl"];
                 }
             }else if (obj["missing"] !== undefined){
-                BIHDAY_ARR.push([...BIHDAY_OBJ[firstUppercase(obj["title"].slice(5).replaceAll(" ", "_"))], ""]);
-                delete BIHDAY_OBJ[firstUppercase(obj["title"].slice(5).replaceAll(" ", "_"))];
+                BIHDAY_ARR.push([...BIHDAY_OBJ[decodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))], ""]);
+                delete BIHDAY_OBJ[decodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))];
             }
         }
         if (PAGES_PER_FETCH*i + PAGES_PER_FETCH <= MAX){
+            log(`${i * PAGES_PER_FETCH + PAGES_PER_FETCH} pages thus far!`);
             pageIndex++;
             fetchImages(pageIndex, MAX);
-            log(`${i * PAGES_PER_FETCH} pages thus far!`);
         }else{
             pageIndex = 0;
             if (successCount == Object.keys(BIHDAY_OBJ).length){
-                log("DONE fetching images!");
+                log(`DONE fetching images! (${successCount})`);
                 let i = BIHDAY_ARR.length;
                 for (let song of Object.keys(BIHDAY_OBJ)){
                     BIHDAY_ARR.push(BIHDAY_OBJ[song]);
@@ -70,7 +70,7 @@ function fetchImages(i, MAX){
                 BIHDAY_ARR = [];
                 log();
                 log("Fetching pageviews...")
-                fetchViews(0, BIHDAY_OBJ.length-1);
+                fetchViews(0, Object.keys(BIHDAY_OBJ).length-1);
             }else{
                 log(`${successCount}/${Object.keys(BIHDAY_OBJ).length} images fetched.`);
                 log("Refetching images...");
@@ -82,7 +82,7 @@ function fetchImages(i, MAX){
 }
 
 function fetchViews(i, MAX){
-    fetch(`https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageviews&origin=*&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
+    fetch(`https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageviews&origin=*&titles=${Object.keys(BIHDAY_OBJ).slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i + PAGES_PER_FETCH).map(song => encodeURIComponent(song)).join("|")}`).then(res => res.json()).then(res => {
         for (let obj of Object.values(res["query"]["pages"])){
             let totalViews = 0;
             if (obj["pageviews"] !== undefined){
@@ -92,12 +92,12 @@ function fetchViews(i, MAX){
             BIHDAY_OBJ[obj["title"].replaceAll(" ", "_")][5] = totalViews;
         }
         if (PAGES_PER_FETCH*i + PAGES_PER_FETCH <= MAX){
+            log(`${i * PAGES_PER_FETCH + PAGES_PER_FETCH} pages thus far!`);
             pageIndex++;
             fetchViews(pageIndex, MAX);
-            log(`${i * PAGES_PER_FETCH} pages thus far!`);
         }else{
             if (successCount == Object.keys(BIHDAY_OBJ).length){
-                log("DONE fetching pageviews!");
+                log(`DONE fetching pageviews! (${successCount})`);
                 for (let song of Object.keys(BIHDAY_OBJ)){
                     BIHDAY_ARR.push([song, ...BIHDAY_OBJ[song]]);
                 }
@@ -141,7 +141,7 @@ if (localStorage.getItem("SONG_DATA") === null || localStorage.getItem("version"
     log("Fetched localStorage!");
     for (let bihdayData of DATA.filter(data => data.includes(searchString)).map(data => data.split("|"))){
         if (bihdayData[4] != ""){
-            BIHDAY_OBJ[firstUppercase(bihdayData[4].replaceAll(" ", "_"))] = bihdayData.slice(0,4);
+            BIHDAY_OBJ[decodeURIComponent(firstUppercase(bihdayData[4].replaceAll(" ", "_")))] = bihdayData.slice(0,4);
         }else{
             BIHDAY_ARR.push(bihdayData);
         }

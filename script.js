@@ -36,7 +36,7 @@ function render(arr){
 }
 
 function fetchImages(i, MAX){
-    fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&origin=*&titles=${imageNames.slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|").replaceAll("%25", "%")}`).then(res => res.json()).then(res => {
+    fetch(`https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&iiurlwidth=220&origin=*&titles=${imageNames.slice(PAGES_PER_FETCH*i, PAGES_PER_FETCH*i+PAGES_PER_FETCH).map(song => "File:" + encodeURIComponent(song)).join("|")}`.replaceAll("%25", "%")).then(res => res.json()).then(res => {
         for (let obj of Object.values(res["query"]["pages"])){
             if (obj["imageinfo"] !== undefined){
                 if (obj["imageinfo"][0]["thumburl"] !== undefined){

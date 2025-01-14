@@ -125,7 +125,12 @@ if (localStorage.getItem("SONG_DATA") === null || localStorage.getItem("version"
         DATA.pop();
         for (let bihdayData of DATA.filter(data => data.includes(searchString)).map(data => data.split("|"))){
             if (bihdayData[4] != ""){
-                BIHDAY_OBJ[firstUppercase(bihdayData[4].replaceAll(" ", "_"))] = bihdayData.slice(0,4);
+                let keyName = firstUppercase(bihdayData[4].replaceAll(" ", "_"));
+                try{
+                    BIHDAY_OBJ[decodeURIComponent(keyName)] = bihdayData.slice(0,4);
+                }catch{
+                    BIHDAY_OBJ[keyName] = bihdayData.slice(0,4);
+                }
             }else{
                 BIHDAY_ARR.push(bihdayData);
             }
@@ -141,7 +146,12 @@ if (localStorage.getItem("SONG_DATA") === null || localStorage.getItem("version"
     log("Fetched localStorage!");
     for (let bihdayData of DATA.filter(data => data.includes(searchString)).map(data => data.split("|"))){
         if (bihdayData[4] != ""){
-            BIHDAY_OBJ[decodeURIComponent(firstUppercase(bihdayData[4].replaceAll(" ", "_")))] = bihdayData.slice(0,4);
+            let keyName = firstUppercase(bihdayData[4].replaceAll(" ", "_"));
+            try{
+                BIHDAY_OBJ[decodeURIComponent(keyName)] = bihdayData.slice(0,4);
+            }catch{
+                BIHDAY_OBJ[keyName] = bihdayData.slice(0,4);
+            }
         }else{
             BIHDAY_ARR.push(bihdayData);
         }

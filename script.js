@@ -7,6 +7,13 @@ let searchString = String(DATE.getDate()).padStart(2, "0") + "/" + months[DATE.g
 
 const $ = q => document.querySelector(q);
 const firstUppercase = string => string[0].toUpperCase() + string.slice(1);
+const smartDecodeURIComponent = txt => {
+    try{
+        return decodeURIComponent(txt);
+    }catch{
+        return txt;
+    }
+}
 const pageLog = $("#pageLog");
 pageLog.value = "";
 
@@ -41,11 +48,11 @@ function fetchImages(i, MAX){
             if (obj["imageinfo"] !== undefined){
                 if (obj["imageinfo"][0]["thumburl"] !== undefined){
                     successCount++;
-                    BIHDAY_OBJ[decodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))][4] = obj["imageinfo"][0]["thumburl"];
+                    BIHDAY_OBJ[smartDecodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))][4] = obj["imageinfo"][0]["thumburl"];
                 }
             }else if (obj["missing"] !== undefined){
-                BIHDAY_ARR.push([...BIHDAY_OBJ[decodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))], ""]);
-                delete BIHDAY_OBJ[decodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))];
+                BIHDAY_ARR.push([...BIHDAY_OBJ[smartDecodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))], ""]);
+                delete BIHDAY_OBJ[smartDecodeURIComponent(firstUppercase(obj["title"].slice(5).replaceAll(" ", "_")))];
             }
         }
         if (PAGES_PER_FETCH*i + PAGES_PER_FETCH <= MAX){
@@ -125,12 +132,7 @@ if (localStorage.getItem("SONG_DATA") === null || localStorage.getItem("version"
         DATA.pop();
         for (let bihdayData of DATA.filter(data => data.includes(searchString)).map(data => data.split("|"))){
             if (bihdayData[4] != ""){
-                let keyName = firstUppercase(bihdayData[4].replaceAll(" ", "_"));
-                try{
-                    BIHDAY_OBJ[decodeURIComponent(keyName)] = bihdayData.slice(0,4);
-                }catch{
-                    BIHDAY_OBJ[keyName] = bihdayData.slice(0,4);
-                }
+                BIHDAY_OBJ[smartDecodeURIComponent(firstUppercase(bihdayData[4].replaceAll(" ", "_")))] = bihdayData.slice(0,4);
             }else{
                 BIHDAY_ARR.push(bihdayData);
             }
@@ -146,12 +148,7 @@ if (localStorage.getItem("SONG_DATA") === null || localStorage.getItem("version"
     log("Fetched localStorage!");
     for (let bihdayData of DATA.filter(data => data.includes(searchString)).map(data => data.split("|"))){
         if (bihdayData[4] != ""){
-            let keyName = firstUppercase(bihdayData[4].replaceAll(" ", "_"));
-            try{
-                BIHDAY_OBJ[decodeURIComponent(keyName)] = bihdayData.slice(0,4);
-            }catch{
-                BIHDAY_OBJ[keyName] = bihdayData.slice(0,4);
-            }
+            BIHDAY_OBJ[smartDecodeURIComponent(firstUppercase(bihdayData[4].replaceAll(" ", "_")))] = bihdayData.slice(0,4);
         }else{
             BIHDAY_ARR.push(bihdayData);
         }

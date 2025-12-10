@@ -30,12 +30,22 @@ h1, h2, .center{
     width: 70vw;
     color: black;
     border-radius: 15px;
-    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 220px auto;
+    padding-bottom: 7.5px;
+    align-items: stretch;
 }
 
-img{
+.songContainer img:first-of-type{
     display: inline-block;
     border-radius: 15px 0px 0px 0px;
+}
+
+.imageContainer{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px 0px 0px 15px;
+    padding-bottom: 7.5px;
 }
 
 .songData{
